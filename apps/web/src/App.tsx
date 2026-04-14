@@ -180,6 +180,26 @@ export default function App() {
         >
           <TicketList gittertiere={gittertiere} />
         </Section>
+
+        {/* CTA */}
+        <div className="rounded-xl border border-amber-500/20 bg-amber-500/5 p-6 sm:p-8 text-center">
+          <p className="text-2xl mb-2">🛒👀</p>
+          <h3 className="text-lg font-bold text-zinc-100 mb-2">
+            Gittertier in freier Wildbahn gesichtet?
+          </h3>
+          <p className="text-zinc-400 text-sm mb-4 max-w-lg mx-auto">
+            Melde entlaufene Einkaufswagen direkt über den offiziellen mags
+            Mängelmelder. Jede Sichtung zählt für die Forschung!
+          </p>
+          <a
+            href="https://mags.de/service/mags-melder/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block px-6 py-2.5 rounded-lg bg-amber-500 hover:bg-amber-400 text-zinc-900 font-bold text-sm transition-colors"
+          >
+            Sichtung melden
+          </a>
+        </div>
       </main>
 
       {/* Footer */}
