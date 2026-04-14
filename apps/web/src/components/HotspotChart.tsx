@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 import {
   BarChart,
   Bar,
@@ -13,7 +14,27 @@ interface HotspotChartProps {
   gittertiere: Gittertier[];
 }
 
+const SHORT_NAMES: Record<string, string> = {
+  "Lürrip / Hardterbroich": "Lürrip / H.",
+  "Eicken / Bonnenbroich": "Eicken / B.",
+  "Holt / Westend": "Holt / W.",
+};
+
+function useIsMobile() {
+  const [mobile, setMobile] = useState(
+    typeof window !== "undefined" && window.innerWidth < 640,
+  );
+  useEffect(() => {
+    const onResize = () => setMobile(window.innerWidth < 640);
+    window.addEventListener("resize", onResize);
+    return () => window.removeEventListener("resize", onResize);
+  }, []);
+  return mobile;
+}
+
 export function HotspotChart({ gittertiere }: HotspotChartProps) {
+  const isMobile = useIsMobile();
+
   const countByNeighborhood = new Map<string, number>();
   for (const g of gittertiere) {
     const name = g.neighborhood;
@@ -21,7 +42,10 @@ export function HotspotChart({ gittertiere }: HotspotChartProps) {
   }
 
   const data = Array.from(countByNeighborhood.entries())
-    .map(([name, count]) => ({ name, count }))
+    .map(([name, count]) => ({
+      name: isMobile ? (SHORT_NAMES[name] ?? name) : name,
+      count,
+    }))
     .sort((a, b) => b.count - a.count);
 
   if (data.length === 0) {
@@ -32,26 +56,29 @@ export function HotspotChart({ gittertiere }: HotspotChartProps) {
     );
   }
 
+  const yAxisWidth = isMobile ? 75 : 110;
+  const leftMargin = isMobile ? 0 : 10;
+
   return (
     <div className="h-[300px] w-full">
       <ResponsiveContainer width="100%" height="100%">
         <BarChart
           data={data}
           layout="vertical"
-          margin={{ left: 120, right: 20 }}
+          margin={{ left: leftMargin, right: 10, top: 5, bottom: 5 }}
         >
           <XAxis
             type="number"
             stroke="#71717a"
-            tick={{ fill: "#a1a1aa" }}
+            tick={{ fill: "#a1a1aa", fontSize: isMobile ? 11 : 12 }}
             allowDecimals={false}
           />
           <YAxis
             type="category"
             dataKey="name"
             stroke="#71717a"
-            tick={{ fill: "#a1a1aa", fontSize: 12 }}
-            width={110}
+            tick={{ fill: "#a1a1aa", fontSize: isMobile ? 11 : 12 }}
+            width={yAxisWidth}
           />
           <Tooltip
             contentStyle={{
