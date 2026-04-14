@@ -2,6 +2,7 @@ import { useSnapshot } from "./hooks/useSnapshot";
 import { HeroStats } from "./components/HeroStats";
 import { GittertierMap } from "./components/GittertierMap";
 import { HotspotChart } from "./components/HotspotChart";
+import { PopulationTimeline } from "./components/PopulationTimeline";
 import { TicketList } from "./components/TicketList";
 import { FunFacts } from "./components/FunFacts";
 
@@ -27,7 +28,7 @@ function Section({
 }
 
 export default function App() {
-  const { snapshot, error, loading } = useSnapshot();
+  const { snapshot, history, error, loading } = useSnapshot();
 
   if (loading) {
     return (
@@ -148,6 +149,13 @@ export default function App() {
               Zurück im Gehege
             </span>
           </div>
+        </Section>
+
+        <Section
+          title="Populationsentwicklung"
+          subtitle="Wie sich die Gittertier-Population über die Zeit entwickelt"
+        >
+          <PopulationTimeline history={history} />
         </Section>
 
         <Section

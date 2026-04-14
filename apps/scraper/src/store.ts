@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
-import type { Snapshot } from "@gittertier/shared";
+import type { Snapshot, HistoryEntry } from "@gittertier/shared";
 
 const DATA_DIR = join(import.meta.dir, "../../../data");
 
@@ -42,4 +42,29 @@ export function listSnapshots(): string[] {
   return readdirSync(DATA_DIR)
     .filter((f) => f.startsWith("snapshot-") && f.endsWith(".json"))
     .sort();
+}
+
+/** Load history entries */
+export function loadHistory(): HistoryEntry[] {
+  ensureDataDir();
+  const filepath = join(DATA_DIR, "history.json");
+  if (!existsSync(filepath)) return [];
+  return JSON.parse(readFileSync(filepath, "utf-8")) as HistoryEntry[];
+}
+
+/** Append a history entry (or update today's if scraper runs multiple times) */
+export function saveHistory(entry: HistoryEntry): string {
+  ensureDataDir();
+  const filepath = join(DATA_DIR, "history.json");
+  const history = loadHistory();
+
+  const existingIndex = history.findIndex((h) => h.date === entry.date);
+  if (existingIndex >= 0) {
+    history[existingIndex] = entry;
+  } else {
+    history.push(entry);
+  }
+
+  writeFileSync(filepath, JSON.stringify(history, null, 2));
+  return filepath;
 }

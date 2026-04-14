@@ -4,6 +4,7 @@ export type {
   GittertierStatus,
   Gittertier,
   Snapshot,
+  HistoryEntry,
 } from "./types.js";
 
 export {

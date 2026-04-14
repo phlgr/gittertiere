@@ -51,3 +51,16 @@ export interface Snapshot {
   totalMagsReports: number;
   gittertiere: Gittertier[];
 }
+
+/** A single daily history entry appended by the scraper */
+export interface HistoryEntry {
+  date: string;
+  total: number;
+  neu: number;
+  inArbeit: number;
+  geloest: number;
+  totalMagsReports: number;
+  newSightings: number;
+  removed: number;
+  byNeighborhood: Record<string, { total: number; neu: number; inArbeit: number; geloest: number }>;
+}

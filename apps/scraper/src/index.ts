@@ -1,7 +1,7 @@
-import { isGittertier, toGittertier, type Snapshot } from "@gittertier/shared";
+import { isGittertier, toGittertier, type Snapshot, type HistoryEntry } from "@gittertier/shared";
 import { fetchMagsData } from "./fetch.js";
 import { diffSnapshots } from "./diff.js";
-import { loadLatestSnapshot, saveLatest, saveSnapshot } from "./store.js";
+import { loadLatestSnapshot, saveLatest, saveSnapshot, saveHistory } from "./store.js";
 
 async function main() {
   console.log("🛒 Gittertier Scraper – fetching mags Mängelmelder data...");
@@ -23,8 +23,9 @@ async function main() {
 
   // Diff against previous snapshot
   const previous = loadLatestSnapshot();
-  if (previous) {
-    const diff = diffSnapshots(previous, snapshot);
+  const diff = previous ? diffSnapshots(previous, snapshot) : null;
+
+  if (diff) {
     if (diff.newSightings.length > 0) {
       console.log(`\n  🆕 New sightings: ${diff.newSightings.length}`);
       for (const s of diff.newSightings) {
@@ -49,10 +50,37 @@ async function main() {
     }
   }
 
+  // Build history entry
+  const byNeighborhood: HistoryEntry["byNeighborhood"] = {};
+  for (const g of gittertiere) {
+    const hood = g.neighborhood;
+    if (!byNeighborhood[hood]) {
+      byNeighborhood[hood] = { total: 0, neu: 0, inArbeit: 0, geloest: 0 };
+    }
+    byNeighborhood[hood].total++;
+    if (g.status === "Neu") byNeighborhood[hood].neu++;
+    else if (g.status === "In Arbeit") byNeighborhood[hood].inArbeit++;
+    else byNeighborhood[hood].geloest++;
+  }
+
+  const historyEntry: HistoryEntry = {
+    date: new Date().toISOString().split("T")[0],
+    total: gittertiere.length,
+    neu: gittertiere.filter((g) => g.status === "Neu").length,
+    inArbeit: gittertiere.filter((g) => g.status === "In Arbeit").length,
+    geloest: gittertiere.filter((g) => g.status === "Gelöst").length,
+    totalMagsReports: data.config.totalHits,
+    newSightings: diff?.newSightings.length ?? 0,
+    removed: diff?.removedSightings.length ?? 0,
+    byNeighborhood,
+  };
+
   const snapshotPath = saveSnapshot(snapshot);
   const latestPath = saveLatest(snapshot);
+  const historyPath = saveHistory(historyEntry);
   console.log(`\n  Saved snapshot: ${snapshotPath}`);
   console.log(`  Updated latest: ${latestPath}`);
+  console.log(`  Updated history: ${historyPath}`);
   console.log("✅ Done!");
 }
 
