@@ -74,16 +74,14 @@ export default function App() {
               Gittertier Tracker MG
             </h1>
           </div>
-          <div className="text-right text-xs text-zinc-600">
-            Letzte Bestandsaufnahme:{" "}
-            {new Date(snapshot.fetchedAt).toLocaleDateString("de-DE", {
-              day: "2-digit",
-              month: "2-digit",
-              year: "numeric",
-              hour: "2-digit",
-              minute: "2-digit",
-            })}
-          </div>
+          <a
+            href="https://mags.de/service/mags-melder/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-3 py-1.5 rounded-lg bg-amber-500 hover:bg-amber-400 text-zinc-900 font-bold text-xs transition-colors"
+          >
+            Sichtung melden
+          </a>
         </div>
       </header>
 
