@@ -42,10 +42,7 @@ export function HotspotChart({ gittertiere }: HotspotChartProps) {
   }
 
   const data = Array.from(countByNeighborhood.entries())
-    .map(([name, count]) => ({
-      name: isMobile ? (SHORT_NAMES[name] ?? name) : name,
-      count,
-    }))
+    .map(([name, count]) => ({ name, count }))
     .sort((a, b) => b.count - a.count);
 
   if (data.length === 0) {
@@ -79,6 +76,9 @@ export function HotspotChart({ gittertiere }: HotspotChartProps) {
             stroke="#71717a"
             tick={{ fill: "#a1a1aa", fontSize: isMobile ? 11 : 12 }}
             width={yAxisWidth}
+            tickFormatter={(name: string) =>
+              isMobile ? (SHORT_NAMES[name] ?? name) : name
+            }
           />
           <Tooltip
             contentStyle={{
