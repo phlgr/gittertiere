@@ -1,0 +1,15 @@
+{
+  "name": "gittertier-tracker",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "scrape": "turbo run scrape --filter=@gittertier/scraper"
+  },
+  "packageManager": "bun@1.3.11",
+  "devDependencies": {
+    "turbo": "^2",
+    "typescript": "^5.7"
+  }
+}
