@@ -215,7 +215,17 @@ export default function App() {
               mags Mängelmelder
             </a>
           </span>
-          <span>Kein offizielles Angebot · Open-Source-Spaßprojekt</span>
+          <span>
+            Kein offizielles Angebot ·{" "}
+            <a
+              href="https://github.com/phlgr/gittertiere"
+              className="underline underline-offset-2 hover:text-stone-600"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Open Source
+            </a>
+          </span>
         </div>
       </footer>
     </div>
