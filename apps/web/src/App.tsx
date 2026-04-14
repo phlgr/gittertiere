@@ -177,13 +177,10 @@ export default function App() {
         {/* Ticket list */}
         <section className="py-8 border-b border-stone-200">
           <h3 className="font-serif text-xl font-bold text-stone-800 mb-1">
-            Gittertiere in Ihrer Nähe
+            Alle Sichtungen
           </h3>
           <p className="text-stone-400 text-sm mb-4">
-            {gittertiere.length} Exemplare im Katalog —{" "}
-            {gittertiere.filter((g) => g.status === "Neu").length +
-              gittertiere.filter((g) => g.status === "In Arbeit").length}{" "}
-            davon noch zu haben
+            {gittertiere.length} dokumentierte Exemplare
           </p>
           <TicketList gittertiere={gittertiere} />
         </section>
@@ -191,8 +188,7 @@ export default function App() {
         {/* CTA */}
         <section className="py-10 text-center">
           <p className="text-stone-500 text-sm mb-3">
-            🛒 Kennen Sie ein herrenloses Gittertier, das ein neues Zuhause
-            sucht?
+            🛒 Einkaufswagen in freier Wildbahn gesichtet?
           </p>
           <a
             href="https://mags.de/service/mags-melder/"
@@ -200,7 +196,7 @@ export default function App() {
             rel="noopener noreferrer"
             className="inline-block px-5 py-2 bg-stone-900 hover:bg-stone-800 text-white font-semibold text-sm transition-colors"
           >
-            Zur Vermittlung melden &rarr;
+            Beim mags Mängelmelder melden &rarr;
           </a>
         </section>
       </main>
