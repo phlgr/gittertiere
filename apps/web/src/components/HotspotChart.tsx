@@ -47,9 +47,7 @@ export function HotspotChart({ gittertiere }: HotspotChartProps) {
 
   if (data.length === 0) {
     return (
-      <div className="text-zinc-500 text-center py-8 italic">
-        Keine Reviere dokumentiert. Die Gittertiere sind abgetaucht.
-      </div>
+      <p className="text-stone-400 text-sm py-4 italic">Keine Daten.</p>
     );
   }
 
@@ -57,7 +55,7 @@ export function HotspotChart({ gittertiere }: HotspotChartProps) {
   const leftMargin = isMobile ? 0 : 10;
 
   return (
-    <div className="h-[300px] w-full">
+    <div className="h-[280px] w-full">
       <ResponsiveContainer width="100%" height="100%">
         <BarChart
           data={data}
@@ -66,15 +64,15 @@ export function HotspotChart({ gittertiere }: HotspotChartProps) {
         >
           <XAxis
             type="number"
-            stroke="#71717a"
-            tick={{ fill: "#a1a1aa", fontSize: isMobile ? 11 : 12 }}
+            stroke="#d6d3d1"
+            tick={{ fill: "#78716c", fontSize: isMobile ? 11 : 12 }}
             allowDecimals={false}
           />
           <YAxis
             type="category"
             dataKey="name"
-            stroke="#71717a"
-            tick={{ fill: "#a1a1aa", fontSize: isMobile ? 11 : 12 }}
+            stroke="#d6d3d1"
+            tick={{ fill: "#57534e", fontSize: isMobile ? 11 : 12 }}
             width={yAxisWidth}
             tickFormatter={(name: string) =>
               isMobile ? (SHORT_NAMES[name] ?? name) : name
@@ -82,22 +80,23 @@ export function HotspotChart({ gittertiere }: HotspotChartProps) {
           />
           <Tooltip
             contentStyle={{
-              background: "#27272a",
-              border: "1px solid #3f3f46",
-              borderRadius: "0.5rem",
-              color: "#fafafa",
+              background: "#fff",
+              border: "1px solid #e7e5e4",
+              borderRadius: "3px",
+              color: "#1a1a1a",
+              fontSize: "0.8rem",
             }}
             formatter={(value: number) => [
               `${value} Sichtung${value !== 1 ? "en" : ""}`,
-              "Population",
+              "Anzahl",
             ]}
           />
-          <Bar dataKey="count" radius={[0, 6, 6, 0]}>
+          <Bar dataKey="count" radius={[0, 3, 3, 0]}>
             {data.map((entry, index) => (
               <Cell
                 key={entry.name}
-                fill={index === 0 ? "#f59e0b" : "#d97706"}
-                fillOpacity={Math.max(0.4, 1 - index * 0.08)}
+                fill={index === 0 ? "#292524" : "#57534e"}
+                fillOpacity={Math.max(0.35, 1 - index * 0.1)}
               />
             ))}
           </Bar>

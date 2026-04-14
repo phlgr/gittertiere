@@ -8,25 +8,22 @@ interface TicketListProps {
 
 const STATUS_BADGE: Record<
   GittertierStatus,
-  { bg: string; text: string; label: string; icon: string }
+  { bg: string; text: string; label: string }
 > = {
   Neu: {
-    bg: "bg-red-500/20",
-    text: "text-red-400",
-    label: "Entlaufen",
-    icon: "🔴",
+    bg: "bg-red-100",
+    text: "text-red-800",
+    label: "🔴 Entlaufen",
   },
   "In Arbeit": {
-    bg: "bg-yellow-500/20",
-    text: "text-yellow-400",
-    label: "Wird gejagt",
-    icon: "🟡",
+    bg: "bg-amber-100",
+    text: "text-amber-800",
+    label: "🟡 Wird gejagt",
   },
   Gelöst: {
-    bg: "bg-green-500/20",
-    text: "text-green-400",
-    label: "Eingefangen",
-    icon: "🟢",
+    bg: "bg-green-100",
+    text: "text-green-800",
+    label: "🟢 Eingefangen",
   },
 };
 
@@ -87,48 +84,52 @@ export function TicketList({ gittertiere }: TicketListProps) {
             <button
               key={f}
               onClick={() => setFilter(f)}
-              className={`px-3 py-1.5 rounded-lg text-sm font-medium transition-colors ${
+              className={`px-3 py-1 text-sm transition-colors ${
                 filter === f
-                  ? "bg-amber-500 text-zinc-900"
-                  : "bg-zinc-800 text-zinc-300 hover:bg-zinc-700"
+                  ? "bg-stone-900 text-white"
+                  : "bg-stone-100 text-stone-600 hover:bg-stone-200"
               }`}
             >
-              {f === "all" ? `Alle Exemplare (${count})` : `${FILTER_LABELS[f]} (${count})`}
+              {f === "all"
+                ? `Alle (${count})`
+                : `${FILTER_LABELS[f]} (${count})`}
             </button>
           );
         })}
       </div>
 
       {/* Table */}
-      <div className="overflow-x-auto rounded-xl border border-zinc-800">
+      <div className="overflow-x-auto border border-stone-200">
         <table className="w-full text-sm">
           <thead>
-            <tr className="border-b border-zinc-800 bg-zinc-900/50">
+            <tr className="border-b border-stone-200 bg-stone-50">
               <th
-                className="text-left p-3 text-zinc-400 cursor-pointer hover:text-zinc-200"
+                className="text-left p-3 text-stone-500 font-medium cursor-pointer hover:text-stone-800 text-xs"
                 onClick={() => toggleSort("uid")}
               >
-                Akte{sortIndicator("uid")}
+                Nr.{sortIndicator("uid")}
               </th>
               <th
-                className="text-left p-3 text-zinc-400 cursor-pointer hover:text-zinc-200"
+                className="text-left p-3 text-stone-500 font-medium cursor-pointer hover:text-stone-800 text-xs"
                 onClick={() => toggleSort("street")}
               >
-                Letzter bekannter Aufenthaltsort{sortIndicator("street")}
+                Standort{sortIndicator("street")}
               </th>
               <th
-                className="text-left p-3 text-zinc-400 cursor-pointer hover:text-zinc-200"
+                className="text-left p-3 text-stone-500 font-medium cursor-pointer hover:text-stone-800 text-xs"
                 onClick={() => toggleSort("neighborhood")}
               >
-                Revier{sortIndicator("neighborhood")}
+                Stadtteil{sortIndicator("neighborhood")}
               </th>
               <th
-                className="text-left p-3 text-zinc-400 cursor-pointer hover:text-zinc-200"
+                className="text-left p-3 text-stone-500 font-medium cursor-pointer hover:text-stone-800 text-xs"
                 onClick={() => toggleSort("status")}
               >
-                Zustand{sortIndicator("status")}
+                Status{sortIndicator("status")}
               </th>
-              <th className="text-left p-3 text-zinc-400">Beweisfoto</th>
+              <th className="text-left p-3 text-stone-500 font-medium text-xs">
+                Foto
+              </th>
             </tr>
           </thead>
           <tbody>
@@ -137,27 +138,27 @@ export function TicketList({ gittertiere }: TicketListProps) {
               return (
                 <tr
                   key={g.uid}
-                  className="border-b border-zinc-800/50 hover:bg-zinc-900/50"
+                  className="border-b border-stone-100 hover:bg-stone-50"
                 >
-                  <td className="p-3 text-zinc-500 font-mono text-xs">
-                    #{g.uid}
+                  <td className="p-3 text-stone-400 font-mono text-xs">
+                    {g.uid}
                   </td>
-                  <td className="p-3">
+                  <td className="p-3 text-stone-800">
                     {g.street}
                     {g.locationname &&
                       g.locationname !== "Einkaufswagen" &&
                       g.locationname !== "EKW" && (
-                        <span className="ml-2 text-zinc-600 text-xs">
+                        <span className="ml-1.5 text-stone-400 text-xs">
                           ({g.locationname})
                         </span>
                       )}
                   </td>
-                  <td className="p-3 text-zinc-400">{g.neighborhood}</td>
+                  <td className="p-3 text-stone-500">{g.neighborhood}</td>
                   <td className="p-3">
                     <span
-                      className={`inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-medium ${badge.bg} ${badge.text}`}
+                      className={`inline-block px-2 py-0.5 text-xs font-medium ${badge.bg} ${badge.text}`}
                     >
-                      {badge.icon} {badge.label}
+                      {badge.label}
                     </span>
                   </td>
                   <td className="p-3">
@@ -166,19 +167,16 @@ export function TicketList({ gittertiere }: TicketListProps) {
                         href={imageUrl(g.images[0])}
                         target="_blank"
                         rel="noopener noreferrer"
-                        title="Beweisfoto vergrößern"
                       >
                         <img
                           src={imageUrl(g.images[0])}
-                          alt="Gittertier-Sichtung"
-                          className="w-12 h-12 object-cover rounded-lg border border-zinc-700 hover:border-amber-500 transition-colors"
+                          alt="Sichtung"
+                          className="w-10 h-10 object-cover border border-stone-200 hover:border-stone-400 transition-colors"
                           loading="lazy"
                         />
                       </a>
                     ) : (
-                      <span className="text-zinc-700 text-xs italic">
-                        kein Foto
-                      </span>
+                      <span className="text-stone-300 text-xs">—</span>
                     )}
                   </td>
                 </tr>
@@ -186,8 +184,12 @@ export function TicketList({ gittertiere }: TicketListProps) {
             })}
             {filtered.length === 0 && (
               <tr>
-                <td colSpan={5} className="p-8 text-center text-zinc-500 italic">
-                  Keine Gittertiere in dieser Kategorie. Verdächtig ruhig.
+                <td
+                  colSpan={5}
+                  className="p-8 text-center text-stone-400 italic"
+                >
+                  Aktuell keine Gittertiere in dieser Kategorie. Schauen Sie
+                  später wieder vorbei.
                 </td>
               </tr>
             )}

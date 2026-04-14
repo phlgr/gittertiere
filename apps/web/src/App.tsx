@@ -1,59 +1,30 @@
 import { useSnapshot } from "./hooks/useSnapshot";
-import { HeroStats } from "./components/HeroStats";
 import { GittertierMap } from "./components/GittertierMap";
 import { HotspotChart } from "./components/HotspotChart";
 import { PopulationTimeline } from "./components/PopulationTimeline";
 import { TicketList } from "./components/TicketList";
 import { FunFacts } from "./components/FunFacts";
 
-function Section({
-  title,
-  subtitle,
-  children,
-}: {
-  title: string;
-  subtitle?: string;
-  children: React.ReactNode;
-}) {
-  return (
-    <section>
-      <h2 className="text-xl font-bold text-zinc-100 mb-1">{title}</h2>
-      {subtitle && (
-        <p className="text-zinc-500 text-sm mb-4 italic">{subtitle}</p>
-      )}
-      {!subtitle && <div className="mb-4" />}
-      {children}
-    </section>
-  );
-}
-
 export default function App() {
   const { snapshot, history, error, loading } = useSnapshot();
 
   if (loading) {
     return (
-      <div className="min-h-screen flex items-center justify-center">
-        <div className="text-center">
-          <div className="text-6xl mb-4 animate-bounce">🛒</div>
-          <p className="text-zinc-400 italic">
-            Spuren werden gesichert...
-          </p>
-        </div>
+      <div className="min-h-screen flex items-center justify-center bg-[#faf8f3]">
+        <p className="text-stone-400">Laden...</p>
       </div>
     );
   }
 
   if (error || !snapshot) {
     return (
-      <div className="min-h-screen flex items-center justify-center">
-        <div className="text-center max-w-md">
-          <div className="text-6xl mb-4">🛒💨</div>
-          <p className="text-red-400 mb-2 font-bold">
-            Die Gittertiere haben sich versteckt
+      <div className="min-h-screen flex items-center justify-center bg-[#faf8f3]">
+        <div className="max-w-md px-4">
+          <p className="text-red-700 mb-2 font-bold">
+            Daten konnten nicht geladen werden.
           </p>
-          <p className="text-zinc-500 text-sm">
-            {error ??
-              "Keine Daten verfügbar. Bitte zuerst den Scraper ausführen, um die Population zu erfassen."}
+          <p className="text-stone-500 text-sm">
+            {error ?? "Bitte zuerst den Scraper ausführen."}
           </p>
         </div>
       </div>
@@ -62,165 +33,193 @@ export default function App() {
 
   const { gittertiere, totalMagsReports } = snapshot;
   const free = gittertiere.filter((g) => g.status !== "Gelöst").length;
+  const resolved = gittertiere.filter((g) => g.status === "Gelöst").length;
+  const captureRate =
+    gittertiere.length > 0
+      ? Math.round((resolved / gittertiere.length) * 100)
+      : 0;
+  const percentage =
+    totalMagsReports > 0
+      ? Math.round((gittertiere.length / totalMagsReports) * 100)
+      : 0;
 
   return (
-    <div className="min-h-screen">
-      {/* Header */}
-      <header className="border-b border-zinc-800 bg-zinc-950/80 backdrop-blur-sm sticky top-0 z-50">
-        <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
-          <div className="flex items-center gap-3">
-            <span className="text-2xl">🛒</span>
-            <h1 className="text-lg font-bold text-amber-400">
-              Gittertier Tracker MG
-            </h1>
+    <div className="min-h-screen bg-[#faf8f3]">
+      {/* Masthead */}
+      <header className="mx-4 sm:mx-auto max-w-4xl">
+        <div className="py-4 text-center">
+          <div className="text-[0.65rem] uppercase tracking-[0.3em] text-stone-400 mb-1">
+            Mönchengladbach · Sonderausgabe ·{" "}
+            {new Date(snapshot.fetchedAt).toLocaleDateString("de-DE", {
+              day: "numeric",
+              month: "long",
+              year: "numeric",
+            })}
           </div>
+          <h1 className="font-serif text-4xl sm:text-5xl font-black text-stone-900 leading-none">
+            Gittertier Tracker
+          </h1>
+          <div className="text-[0.65rem] uppercase tracking-[0.2em] text-stone-400 mt-1">
+            Das Leitmedium für entlaufene Einkaufswagen
+          </div>
+        </div>
+      </header>
+
+      {/* Ticker bar */}
+      <div className="sticky top-0 z-[1000] border-b border-stone-200 bg-stone-900 text-white">
+        <div className="max-w-4xl mx-auto px-4 py-2 flex flex-wrap justify-center gap-x-6 gap-y-1 text-xs font-medium">
+          <span>
+            🛒 <strong>{gittertiere.length}</strong> Sichtungen
+          </span>
+          <span>
+            🏃 <strong>{free}</strong> auf freiem Fuß
+          </span>
+          <span>
+            ✅ <strong>{captureRate}%</strong> Einfangquote
+          </span>
+          <span>
+            📊 <strong>{percentage}%</strong> aller mags-Meldungen
+          </span>
+          <span className="hidden sm:inline text-stone-500">·</span>
           <a
             href="https://mags.de/service/mags-melder/"
             target="_blank"
             rel="noopener noreferrer"
-            className="px-3 py-1.5 rounded-lg bg-amber-500 hover:bg-amber-400 text-zinc-900 font-bold text-xs transition-colors"
+            className="text-amber-300 hover:text-amber-100 underline underline-offset-2"
           >
             Sichtung melden
           </a>
         </div>
-      </header>
+      </div>
 
-      {/* Hero */}
-      <div className="border-b border-zinc-800 bg-gradient-to-b from-amber-500/5 to-transparent">
-        <div className="max-w-7xl mx-auto px-4 py-12 text-center">
-          <p className="text-amber-500/80 text-sm font-medium tracking-widest uppercase mb-3">
-            Wildtier-Monitoring Mönchengladbach
-          </p>
-          <h2 className="text-4xl sm:text-5xl font-extrabold text-white mb-4 leading-tight">
+      <main className="max-w-4xl mx-auto px-4">
+        {/* Headline */}
+        <article className="py-8 border-b border-stone-200">
+          <h2 className="font-serif text-3xl sm:text-4xl font-black text-stone-900 leading-tight mb-4">
             {free > 0 ? (
               <>
-                <span className="text-amber-400">{free}</span> Gittertiere
-                <br className="sm:hidden" /> in freier Wildbahn
+                {free} Einkaufswagen streunen
+                <br />
+                durch die Stadt
               </>
             ) : (
-              <>
-                Alle Gittertiere
-                <br className="sm:hidden" /> eingefangen!
-              </>
+              <>Alle Einkaufswagen eingefangen — vorerst</>
             )}
           </h2>
-          <p className="text-zinc-400 max-w-2xl mx-auto leading-relaxed">
-            Einkaufswagen sind das meistgemeldete Problem im{" "}
+          <p className="text-stone-600 leading-relaxed max-w-2xl">
+            Entlaufene Einkaufswagen sind das meistgemeldete Problem im{" "}
             <a
               href="https://mags.de/service/mags-melder/"
-              className="text-amber-500 hover:text-amber-400 underline underline-offset-2"
+              className="text-amber-700 hover:text-amber-900 underline underline-offset-2"
               target="_blank"
               rel="noopener noreferrer"
             >
               mags Mängelmelder
             </a>
-            . Wir tracken jedes einzelne Exemplar,
-            das aus seinem Supermarkt-Gehege ausbricht und die Straßen von
-            Mönchengladbach unsicher macht.
+            . Sie machen {percentage}% aller Meldungen aus. Diese Seite
+            dokumentiert das Ausmaß der Lage.
           </p>
-        </div>
-      </div>
+        </article>
 
-      {/* Main content */}
-      <main className="max-w-7xl mx-auto px-4 py-10 space-y-12">
-        <HeroStats
+        {/* Map */}
+        <section className="py-8 border-b border-stone-200">
+          <h3 className="font-serif text-xl font-bold text-stone-800 mb-1">
+            Karte der Sichtungen
+          </h3>
+          <p className="text-stone-400 text-sm mb-3">
+            Letzte bekannte Aufenthaltsorte im Stadtgebiet
+          </p>
+          <GittertierMap gittertiere={gittertiere} />
+          <div className="mt-2 flex flex-wrap gap-4 text-xs text-stone-500">
+            <span className="flex items-center gap-1.5">
+              <span className="inline-block w-2 h-2 rounded-full bg-red-500" />
+              Entlaufen
+            </span>
+            <span className="flex items-center gap-1.5">
+              <span className="inline-block w-2 h-2 rounded-full bg-yellow-500" />
+              Einfangversuch
+            </span>
+            <span className="flex items-center gap-1.5">
+              <span className="inline-block w-2 h-2 rounded-full bg-green-600" />
+              Eingefangen
+            </span>
+          </div>
+        </section>
+
+        {/* Two-column: timeline + hotspots */}
+        <div className="grid lg:grid-cols-2 gap-0 lg:divide-x divide-stone-200 border-b border-stone-200">
+          <section className="py-8 lg:pr-8">
+            <h3 className="font-serif text-xl font-bold text-stone-800 mb-1">
+              Population über Zeit
+            </h3>
+            <p className="text-stone-400 text-sm mb-3">
+              Tägliche Bestandsaufnahme
+            </p>
+            <PopulationTimeline history={history} />
+          </section>
+          <section className="py-8 lg:pl-8">
+            <h3 className="font-serif text-xl font-bold text-stone-800 mb-1">
+              Beliebteste Reviere
+            </h3>
+            <p className="text-stone-400 text-sm mb-3">
+              Sichtungen nach Stadtteil
+            </p>
+            <HotspotChart gittertiere={gittertiere} />
+          </section>
+        </div>
+
+        {/* Fun facts */}
+        <FunFacts
           gittertiere={gittertiere}
           totalMagsReports={totalMagsReports}
         />
 
-        <Section
-          title="Lebensraum-Karte"
-          subtitle="Bekannte Aufenthaltsorte und letzte Sichtungen im Stadtgebiet"
-        >
-          <GittertierMap gittertiere={gittertiere} />
-          <div className="mt-3 flex flex-wrap gap-4 text-xs text-zinc-500">
-            <span className="flex items-center gap-1.5">
-              <span className="inline-block w-2.5 h-2.5 rounded-full bg-red-500" />
-              Frisch entlaufen
-            </span>
-            <span className="flex items-center gap-1.5">
-              <span className="inline-block w-2.5 h-2.5 rounded-full bg-yellow-500" />
-              Einfangversuch läuft
-            </span>
-            <span className="flex items-center gap-1.5">
-              <span className="inline-block w-2.5 h-2.5 rounded-full bg-green-500" />
-              Zurück im Gehege
-            </span>
-          </div>
-        </Section>
-
-        <Section
-          title="Populationsentwicklung"
-          subtitle="Wie sich die Gittertier-Population über die Zeit entwickelt"
-        >
-          <PopulationTimeline history={history} />
-        </Section>
-
-        <Section
-          title="Beliebteste Reviere"
-          subtitle="Wo die Gittertiere am liebsten herumstreunen"
-        >
-          <div className="rounded-xl bg-zinc-900 border border-zinc-800 p-4">
-            <HotspotChart gittertiere={gittertiere} />
-          </div>
-        </Section>
-
-        <Section title="Aus den Akten der Gittertier-Forschung">
-          <FunFacts
-            gittertiere={gittertiere}
-            totalMagsReports={totalMagsReports}
-          />
-        </Section>
-
-        <Section
-          title="Feldprotokoll"
-          subtitle="Alle dokumentierten Individuen im Überblick"
-        >
+        {/* Ticket list */}
+        <section className="py-8 border-b border-stone-200">
+          <h3 className="font-serif text-xl font-bold text-stone-800 mb-1">
+            Gittertiere in Ihrer Nähe
+          </h3>
+          <p className="text-stone-400 text-sm mb-4">
+            {gittertiere.length} Exemplare im Katalog —{" "}
+            {gittertiere.filter((g) => g.status === "Neu").length +
+              gittertiere.filter((g) => g.status === "In Arbeit").length}{" "}
+            davon noch zu haben
+          </p>
           <TicketList gittertiere={gittertiere} />
-        </Section>
+        </section>
 
         {/* CTA */}
-        <div className="rounded-xl border border-amber-500/20 bg-amber-500/5 p-6 sm:p-8 text-center">
-          <p className="text-2xl mb-2">🛒👀</p>
-          <h3 className="text-lg font-bold text-zinc-100 mb-2">
-            Gittertier in freier Wildbahn gesichtet?
-          </h3>
-          <p className="text-zinc-400 text-sm mb-4 max-w-lg mx-auto">
-            Melde entlaufene Einkaufswagen direkt über den offiziellen mags
-            Mängelmelder. Jede Sichtung zählt für die Forschung!
+        <section className="py-10 text-center">
+          <p className="text-stone-500 text-sm mb-3">
+            🛒 Kennen Sie ein herrenloses Gittertier, das ein neues Zuhause
+            sucht?
           </p>
           <a
             href="https://mags.de/service/mags-melder/"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block px-6 py-2.5 rounded-lg bg-amber-500 hover:bg-amber-400 text-zinc-900 font-bold text-sm transition-colors"
+            className="inline-block px-5 py-2 bg-stone-900 hover:bg-stone-800 text-white font-semibold text-sm transition-colors"
           >
-            Sichtung melden
+            Zur Vermittlung melden &rarr;
           </a>
-        </div>
+        </section>
       </main>
 
       {/* Footer */}
-      <footer className="border-t border-zinc-800 mt-16 bg-zinc-950">
-        <div className="max-w-7xl mx-auto px-4 py-8 text-center space-y-3">
-          <p className="text-zinc-500 text-sm italic">
-            &bdquo;Das Gittertier ist ein scheues, aber überraschend mobiles
-            Geschöpf, das bevorzugt in urbanen Feuchtgebieten und an
-            Bushaltestellen anzutreffen ist.&ldquo;
-          </p>
-          <p className="text-zinc-600 text-xs">
+      <footer className="border-t border-stone-300 bg-[#f5f2eb]">
+        <div className="max-w-4xl mx-auto px-4 py-5 flex flex-col sm:flex-row justify-between gap-2 text-xs text-stone-400">
+          <span>
             Daten:{" "}
             <a
               href="https://mags.de/service/mags-melder/"
-              className="text-amber-600 hover:text-amber-500"
+              className="underline underline-offset-2 hover:text-stone-600"
               target="_blank"
               rel="noopener noreferrer"
             >
               mags Mängelmelder
-            </a>{" "}
-            · Kein offizielles Angebot der Stadt Mönchengladbach ·{" "}
-            Gittertier Tracker ist ein Open-Source-Spaßprojekt
-          </p>
+            </a>
+          </span>
+          <span>Kein offizielles Angebot · Open-Source-Spaßprojekt</span>
         </div>
       </footer>
     </div>

@@ -8,32 +8,26 @@ interface GittertierMapProps {
 }
 
 const STATUS_COLORS: Record<string, string> = {
-  Neu: "#ef4444",
-  "In Arbeit": "#eab308",
-  Gelöst: "#22c55e",
-};
-
-const STATUS_EMOJI: Record<string, string> = {
-  Neu: "🏃",
-  "In Arbeit": "🎯",
-  Gelöst: "🏠",
+  Neu: "#dc2626",
+  "In Arbeit": "#ca8a04",
+  Gelöst: "#16a34a",
 };
 
 function createCircleIcon(color: string): L.DivIcon {
   return L.divIcon({
     className: "",
     html: `<div style="
-      width: 16px;
-      height: 16px;
+      width: 12px;
+      height: 12px;
       border-radius: 50%;
       background: ${color};
-      border: 2px solid rgba(255,255,255,0.9);
-      box-shadow: 0 0 8px ${color}99;
+      border: 2px solid white;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.3);
       cursor: pointer;
     "></div>`,
-    iconSize: [16, 16],
-    iconAnchor: [8, 8],
-    popupAnchor: [0, -12],
+    iconSize: [12, 12],
+    iconAnchor: [6, 6],
+    popupAnchor: [0, -10],
   });
 }
 
@@ -51,7 +45,7 @@ export function GittertierMap({ gittertiere }: GittertierMapProps) {
     });
 
     L.tileLayer(
-      "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
+      "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
       {
         attribution:
           '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
@@ -78,28 +72,27 @@ export function GittertierMap({ gittertiere }: GittertierMapProps) {
     for (const g of gittertiere) {
       if (!g.lat || !g.lng) continue;
 
-      const color = STATUS_COLORS[g.status] ?? "#a1a1aa";
-      const emoji = STATUS_EMOJI[g.status] ?? "🛒";
+      const color = STATUS_COLORS[g.status] ?? "#888";
       const icon = createCircleIcon(color);
 
       const imageHtml =
         g.images.length > 0
-          ? `<img src="${imageUrl(g.images[0])}" alt="Beweisfoto" style="width:100%;max-width:200px;border-radius:0.5rem;margin-top:0.5rem;border:1px solid #3f3f46;" loading="lazy" />`
+          ? `<img src="${imageUrl(g.images[0])}" alt="Foto" style="width:100%;max-width:200px;border-radius:3px;margin-top:0.4rem;" loading="lazy" />`
           : "";
 
       const storeHint =
         g.locationname &&
         g.locationname !== "Einkaufswagen" &&
         g.locationname !== "EKW"
-          ? `<br/><span style="color:#a1a1aa;font-size:0.75rem;">Vermutlich entlaufen aus: ${g.locationname}</span>`
+          ? `<br/><span style="color:#888;font-size:0.7rem;">Vermutl. entlaufen aus: ${g.locationname}</span>`
           : "";
 
       const popup = `
-        <div style="font-size:0.875rem;min-width:160px;">
-          <div style="font-size:0.7rem;color:#71717a;margin-bottom:0.25rem;">Akte #${g.uid}</div>
-          <strong>🛒 ${g.street}</strong><br/>
-          <span style="color:${color};">${emoji} ${g.statusLabel}</span><br/>
-          <span style="color:#a1a1aa;">${g.neighborhood}</span>
+        <div style="font-size:0.8rem;min-width:140px;line-height:1.4;">
+          <div style="font-size:0.65rem;color:#999;margin-bottom:2px;">Nr. ${g.uid}</div>
+          <strong>${g.street}</strong><br/>
+          <span style="color:${color};">${g.statusLabel}</span><br/>
+          <span style="color:#666;">${g.neighborhood}</span>
           ${storeHint}
           ${imageHtml}
         </div>
@@ -110,8 +103,8 @@ export function GittertierMap({ gittertiere }: GittertierMapProps) {
   }, [gittertiere]);
 
   return (
-    <div className="rounded-xl overflow-hidden border border-zinc-800">
-      <div ref={mapRef} className="h-[500px] w-full" />
+    <div className="border border-stone-200 overflow-hidden">
+      <div ref={mapRef} className="h-[450px] w-full" />
     </div>
   );
 }

@@ -1,54 +1,50 @@
 @import "tailwindcss";
 
 @theme {
-  --color-amber-400: #fbbf24;
-  --color-amber-500: #f59e0b;
-  --color-amber-600: #d97706;
-  --color-orange-500: #f97316;
-  --color-orange-600: #ea580c;
-  --color-zinc-800: #27272a;
-  --color-zinc-900: #18181b;
-  --color-zinc-950: #09090b;
+  --font-serif: "Playfair Display", "Georgia", serif;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
 }
 
 body {
   margin: 0;
-  background-color: #09090b;
-  color: #fafafa;
-  font-family:
-    system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background-color: #faf8f3;
+  color: #1a1a1a;
+  font-family: var(--font-sans);
 }
 
-/* Leaflet overrides for dark theme */
+/* Leaflet — keep map dark as contrast element */
 .leaflet-container {
-  background: #18181b;
+  background: #e8e4dc;
 }
 
 .leaflet-popup-content-wrapper {
-  background: #27272a;
-  color: #fafafa;
-  border-radius: 0.75rem;
+  background: #fff;
+  color: #1a1a1a;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
 .leaflet-popup-tip {
-  background: #27272a;
+  background: #fff;
 }
 
 .leaflet-popup-content {
   margin: 0.75rem 1rem;
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
 }
 
-.leaflet-control-zoom a {
-  background: #27272a !important;
-  color: #fafafa !important;
-  border-color: #3f3f46 !important;
+.leaflet-top,
+.leaflet-bottom {
+  z-index: 500 !important;
 }
 
 .leaflet-control-attribution {
-  background: rgba(24, 24, 27, 0.8) !important;
-  color: #a1a1aa !important;
+  background: rgba(250, 248, 243, 0.9) !important;
+  color: #888 !important;
+  font-size: 10px !important;
 }
 
 .leaflet-control-attribution a {
-  color: #fbbf24 !important;
+  color: #b45309 !important;
 }
