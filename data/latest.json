@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-04-16T06:42:54.085Z",
-  "totalMagsReports": 95,
+  "fetchedAt": "2026-04-17T06:42:35.365Z",
+  "totalMagsReports": 98,
   "gittertiere": [
     {
       "uid": 2045,
@@ -45,64 +45,6 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/nfmkr5d53zey/attachment/ucjdw8by0wnq1fmnsxgxykm7x5nyce"
-      ]
-    },
-    {
-      "uid": 2074,
-      "street": "Goetersstraße 18a",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1630436,
-      "lng": 6.4369645,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/4rzm67ga769k/attachment/5gi8bvt21l2sxbizajjti7w11e8tnq"
-      ]
-    },
-    {
-      "uid": 2076,
-      "street": "Limitenstraße 153",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.162266,
-      "lng": 6.4462313,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/2f4tdn33ddz7/attachment/b20lcw18h488wna2xbxjiic6l8hq3u"
-      ]
-    },
-    {
-      "uid": 2084,
-      "street": "Kapellenweg 80",
-      "zipcode": "41069",
-      "neighborhood": "Holt / Westend",
-      "lat": 51.1760547,
-      "lng": 6.425066,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": []
-    },
-    {
-      "uid": 2087,
-      "street": "Keplerstraße 70",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.161593,
-      "lng": 6.4511095,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/fe7ncyrkmnwk/attachment/oxz61oukf4xjxj3cnddi0fcwk71qzj"
       ]
     },
     {
