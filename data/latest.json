@@ -1,52 +1,7 @@
 {
-  "fetchedAt": "2026-04-17T06:42:35.365Z",
-  "totalMagsReports": 98,
+  "fetchedAt": "2026-04-18T06:30:15.675Z",
+  "totalMagsReports": 101,
   "gittertiere": [
-    {
-      "uid": 2045,
-      "street": "Brucknerallee 161",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1749812,
-      "lng": 6.4427319,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/7gnw879c7prz/attachment/kky3n1325n46wkfmkc0mw6a88rvy83"
-      ]
-    },
-    {
-      "uid": 2046,
-      "street": "Logenstraße 4",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1702751,
-      "lng": 6.4402235,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/7f83kpazy85g/attachment/zsevw4msn2lwqvz5bji99dg9brke1l"
-      ]
-    },
-    {
-      "uid": 2049,
-      "street": "Herzogstraße 26",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.164225,
-      "lng": 6.4536465,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/nfmkr5d53zey/attachment/ucjdw8by0wnq1fmnsxgxykm7x5nyce"
-      ]
-    },
     {
       "uid": 2089,
       "street": "Nordstraße 114",
@@ -166,7 +121,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/49mcztc87t82/attachment/m61vz3xvku3887y0728hgxi2hvrv9s"
+        "/tickets/paf9yc53g67c/attachment/a5g642g36nrzc3udxq9ezgtmlihebe"
       ]
     },
     {
@@ -361,7 +316,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/tp53rnk8eyfd/attachment/fpilgwibyfubkzrfhhw97wrbv697uf"
+        "/tickets/6g5fgy3kd4dw/attachment/odh9y4kn9dm5v490715tv9vcbjd07x"
       ]
     },
     {
