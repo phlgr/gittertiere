@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-04-20T06:50:56.543Z",
-  "totalMagsReports": 101,
+  "fetchedAt": "2026-04-21T06:42:58.527Z",
+  "totalMagsReports": 106,
   "gittertiere": [
     {
       "uid": 2089,
@@ -121,7 +121,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/paf9yc53g67c/attachment/a5g642g36nrzc3udxq9ezgtmlihebe"
+        "/tickets/49mcztc87t82/attachment/m61vz3xvku3887y0728hgxi2hvrv9s"
       ]
     },
     {
@@ -316,7 +316,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/6g5fgy3kd4dw/attachment/odh9y4kn9dm5v490715tv9vcbjd07x"
+        "/tickets/tp53rnk8eyfd/attachment/fpilgwibyfubkzrfhhw97wrbv697uf"
       ]
     },
     {
@@ -332,6 +332,21 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/6g5fgy3kd4dw/attachment/odh9y4kn9dm5v490715tv9vcbjd07x"
+      ]
+    },
+    {
+      "uid": 2184,
+      "street": "Schmölderstraße 98",
+      "zipcode": "41239",
+      "neighborhood": "Mülfort",
+      "lat": 51.1619104,
+      "lng": 6.4299646,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/r2kgrpwa9bbm/attachment/hdm40a2a4zu4km6jyift2rv4yf3ohe"
       ]
     }
   ]
