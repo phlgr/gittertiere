@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-04-21T06:42:58.527Z",
-  "totalMagsReports": 106,
+  "fetchedAt": "2026-04-22T06:43:02.346Z",
+  "totalMagsReports": 111,
   "gittertiere": [
     {
       "uid": 2089,
@@ -24,8 +24,8 @@
       "neighborhood": "Giesenkirchen",
       "lat": 51.1694526,
       "lng": 6.4622227,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -116,12 +116,12 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1861351,
       "lng": 6.445856,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/49mcztc87t82/attachment/m61vz3xvku3887y0728hgxi2hvrv9s"
+        "/tickets/paf9yc53g67c/attachment/a5g642g36nrzc3udxq9ezgtmlihebe"
       ]
     },
     {

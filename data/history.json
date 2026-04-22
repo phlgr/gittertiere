@@ -334,5 +334,47 @@
         "geloest": 1
       }
     }
+  },
+  {
+    "date": "2026-04-22",
+    "total": 23,
+    "neu": 0,
+    "inArbeit": 19,
+    "geloest": 4,
+    "totalMagsReports": 111,
+    "newSightings": 0,
+    "removed": 0,
+    "byNeighborhood": {
+      "Rheydt": {
+        "total": 8,
+        "neu": 0,
+        "inArbeit": 8,
+        "geloest": 0
+      },
+      "Giesenkirchen": {
+        "total": 3,
+        "neu": 0,
+        "inArbeit": 2,
+        "geloest": 1
+      },
+      "Lürrip / Hardterbroich": {
+        "total": 10,
+        "neu": 0,
+        "inArbeit": 8,
+        "geloest": 2
+      },
+      "Stadtmitte": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      },
+      "Mülfort": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 1
+      }
+    }
   }
 ]
