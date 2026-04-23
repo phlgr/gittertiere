@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-04-22T06:43:02.346Z",
-  "totalMagsReports": 111,
+  "fetchedAt": "2026-04-23T06:43:21.900Z",
+  "totalMagsReports": 104,
   "gittertiere": [
     {
       "uid": 2089,
@@ -347,6 +347,66 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/r2kgrpwa9bbm/attachment/hdm40a2a4zu4km6jyift2rv4yf3ohe"
+      ]
+    },
+    {
+      "uid": 2191,
+      "street": "Hosterweg 39",
+      "zipcode": "41238",
+      "neighborhood": "Giesenkirchen",
+      "lat": 51.1681533,
+      "lng": 6.4629398,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/4err96kgm62r/attachment/ttda7w8zfdhafoo5apjru3q03mbcfh"
+      ]
+    },
+    {
+      "uid": 2192,
+      "street": "Am Nordpark 260",
+      "zipcode": "41068",
+      "neighborhood": "Uedding",
+      "lat": 51.1798058,
+      "lng": 6.3910885,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/cy83p5gwrgmy/attachment/gv3uuhiasnl6gl1f4bp7vp5o8es9a1"
+      ]
+    },
+    {
+      "uid": 2199,
+      "street": "Mühlenstraße 191",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1701758,
+      "lng": 6.4527017,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/9d4p5p7c8b38/attachment/ysv1qcziiwrmjk25xazi9hk1y6asjc"
+      ]
+    },
+    {
+      "uid": 2205,
+      "street": "Bylandtstraße 37",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1682908,
+      "lng": 6.4559467,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/gbb82zr5kdcg/attachment/ot97xy4qj6dxeu5ed87igr10soodas"
       ]
     }
   ]
