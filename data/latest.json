@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-04-23T06:43:21.900Z",
-  "totalMagsReports": 104,
+  "fetchedAt": "2026-04-24T06:44:24.164Z",
+  "totalMagsReports": 103,
   "gittertiere": [
     {
       "uid": 2089,
@@ -9,8 +9,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1732346,
       "lng": 6.4468427,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "",
       "locationname": "EKW Netto",
       "images": [
@@ -40,8 +40,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.160295,
       "lng": 6.4506134,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -55,8 +55,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.160295,
       "lng": 6.4506134,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -71,8 +71,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1607702,
       "lng": 6.4511491,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -86,8 +86,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1579544,
       "lng": 6.4507176,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -101,8 +101,8 @@
       "neighborhood": "Giesenkirchen",
       "lat": 51.1611657,
       "lng": 6.4567106,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -146,8 +146,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.169099,
       "lng": 6.4516697,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -184,19 +184,6 @@
         "/tickets/my44w4gctb9k/attachment/motor70wfjx26ywfbozp86oiyggyw6",
         "/tickets/my44w4gctb9k/attachment/2n6fhtvl51u70s4b8mewwyt6nd15j4"
       ]
-    },
-    {
-      "uid": 2131,
-      "street": "Hofstraße 34",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1842955,
-      "lng": 6.443373,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Hofstraße 34- Einkaufswagen",
-      "images": []
     },
     {
       "uid": 2154,
@@ -407,6 +394,97 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/gbb82zr5kdcg/attachment/ot97xy4qj6dxeu5ed87igr10soodas"
+      ]
+    },
+    {
+      "uid": 2207,
+      "street": "Breite Straße 74",
+      "zipcode": "41238",
+      "neighborhood": "Giesenkirchen",
+      "lat": 51.1780854,
+      "lng": 6.4476177,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/2fa23knc63me/attachment/g5laz46if2ki0gi6ienzj4a3ur3z5x"
+      ]
+    },
+    {
+      "uid": 2209,
+      "street": "Karrenweg 161",
+      "zipcode": "41169",
+      "neighborhood": "Unbekannt",
+      "lat": 51.1983387,
+      "lng": 6.3461696,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/8em36tf2mfyp/attachment/lvmimby0ljb9g67969tc4mzqfh3vvg"
+      ]
+    },
+    {
+      "uid": 2210,
+      "street": "Hauptstraße 24",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1676547,
+      "lng": 6.4425131,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/c932t3e26fe2/attachment/4zm6uk7wd6a1tmmikwc061uzi6xabg",
+        "/tickets/c932t3e26fe2/attachment/27dd5xbh6e9749hemtv2jpahe65iau"
+      ]
+    },
+    {
+      "uid": 2212,
+      "street": "Friedhofstraße 44",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1703917,
+      "lng": 6.4498455,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/9ck5dgmr3fpt/attachment/wg47xfnuyjx477zzqeew1a8gg418i7"
+      ]
+    },
+    {
+      "uid": 2213,
+      "street": "Ottostraße 4",
+      "zipcode": "41238",
+      "neighborhood": "Giesenkirchen",
+      "lat": 51.1639978,
+      "lng": 6.4590279,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/zmbcf97tgpc7/attachment/tehyuto8agysk1vthby2obj71ajumr"
+      ]
+    },
+    {
+      "uid": 2214,
+      "street": "Friedhofstraße 106",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1714507,
+      "lng": 6.4524914,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/p95gmt838a8r/attachment/2lqofz8z11feqt9olbitemkyxfojz4"
       ]
     }
   ]
