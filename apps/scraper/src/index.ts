@@ -1,7 +1,8 @@
 import { isGittertier, toGittertier, type Snapshot, type HistoryEntry } from "@gittertier/shared";
-import { fetchMagsData } from "./fetch.js";
-import { diffSnapshots } from "./diff.js";
-import { loadLatestSnapshot, saveLatest, saveSnapshot, saveHistory } from "./store.js";
+import { fetchMagsData } from "./fetch";
+import { diffSnapshots } from "./diff";
+import { loadLatestSnapshot, saveLatest, saveSnapshot, saveHistory } from "./store";
+import { loadRegistry, saveRegistry, updateRegistry } from "./registry";
 
 async function main() {
   console.log("🛒 Gittertier Scraper – fetching mags Mängelmelder data...");
@@ -75,12 +76,29 @@ async function main() {
     byNeighborhood,
   };
 
+  // Update the long-lived registry of every case ever seen
+  const registry = loadRegistry();
+  const registryUpdate = updateRegistry(registry, snapshot);
+  const registryPath = saveRegistry(registry);
+  if (
+    registryUpdate.added > 0 ||
+    registryUpdate.resolved > 0 ||
+    registryUpdate.resolvedByDisappearance > 0
+  ) {
+    console.log(
+      `\n  📒 Registry: +${registryUpdate.added} new, ` +
+        `${registryUpdate.resolved} resolved (status), ` +
+        `${registryUpdate.resolvedByDisappearance} resolved (disappearance)`,
+    );
+  }
+
   const snapshotPath = saveSnapshot(snapshot);
   const latestPath = saveLatest(snapshot);
   const historyPath = saveHistory(historyEntry);
   console.log(`\n  Saved snapshot: ${snapshotPath}`);
   console.log(`  Updated latest: ${latestPath}`);
   console.log(`  Updated history: ${historyPath}`);
+  console.log(`  Updated registry: ${registryPath}`);
   console.log("✅ Done!");
 }
 

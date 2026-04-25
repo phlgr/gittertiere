@@ -38,10 +38,15 @@ export function GittertierMap({ gittertiere }: GittertierMapProps) {
   useEffect(() => {
     if (!mapRef.current || mapInstance.current) return;
 
+    const MG_BOUNDS = L.latLngBounds([51.10, 6.30], [51.28, 6.55]);
+
     const map = L.map(mapRef.current, {
       center: [51.185, 6.442],
       zoom: 13,
+      minZoom: 11,
       zoomControl: true,
+      maxBounds: MG_BOUNDS,
+      maxBoundsViscosity: 1.0,
     });
 
     L.tileLayer(
@@ -50,6 +55,7 @@ export function GittertierMap({ gittertiere }: GittertierMapProps) {
         attribution:
           '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
         maxZoom: 19,
+        bounds: MG_BOUNDS,
       },
     ).addTo(map);
 

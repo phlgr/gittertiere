@@ -6,7 +6,7 @@ import { TicketList } from "./components/TicketList";
 import { FunFacts } from "./components/FunFacts";
 
 export default function App() {
-  const { snapshot, history, error, loading } = useSnapshot();
+  const { snapshot, history, registry, error, loading } = useSnapshot();
 
   if (loading) {
     return (
@@ -42,6 +42,8 @@ export default function App() {
     totalMagsReports > 0
       ? Math.round((gittertiere.length / totalMagsReports) * 100)
       : 0;
+  const totalEverSeen =
+    registry.length > 0 ? registry.length : gittertiere.length;
 
   return (
     <div className="min-h-screen bg-[#faf8f3]">
@@ -79,6 +81,9 @@ export default function App() {
           </span>
           <span>
             📊 <strong>{percentage}%</strong> aller mags-Meldungen
+          </span>
+          <span>
+            🗂️ <strong>{totalEverSeen}</strong> Fälle insgesamt
           </span>
           <span className="hidden sm:inline text-stone-500">·</span>
           <a
@@ -172,6 +177,7 @@ export default function App() {
         <FunFacts
           gittertiere={gittertiere}
           totalMagsReports={totalMagsReports}
+          registry={registry}
         />
 
         {/* Ticket list */}
@@ -182,7 +188,7 @@ export default function App() {
           <p className="text-stone-400 text-sm mb-4">
             {gittertiere.length} dokumentierte Exemplare
           </p>
-          <TicketList gittertiere={gittertiere} />
+          <TicketList gittertiere={gittertiere} registry={registry} />
         </section>
 
         {/* CTA */}

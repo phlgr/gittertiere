@@ -1,4 +1,4 @@
-import type { MagsTicket, Gittertier, GittertierStatus } from "./types.js";
+import type { MagsTicket, Gittertier, GittertierStatus } from "./types";
 
 /** PLZ to neighborhood name mapping for Mönchengladbach */
 export const PLZ_NEIGHBORHOODS: Record<string, string> = {

@@ -43,22 +43,10 @@ export function PopulationTimeline({ history }: PopulationTimelineProps) {
         </p>
         <div className="flex gap-6 text-sm">
           <div>
-            <span className="text-xl font-bold text-stone-900">
-              {entry.total}
-            </span>{" "}
-            <span className="text-stone-400">gesamt</span>
-          </div>
-          <div>
             <span className="text-xl font-bold text-amber-700">
               {entry.neu + entry.inArbeit}
             </span>{" "}
-            <span className="text-stone-400">frei</span>
-          </div>
-          <div>
-            <span className="text-xl font-bold text-green-700">
-              {entry.geloest}
-            </span>{" "}
-            <span className="text-stone-400">gefangen</span>
+            <span className="text-stone-400">auf freiem Fuß</span>
           </div>
         </div>
         <p className="text-stone-400 text-xs mt-3">
@@ -71,7 +59,6 @@ export function PopulationTimeline({ history }: PopulationTimelineProps) {
   const data = history.map((h) => ({
     date: formatDate(h.date),
     Entlaufen: h.neu + h.inArbeit,
-    Eingefangen: h.geloest,
   }));
 
   return (
@@ -83,10 +70,6 @@ export function PopulationTimeline({ history }: PopulationTimelineProps) {
               <linearGradient id="colorFree" x1="0" y1="0" x2="0" y2="1">
                 <stop offset="5%" stopColor="#b45309" stopOpacity={0.2} />
                 <stop offset="95%" stopColor="#b45309" stopOpacity={0} />
-              </linearGradient>
-              <linearGradient id="colorCaptured" x1="0" y1="0" x2="0" y2="1">
-                <stop offset="5%" stopColor="#16a34a" stopOpacity={0.15} />
-                <stop offset="95%" stopColor="#16a34a" stopOpacity={0} />
               </linearGradient>
             </defs>
             <CartesianGrid strokeDasharray="3 3" stroke="#e7e5e4" />
@@ -116,24 +99,13 @@ export function PopulationTimeline({ history }: PopulationTimelineProps) {
               fill="url(#colorFree)"
               strokeWidth={1.5}
             />
-            <Area
-              type="monotone"
-              dataKey="Eingefangen"
-              stroke="#16a34a"
-              fill="url(#colorCaptured)"
-              strokeWidth={1.5}
-            />
           </AreaChart>
         </ResponsiveContainer>
       </div>
       <div className="mt-2 flex gap-4 text-xs text-stone-500">
         <span className="flex items-center gap-1.5">
           <span className="inline-block w-2 h-2 rounded-full bg-amber-700" />
-          Auf freiem Fuß
-        </span>
-        <span className="flex items-center gap-1.5">
-          <span className="inline-block w-2 h-2 rounded-full bg-green-600" />
-          Eingefangen
+          Aktuell auf freiem Fuß
         </span>
       </div>
     </div>

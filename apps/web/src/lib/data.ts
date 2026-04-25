@@ -1,4 +1,4 @@
-import type { Snapshot, HistoryEntry } from "@gittertier/shared";
+import type { Snapshot, HistoryEntry, RegistryEntry } from "@gittertier/shared";
 
 export async function loadSnapshot(): Promise<Snapshot> {
   const base = import.meta.env.BASE_URL;
@@ -12,6 +12,13 @@ export async function loadSnapshot(): Promise<Snapshot> {
 export async function loadHistory(): Promise<HistoryEntry[]> {
   const base = import.meta.env.BASE_URL;
   const response = await fetch(`${base}data/history.json`);
+  if (!response.ok) return [];
+  return response.json();
+}
+
+export async function loadRegistry(): Promise<RegistryEntry[]> {
+  const base = import.meta.env.BASE_URL;
+  const response = await fetch(`${base}data/registry.json`);
   if (!response.ok) return [];
   return response.json();
 }

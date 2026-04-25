@@ -52,6 +52,22 @@ export interface Snapshot {
   gittertiere: Gittertier[];
 }
 
+/** A single case in the persistent registry — keyed by uid, never deleted.
+ * Disappearing from the mags API is treated as resolution: the case is closed
+ * with `resolvedAt` set to the scrape day we first noticed it was gone. */
+export interface RegistryEntry {
+  uid: number;
+  street: string;
+  zipcode: string;
+  neighborhood: string;
+  lat: number;
+  lng: number;
+  firstSeen: string;          // YYYY-MM-DD
+  lastSeen: string;           // YYYY-MM-DD — last scrape day this uid was present in the API
+  resolvedAt: string | null;  // YYYY-MM-DD — day status first became "Gelöst" (or day we first noticed disappearance)
+  status: GittertierStatus;
+}
+
 /** A single daily history entry appended by the scraper */
 export interface HistoryEntry {
   date: string;

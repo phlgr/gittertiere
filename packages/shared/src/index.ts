@@ -5,11 +5,12 @@ export type {
   Gittertier,
   Snapshot,
   HistoryEntry,
-} from "./types.js";
+  RegistryEntry,
+} from "./types";
 
 export {
   PLZ_NEIGHBORHOODS,
   isGittertier,
   toGittertier,
   imageUrl,
-} from "./gittertier.js";
+} from "./gittertier";
