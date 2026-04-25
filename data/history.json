@@ -478,5 +478,65 @@
         "geloest": 0
       }
     }
+  },
+  {
+    "date": "2026-04-25",
+    "total": 33,
+    "neu": 0,
+    "inArbeit": 20,
+    "geloest": 13,
+    "totalMagsReports": 106,
+    "newSightings": 1,
+    "removed": 0,
+    "byNeighborhood": {
+      "Rheydt": {
+        "total": 13,
+        "neu": 0,
+        "inArbeit": 4,
+        "geloest": 9
+      },
+      "Giesenkirchen": {
+        "total": 6,
+        "neu": 0,
+        "inArbeit": 4,
+        "geloest": 2
+      },
+      "Lürrip / Hardterbroich": {
+        "total": 9,
+        "neu": 0,
+        "inArbeit": 8,
+        "geloest": 1
+      },
+      "Stadtmitte": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      },
+      "Mülfort": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 1
+      },
+      "Uedding": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      },
+      "Unbekannt": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      },
+      "Odenkirchen": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      }
+    }
   }
 ]
