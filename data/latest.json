@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-04-26T06:42:23.813Z",
-  "totalMagsReports": 106,
+  "fetchedAt": "2026-04-27T06:58:49.492Z",
+  "totalMagsReports": 97,
   "gittertiere": [
     {
       "uid": 2089,
@@ -500,6 +500,21 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/8nfe9yra4ab7/attachment/rq6cb71hgkj9a0tz0x8i7j55d0yan3"
+      ]
+    },
+    {
+      "uid": 2217,
+      "street": "Friedrich-Ebert-Straße 103",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1691018,
+      "lng": 6.4399769,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/wz496bdem99e/attachment/jnazt59o3t27ib0p0hq9a5b79vpztm"
       ]
     }
   ]
