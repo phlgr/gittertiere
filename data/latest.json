@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-04-27T06:58:49.492Z",
-  "totalMagsReports": 97,
+  "fetchedAt": "2026-04-28T06:59:51.115Z",
+  "totalMagsReports": 113,
   "gittertiere": [
     {
       "uid": 2089,
@@ -515,6 +515,34 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/wz496bdem99e/attachment/jnazt59o3t27ib0p0hq9a5b79vpztm"
+      ]
+    },
+    {
+      "uid": 2229,
+      "street": "Dohler Straße 231",
+      "zipcode": "41238",
+      "neighborhood": "Giesenkirchen",
+      "lat": 51.1823105,
+      "lng": 6.4600829,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": []
+    },
+    {
+      "uid": 2230,
+      "street": "Pescher Straße 211",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.19459,
+      "lng": 6.4556983,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/knz6zwpwcep6/attachment/cw6rwuruoqin61fprrlbgvr04q5dli"
       ]
     }
   ]
