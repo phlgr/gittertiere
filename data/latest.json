@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-04-30T06:57:18.158Z",
-  "totalMagsReports": 139,
+  "fetchedAt": "2026-05-01T06:59:20.059Z",
+  "totalMagsReports": 137,
   "gittertiere": [
     {
       "uid": 2089,
@@ -557,6 +557,21 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": []
+    },
+    {
+      "uid": 2252,
+      "street": "Gracht 23",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1666116,
+      "lng": 6.4484885,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/t67rta78zwbt/attachment/fou2i28ew5wnafe4ny0r8dgwagy5b5"
+      ]
     }
   ]
 }
