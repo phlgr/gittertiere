@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-01T06:59:20.059Z",
-  "totalMagsReports": 137,
+  "fetchedAt": "2026-05-02T06:43:33.142Z",
+  "totalMagsReports": 135,
   "gittertiere": [
     {
       "uid": 2089,
@@ -571,6 +571,36 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/t67rta78zwbt/attachment/fou2i28ew5wnafe4ny0r8dgwagy5b5"
+      ]
+    },
+    {
+      "uid": 2255,
+      "street": "Lorenz-Görtz-Straße 89",
+      "zipcode": "41238",
+      "neighborhood": "Giesenkirchen",
+      "lat": 51.1490044,
+      "lng": 6.4841438,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/b62g5dbtat8e/attachment/vw3yf3lgfjnsm2xpy417gd5g77z62p"
+      ]
+    },
+    {
+      "uid": 2256,
+      "street": "Roermonder Straße 124",
+      "zipcode": "41068",
+      "neighborhood": "Uedding",
+      "lat": 51.1979676,
+      "lng": 6.4106523,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/49eek999pt78/attachment/2hkihp5t4qem7mmll75r1a3amifv3i"
       ]
     }
   ]
