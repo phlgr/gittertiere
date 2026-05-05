@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-04T07:07:48.446Z",
-  "totalMagsReports": 135,
+  "fetchedAt": "2026-05-05T06:51:15.575Z",
+  "totalMagsReports": 153,
   "gittertiere": [
     {
       "uid": 2089,
@@ -15,22 +15,6 @@
       "locationname": "EKW Netto",
       "images": [
         "/tickets/g4zwcpbyd8ce/attachment/6s59peend124icyo66hn95g434ye5b"
-      ]
-    },
-    {
-      "uid": 2092,
-      "street": "Hosterweg 2",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.1694526,
-      "lng": 6.4622227,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/b46nc5r2gmw5/attachment/8yge052fflzf7iqm6l8skqwhhjij3g",
-        "/tickets/b46nc5r2gmw5/attachment/4sy8d5rhk1ebobwwz6qg6ru5kb7zm8"
       ]
     },
     {
@@ -107,36 +91,6 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/eb2e73k3g8em/attachment/heopjmnl7sgiwkpry297pliafqg4vj"
-      ]
-    },
-    {
-      "uid": 2112,
-      "street": "Ückelhofer Straße 101",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1861351,
-      "lng": 6.445856,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/49mcztc87t82/attachment/m61vz3xvku3887y0728hgxi2hvrv9s"
-      ]
-    },
-    {
-      "uid": 2113,
-      "street": "Ückelhofer Straße 101",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1861351,
-      "lng": 6.445856,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/paf9yc53g67c/attachment/a5g642g36nrzc3udxq9ezgtmlihebe"
       ]
     },
     {
@@ -601,6 +555,21 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/nbp2eyycn463/attachment/tgog6slzywv579ajgfywy0njd106a9"
+      ]
+    },
+    {
+      "uid": 2267,
+      "street": "Cecilienstraße 7",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1760621,
+      "lng": 6.4399303,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/4b35a9bkyat9/attachment/doqx6bvfiza43aurpg5iv03u1djv7o"
       ]
     }
   ]
