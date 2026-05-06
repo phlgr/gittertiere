@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-05T06:51:15.575Z",
-  "totalMagsReports": 153,
+  "fetchedAt": "2026-05-06T06:59:49.428Z",
+  "totalMagsReports": 155,
   "gittertiere": [
     {
       "uid": 2089,
@@ -257,7 +257,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/6g5fgy3kd4dw/attachment/odh9y4kn9dm5v490715tv9vcbjd07x"
+        "/tickets/tp53rnk8eyfd/attachment/fpilgwibyfubkzrfhhw97wrbv697uf"
       ]
     },
     {
@@ -433,12 +433,12 @@
       "neighborhood": "Odenkirchen",
       "lat": 51.1715399,
       "lng": 6.4528768,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/2pecpc8edm9t/attachment/wqsqnrppopgjkrsuea9qxagnh5vm8f"
+        "/tickets/8nfe9yra4ab7/attachment/rq6cb71hgkj9a0tz0x8i7j55d0yan3"
       ]
     },
     {
@@ -570,6 +570,22 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/4b35a9bkyat9/attachment/doqx6bvfiza43aurpg5iv03u1djv7o"
+      ]
+    },
+    {
+      "uid": 2275,
+      "street": "Gasstraße 48",
+      "zipcode": "41238",
+      "neighborhood": "Giesenkirchen",
+      "lat": 51.1598621,
+      "lng": 6.4496667,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Netto",
+      "images": [
+        "/tickets/e4k457ckfbny/attachment/lnoqg4uta0mejrkkl8tiufw5sq625q",
+        "/tickets/e4k457ckfbny/attachment/n56blmkoft2zs4ol9co125ckusxg36"
       ]
     }
   ]
