@@ -1,113 +1,7 @@
 {
-  "fetchedAt": "2026-05-06T06:59:49.428Z",
-  "totalMagsReports": 155,
+  "fetchedAt": "2026-05-07T07:05:22.105Z",
+  "totalMagsReports": 154,
   "gittertiere": [
-    {
-      "uid": 2089,
-      "street": "Nordstraße 114",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1732346,
-      "lng": 6.4468427,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "",
-      "locationname": "EKW Netto",
-      "images": [
-        "/tickets/g4zwcpbyd8ce/attachment/6s59peend124icyo66hn95g434ye5b"
-      ]
-    },
-    {
-      "uid": 2096,
-      "street": "Gasstraße 74",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.160295,
-      "lng": 6.4506134,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/m4t2waf8eynp/attachment/noq1y3ln84an7crupp1ar4kpa0k1rq"
-      ]
-    },
-    {
-      "uid": 2097,
-      "street": "Gasstraße 74",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.160295,
-      "lng": 6.4506134,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/ga2n95dpemp9/attachment/diifg80dsfajkud9yz7wqiobvlez7p",
-        "/tickets/ga2n95dpemp9/attachment/yja6629ymgldyfclzkpabf2jplptfx"
-      ]
-    },
-    {
-      "uid": 2098,
-      "street": "Gasstraße 67",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1607702,
-      "lng": 6.4511491,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/pz297c5be2aa/attachment/cg2gjy6sm0iwuxadik102exex5zfc9"
-      ]
-    },
-    {
-      "uid": 2099,
-      "street": "Elektrizitätsstraße 48",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1579544,
-      "lng": 6.4507176,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/7446ay3c5ycn/attachment/9m4rde8yxkwsh0oklel490r6id7mef"
-      ]
-    },
-    {
-      "uid": 2100,
-      "street": "Hövelstraße 44 ",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.1611657,
-      "lng": 6.4567106,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/eb2e73k3g8em/attachment/heopjmnl7sgiwkpry297pliafqg4vj"
-      ]
-    },
-    {
-      "uid": 2115,
-      "street": "Dorfbroicher Straße 10",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.169099,
-      "lng": 6.4516697,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/dfdtmw8e5kka/attachment/0l1ho51zfn9x95p95b38pq4excl68r"
-      ]
-    },
     {
       "uid": 2124,
       "street": "Leibnizstraße 33",
@@ -257,7 +151,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/tp53rnk8eyfd/attachment/fpilgwibyfubkzrfhhw97wrbv697uf"
+        "/tickets/6g5fgy3kd4dw/attachment/odh9y4kn9dm5v490715tv9vcbjd07x"
       ]
     },
     {
@@ -366,37 +260,6 @@
       ]
     },
     {
-      "uid": 2210,
-      "street": "Hauptstraße 24",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1676547,
-      "lng": 6.4425131,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/c932t3e26fe2/attachment/4zm6uk7wd6a1tmmikwc061uzi6xabg",
-        "/tickets/c932t3e26fe2/attachment/27dd5xbh6e9749hemtv2jpahe65iau"
-      ]
-    },
-    {
-      "uid": 2212,
-      "street": "Friedhofstraße 44",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1703917,
-      "lng": 6.4498455,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/9ck5dgmr3fpt/attachment/wg47xfnuyjx477zzqeew1a8gg418i7"
-      ]
-    },
-    {
       "uid": 2213,
       "street": "Ottostraße 4",
       "zipcode": "41238",
@@ -412,33 +275,18 @@
       ]
     },
     {
-      "uid": 2214,
-      "street": "Friedhofstraße 106",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1714507,
-      "lng": 6.4524914,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/p95gmt838a8r/attachment/2lqofz8z11feqt9olbitemkyxfojz4"
-      ]
-    },
-    {
       "uid": 2216,
       "street": "Karlsbader Straße 2",
       "zipcode": "41199",
       "neighborhood": "Odenkirchen",
       "lat": 51.1715399,
       "lng": 6.4528768,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/8nfe9yra4ab7/attachment/rq6cb71hgkj9a0tz0x8i7j55d0yan3"
+        "/tickets/2pecpc8edm9t/attachment/wqsqnrppopgjkrsuea9qxagnh5vm8f"
       ]
     },
     {
@@ -586,6 +434,51 @@
       "images": [
         "/tickets/e4k457ckfbny/attachment/lnoqg4uta0mejrkkl8tiufw5sq625q",
         "/tickets/e4k457ckfbny/attachment/n56blmkoft2zs4ol9co125ckusxg36"
+      ]
+    },
+    {
+      "uid": 2277,
+      "street": "Watelerstraße 160",
+      "zipcode": "41239",
+      "neighborhood": "Mülfort",
+      "lat": 51.171533,
+      "lng": 6.4221934,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Netto",
+      "images": [
+        "/tickets/kr923pyw4fgb/attachment/4fo1tedxcuqjfkflopmnmjowuhxjce"
+      ]
+    },
+    {
+      "uid": 2278,
+      "street": "Bylandtstraße 28",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1686743,
+      "lng": 6.4555588,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Rossmann",
+      "images": [
+        "/tickets/tr7b9bgfzpc2/attachment/ighxe2hw4ittqn00dkpp9t5p0jd9uu"
+      ]
+    },
+    {
+      "uid": 2289,
+      "street": "Nordstraße 127",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1736636,
+      "lng": 6.4482417,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/5943p4yc5cfz/attachment/w1t5icpkh4lppzuhy773n4dw52he6b"
       ]
     }
   ]
