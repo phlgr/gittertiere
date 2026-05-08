@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-07T07:05:22.105Z",
-  "totalMagsReports": 154,
+  "fetchedAt": "2026-05-08T06:40:56.742Z",
+  "totalMagsReports": 164,
   "gittertiere": [
     {
       "uid": 2124,
@@ -9,8 +9,8 @@
       "neighborhood": "Stadtmitte",
       "lat": 51.189533,
       "lng": 6.4274714,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "",
       "locationname": "EKW Netto",
       "images": [
@@ -24,8 +24,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1555125,
       "lng": 6.4495164,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "",
       "locationname": "EKW Penny",
       "images": [
@@ -40,8 +40,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1745062,
       "lng": 6.4499306,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "",
       "locationname": "EKW Kaufland",
       "images": [
@@ -56,8 +56,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1875479,
       "lng": 6.4623192,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -71,8 +71,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1875357,
       "lng": 6.4628533,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -86,8 +86,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1987533,
       "lng": 6.4644343,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -101,8 +101,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1878526,
       "lng": 6.4587849,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -116,8 +116,8 @@
       "neighborhood": "Giesenkirchen",
       "lat": 51.1532059,
       "lng": 6.486348,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -131,8 +131,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.2083181,
       "lng": 6.4636801,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -146,12 +146,12 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.2083181,
       "lng": 6.4636801,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/6g5fgy3kd4dw/attachment/odh9y4kn9dm5v490715tv9vcbjd07x"
+        "/tickets/tp53rnk8eyfd/attachment/fpilgwibyfubkzrfhhw97wrbv697uf"
       ]
     },
     {
@@ -176,8 +176,8 @@
       "neighborhood": "Giesenkirchen",
       "lat": 51.1681533,
       "lng": 6.4629398,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -191,8 +191,8 @@
       "neighborhood": "Uedding",
       "lat": 51.1798058,
       "lng": 6.3910885,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -206,8 +206,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1701758,
       "lng": 6.4527017,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -221,8 +221,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1682908,
       "lng": 6.4559467,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -236,8 +236,8 @@
       "neighborhood": "Giesenkirchen",
       "lat": 51.1780854,
       "lng": 6.4476177,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -251,8 +251,8 @@
       "neighborhood": "Unbekannt",
       "lat": 51.1983387,
       "lng": 6.3461696,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -479,6 +479,21 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/5943p4yc5cfz/attachment/w1t5icpkh4lppzuhy773n4dw52he6b"
+      ]
+    },
+    {
+      "uid": 2291,
+      "street": "Hehnerholt 38b",
+      "zipcode": "41069",
+      "neighborhood": "Holt / Westend",
+      "lat": 51.1832553,
+      "lng": 6.4062434,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Penny",
+      "images": [
+        "/tickets/n3p6dd8pf2zy/attachment/udl7cwau6lz4ydjfd5mv6e14wzr2v4"
       ]
     }
   ]
