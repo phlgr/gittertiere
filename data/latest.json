@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-08T06:40:56.742Z",
-  "totalMagsReports": 164,
+  "fetchedAt": "2026-05-09T06:47:26.731Z",
+  "totalMagsReports": 173,
   "gittertiere": [
     {
       "uid": 2124,
@@ -151,7 +151,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/tp53rnk8eyfd/attachment/fpilgwibyfubkzrfhhw97wrbv697uf"
+        "/tickets/6g5fgy3kd4dw/attachment/odh9y4kn9dm5v490715tv9vcbjd07x"
       ]
     },
     {
@@ -266,8 +266,8 @@
       "neighborhood": "Giesenkirchen",
       "lat": 51.1639978,
       "lng": 6.4590279,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -281,12 +281,12 @@
       "neighborhood": "Odenkirchen",
       "lat": 51.1715399,
       "lng": 6.4528768,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/2pecpc8edm9t/attachment/wqsqnrppopgjkrsuea9qxagnh5vm8f"
+        "/tickets/8nfe9yra4ab7/attachment/rq6cb71hgkj9a0tz0x8i7j55d0yan3"
       ]
     },
     {
@@ -296,8 +296,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1691018,
       "lng": 6.4399769,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
