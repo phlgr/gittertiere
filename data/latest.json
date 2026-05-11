@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-10T06:59:02.339Z",
-  "totalMagsReports": 173,
+  "fetchedAt": "2026-05-11T07:18:36.062Z",
+  "totalMagsReports": 175,
   "gittertiere": [
     {
       "uid": 2124,
@@ -331,19 +331,6 @@
       "images": [
         "/tickets/knz6zwpwcep6/attachment/cw6rwuruoqin61fprrlbgvr04q5dli"
       ]
-    },
-    {
-      "uid": 2241,
-      "street": "Blumenstraße 27",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1750415,
-      "lng": 6.4410303,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": []
     },
     {
       "uid": 2252,
