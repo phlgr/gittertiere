@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-11T07:18:36.062Z",
+  "fetchedAt": "2026-05-12T07:03:40.986Z",
   "totalMagsReports": 175,
   "gittertiere": [
     {
@@ -305,19 +305,6 @@
       ]
     },
     {
-      "uid": 2229,
-      "street": "Dohler Straße 231",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.1823105,
-      "lng": 6.4600829,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": []
-    },
-    {
       "uid": 2230,
       "street": "Pescher Straße 211",
       "zipcode": "41065",
@@ -481,6 +468,67 @@
       "locationname": "Einkaufswagen Penny",
       "images": [
         "/tickets/n3p6dd8pf2zy/attachment/udl7cwau6lz4ydjfd5mv6e14wzr2v4"
+      ]
+    },
+    {
+      "uid": 2330,
+      "street": "Von-Galen-Straße 8",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1650383,
+      "lng": 6.4496609,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/w587e8p27e6b/attachment/ru9qnnynl7a5rw0e2xbcp0dqb95k5h"
+      ]
+    },
+    {
+      "uid": 2331,
+      "street": "Gutenbergstraße 2",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2033339,
+      "lng": 6.4597588,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "",
+      "locationname": "EKW Lidl",
+      "images": [
+        "/tickets/888fgwr6zywd/attachment/p0z4zy1ou12zfy5dr81hfsqznsr92g",
+        "/tickets/888fgwr6zywd/attachment/wnf4n1tc8ubqy313xh6a7zldfr2ftg"
+      ]
+    },
+    {
+      "uid": 2332,
+      "street": "Friedhofstraße 105",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.171703,
+      "lng": 6.4524278,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen LIDL",
+      "images": [
+        "/tickets/b6tzf5yyr9k8/attachment/rbmzbr9qolyevwj2pys2y9szs7b8gl"
+      ]
+    },
+    {
+      "uid": 2334,
+      "street": "Volksbadstraße 21",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2018924,
+      "lng": 6.4743273,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Penny",
+      "images": [
+        "/tickets/p2223memzfw9/attachment/0hh7gi3xsgz6r7qiftzhob8fzlbpjl"
       ]
     }
   ]
