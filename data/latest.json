@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-12T07:03:40.986Z",
-  "totalMagsReports": 175,
+  "fetchedAt": "2026-05-13T07:07:47.991Z",
+  "totalMagsReports": 185,
   "gittertiere": [
     {
       "uid": 2124,
@@ -151,7 +151,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/tp53rnk8eyfd/attachment/fpilgwibyfubkzrfhhw97wrbv697uf"
+        "/tickets/6g5fgy3kd4dw/attachment/odh9y4kn9dm5v490715tv9vcbjd07x"
       ]
     },
     {
@@ -286,7 +286,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/2pecpc8edm9t/attachment/wqsqnrppopgjkrsuea9qxagnh5vm8f"
+        "/tickets/8nfe9yra4ab7/attachment/rq6cb71hgkj9a0tz0x8i7j55d0yan3"
       ]
     },
     {
@@ -311,8 +311,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.19459,
       "lng": 6.4556983,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -326,8 +326,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1666116,
       "lng": 6.4484885,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -341,8 +341,8 @@
       "neighborhood": "Giesenkirchen",
       "lat": 51.1490044,
       "lng": 6.4841438,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -356,8 +356,8 @@
       "neighborhood": "Uedding",
       "lat": 51.1979676,
       "lng": 6.4106523,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -386,8 +386,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1760621,
       "lng": 6.4399303,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -462,12 +462,12 @@
       "neighborhood": "Holt / Westend",
       "lat": 51.1832553,
       "lng": 6.4062434,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Penny",
       "images": [
-        "/tickets/n3p6dd8pf2zy/attachment/udl7cwau6lz4ydjfd5mv6e14wzr2v4"
+        "/tickets/ye6mc6dekb9y/attachment/cimbsawlsy7pt1zvuc4kh3ykshxi5h"
       ]
     },
     {
