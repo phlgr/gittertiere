@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-13T07:07:47.991Z",
-  "totalMagsReports": 185,
+  "fetchedAt": "2026-05-14T07:06:13.118Z",
+  "totalMagsReports": 198,
   "gittertiere": [
     {
       "uid": 2124,
@@ -462,8 +462,8 @@
       "neighborhood": "Holt / Westend",
       "lat": 51.1832553,
       "lng": 6.4062434,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Penny",
       "images": [
