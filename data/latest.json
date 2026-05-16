@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-15T07:12:26.404Z",
-  "totalMagsReports": 198,
+  "fetchedAt": "2026-05-16T06:51:05.016Z",
+  "totalMagsReports": 205,
   "gittertiere": [
     {
       "uid": 2124,
@@ -371,8 +371,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1941226,
       "lng": 6.4450697,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -401,8 +401,8 @@
       "neighborhood": "Giesenkirchen",
       "lat": 51.1598621,
       "lng": 6.4496667,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Netto",
       "images": [
@@ -417,8 +417,8 @@
       "neighborhood": "Mülfort",
       "lat": 51.171533,
       "lng": 6.4221934,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Netto",
       "images": [
@@ -447,8 +447,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1736636,
       "lng": 6.4482417,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
