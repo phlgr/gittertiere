@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-17T07:02:01.608Z",
-  "totalMagsReports": 205,
+  "fetchedAt": "2026-05-18T07:29:58.581Z",
+  "totalMagsReports": 182,
   "gittertiere": [
     {
       "uid": 2124,
@@ -151,7 +151,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/tp53rnk8eyfd/attachment/fpilgwibyfubkzrfhhw97wrbv697uf"
+        "/tickets/6g5fgy3kd4dw/attachment/odh9y4kn9dm5v490715tv9vcbjd07x"
       ]
     },
     {
@@ -286,7 +286,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/2pecpc8edm9t/attachment/wqsqnrppopgjkrsuea9qxagnh5vm8f"
+        "/tickets/8nfe9yra4ab7/attachment/rq6cb71hgkj9a0tz0x8i7j55d0yan3"
       ]
     },
     {
@@ -467,7 +467,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Penny",
       "images": [
-        "/tickets/n3p6dd8pf2zy/attachment/udl7cwau6lz4ydjfd5mv6e14wzr2v4"
+        "/tickets/ye6mc6dekb9y/attachment/cimbsawlsy7pt1zvuc4kh3ykshxi5h"
       ]
     },
     {
@@ -529,6 +529,66 @@
       "locationname": "Einkaufswagen Penny",
       "images": [
         "/tickets/p2223memzfw9/attachment/0hh7gi3xsgz6r7qiftzhob8fzlbpjl"
+      ]
+    },
+    {
+      "uid": 2355,
+      "street": "Wilhelm-Strauß-Straße 95",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1681548,
+      "lng": 6.452831,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Rossmann",
+      "images": [
+        "/tickets/649yb9t5eznw/attachment/luwsfj7h4z3fv3l4bb1q9quhbu6w4f"
+      ]
+    },
+    {
+      "uid": 2361,
+      "street": "Zeppelinstraße 47",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2083181,
+      "lng": 6.4636801,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Kaufland",
+      "images": [
+        "/tickets/593pmt7c6a4w/attachment/1i9rz56g8d283yut4t02om22mp59s4"
+      ]
+    },
+    {
+      "uid": 2362,
+      "street": "Zeppelinstraße 47",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2083181,
+      "lng": 6.4636801,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Netto",
+      "images": [
+        "/tickets/kda946ma3cf4/attachment/yythie50zrzbhlm6o2xj4jz8vpn0rw"
+      ]
+    },
+    {
+      "uid": 2365,
+      "street": "Schlossstraße 30",
+      "zipcode": "41238",
+      "neighborhood": "Giesenkirchen",
+      "lat": 51.1711792,
+      "lng": 6.4575955,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Netto",
+      "images": [
+        "/tickets/y9za8p94pc6g/attachment/pnez2q66k5mm6ok6ci54li5dh7kgyf"
       ]
     }
   ]
