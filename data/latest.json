@@ -1,52 +1,7 @@
 {
-  "fetchedAt": "2026-05-21T07:23:03.469Z",
-  "totalMagsReports": 178,
+  "fetchedAt": "2026-05-22T07:18:56.340Z",
+  "totalMagsReports": 171,
   "gittertiere": [
-    {
-      "uid": 2213,
-      "street": "Ottostraße 4",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.1639978,
-      "lng": 6.4590279,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/zmbcf97tgpc7/attachment/tehyuto8agysk1vthby2obj71ajumr"
-      ]
-    },
-    {
-      "uid": 2216,
-      "street": "Karlsbader Straße 2",
-      "zipcode": "41199",
-      "neighborhood": "Odenkirchen",
-      "lat": 51.1715399,
-      "lng": 6.4528768,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/2pecpc8edm9t/attachment/wqsqnrppopgjkrsuea9qxagnh5vm8f"
-      ]
-    },
-    {
-      "uid": 2217,
-      "street": "Friedrich-Ebert-Straße 103",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1691018,
-      "lng": 6.4399769,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/wz496bdem99e/attachment/jnazt59o3t27ib0p0hq9a5b79vpztm"
-      ]
-    },
     {
       "uid": 2230,
       "street": "Pescher Straße 211",
@@ -503,6 +458,126 @@
       "locationname": "Einkaufswagen NoName",
       "images": [
         "/tickets/me2688dnrt88/attachment/l0gfnzv71p4qctqer6ujxctgt9dvt9"
+      ]
+    },
+    {
+      "uid": 3162,
+      "street": "Korschenbroicher Straße 24",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1945223,
+      "lng": 6.4506389,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Kaufland",
+      "images": [
+        "/tickets/2dny86fytc8d/attachment/f3bdf7r59g1slxdn4of2u0htwrl1nw"
+      ]
+    },
+    {
+      "uid": 3175,
+      "street": "Kabelstraße 36",
+      "zipcode": "41069",
+      "neighborhood": "Holt / Westend",
+      "lat": 51.1852203,
+      "lng": 6.4177048,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Netto",
+      "images": [
+        "/tickets/cy7dgp4r8n7e/attachment/txptpayr82r5iz6a4krydf3n9r8h1y"
+      ]
+    },
+    {
+      "uid": 3176,
+      "street": "Hehner Straße 126",
+      "zipcode": "41069",
+      "neighborhood": "Holt / Westend",
+      "lat": 51.1886308,
+      "lng": 6.4090791,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Penny",
+      "images": [
+        "/tickets/fn7cmb88mtgy/attachment/vwu5fxiefohzblotggzy37jttnn7r4"
+      ]
+    },
+    {
+      "uid": 3183,
+      "street": "Gracht 23",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1666116,
+      "lng": 6.4484885,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Aldi",
+      "images": [
+        "/tickets/tabf9wdy8gcg/attachment/v5jnhg3n8maz8rvk2m1uevqwzplprb"
+      ]
+    },
+    {
+      "uid": 3233,
+      "street": "Untere Straße 35",
+      "zipcode": "41068",
+      "neighborhood": "Uedding",
+      "lat": 51.197439,
+      "lng": 6.4147575,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/95b39zfmd9fd/attachment/lfd6tpdj9pc560vhrz0sy5oizybtii"
+      ]
+    },
+    {
+      "uid": 3254,
+      "street": "Nakatenusstraße 1",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2041266,
+      "lng": 6.4638149,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/6dfp6wef7zr2/attachment/raxh2rwpeitbf3dwsd381vap0zhvck"
+      ]
+    },
+    {
+      "uid": 3261,
+      "street": "Giesenkirchener Straße 222",
+      "zipcode": "41238",
+      "neighborhood": "Giesenkirchen",
+      "lat": 51.1508198,
+      "lng": 6.4576097,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Penny",
+      "images": [
+        "/tickets/fegnct4bykyr/attachment/4x4gdhsoiwyu6gyadaujse3i1hbn7i"
+      ]
+    },
+    {
+      "uid": 3262,
+      "street": "Hovener Straße 58",
+      "zipcode": "41066",
+      "neighborhood": "Neuwerk",
+      "lat": 51.2176277,
+      "lng": 6.4513184,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Edeka",
+      "images": [
+        "/tickets/bb33kgrmy9w8/attachment/cag3mwtu5z44ijc6maq00x5jzkcg6e"
       ]
     }
   ]
