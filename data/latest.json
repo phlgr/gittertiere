@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-23T06:59:57.284Z",
+  "fetchedAt": "2026-05-24T07:10:59.834Z",
   "totalMagsReports": 180,
   "gittertiere": [
     {
@@ -150,7 +150,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Penny",
       "images": [
-        "/tickets/ye6mc6dekb9y/attachment/cimbsawlsy7pt1zvuc4kh3ykshxi5h"
+        "/tickets/n3p6dd8pf2zy/attachment/udl7cwau6lz4ydjfd5mv6e14wzr2v4"
       ]
     },
     {
@@ -205,12 +205,12 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.2083181,
       "lng": 6.4636801,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Kaufland",
       "images": [
-        "/tickets/593pmt7c6a4w/attachment/1i9rz56g8d283yut4t02om22mp59s4"
+        "/tickets/647tmcmbg7tr/attachment/49gvhplkjatm9i5regk8b9md3y2n5k"
       ]
     },
     {
@@ -240,7 +240,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Netto",
       "images": [
-        "/tickets/y9za8p94pc6g/attachment/pnez2q66k5mm6ok6ci54li5dh7kgyf"
+        "/tickets/7g39gpey3krw/attachment/6j2psb8ejpw53u0gvah3p2ej2b2h36"
       ]
     },
     {
