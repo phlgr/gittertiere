@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-24T07:10:59.834Z",
-  "totalMagsReports": 180,
+  "fetchedAt": "2026-05-25T07:40:11.925Z",
+  "totalMagsReports": 143,
   "gittertiere": [
     {
       "uid": 2230,
@@ -150,7 +150,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Penny",
       "images": [
-        "/tickets/n3p6dd8pf2zy/attachment/udl7cwau6lz4ydjfd5mv6e14wzr2v4"
+        "/tickets/ye6mc6dekb9y/attachment/cimbsawlsy7pt1zvuc4kh3ykshxi5h"
       ]
     },
     {
@@ -205,27 +205,12 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.2083181,
       "lng": 6.4636801,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Kaufland",
-      "images": [
-        "/tickets/647tmcmbg7tr/attachment/49gvhplkjatm9i5regk8b9md3y2n5k"
-      ]
-    },
-    {
-      "uid": 2362,
-      "street": "Zeppelinstraße 47",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.2083181,
-      "lng": 6.4636801,
       "status": "Gelöst",
       "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
-      "locationname": "Einkaufswagen Netto",
+      "locationname": "Einkaufswagen Kaufland",
       "images": [
-        "/tickets/kda946ma3cf4/attachment/yythie50zrzbhlm6o2xj4jz8vpn0rw"
+        "/tickets/593pmt7c6a4w/attachment/1i9rz56g8d283yut4t02om22mp59s4"
       ]
     },
     {
@@ -240,7 +225,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Netto",
       "images": [
-        "/tickets/7g39gpey3krw/attachment/6j2psb8ejpw53u0gvah3p2ej2b2h36"
+        "/tickets/y9za8p94pc6g/attachment/pnez2q66k5mm6ok6ci54li5dh7kgyf"
       ]
     },
     {
@@ -578,6 +563,153 @@
       "locationname": "Einkaufswagen Edeka",
       "images": [
         "/tickets/bb33kgrmy9w8/attachment/cag3mwtu5z44ijc6maq00x5jzkcg6e"
+      ]
+    },
+    {
+      "uid": 4059,
+      "street": "Gasstraße 155",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1607087,
+      "lng": 6.4564948,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/d78868369d7d/attachment/6m9843x4w4zcryholbdahyodds1hu2"
+      ]
+    },
+    {
+      "uid": 4060,
+      "street": "Dessauer Straße 28",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1861033,
+      "lng": 6.440847,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Norma",
+      "images": [
+        "/tickets/m7kmdgp7r4bp/attachment/2wo0ue7co6zeezxcdjgnnr85f7s6ns"
+      ]
+    },
+    {
+      "uid": 4073,
+      "street": "Brucknerallee 178",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1760518,
+      "lng": 6.4430256,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/69c38tnz6pbc/attachment/me1o9x78p9a53hx5do10egjj2d9w4z"
+      ]
+    },
+    {
+      "uid": 4080,
+      "street": "Engelblecker Straße 330",
+      "zipcode": "41066",
+      "neighborhood": "Neuwerk",
+      "lat": 51.2218616,
+      "lng": 6.4710685,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Kaufland",
+      "images": []
+    },
+    {
+      "uid": 4081,
+      "street": "Vierhausstraße 5",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1627345,
+      "lng": 6.4427904,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Kaufland",
+      "images": []
+    },
+    {
+      "uid": 4088,
+      "street": "Hindenburgstraße 232",
+      "zipcode": "41061",
+      "neighborhood": "Stadtmitte",
+      "lat": 51.1985456,
+      "lng": 6.4470802,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Netto",
+      "images": [
+        "/tickets/pwpy69w9yddm/attachment/8pumzq99wnm3fclu8nt3ej72m0k6el"
+      ]
+    },
+    {
+      "uid": 4113,
+      "street": "Gutenbergstraße 52",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2009899,
+      "lng": 6.4606353,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Lidl",
+      "images": [
+        "/tickets/nem9rf9dcz5k/attachment/dhflirmdtfegtrrltwoqi3pedwlhq3"
+      ]
+    },
+    {
+      "uid": 5303,
+      "street": "Gasstraße 77",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1609622,
+      "lng": 6.4517039,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/ezb94gwb7e8f/attachment/3o8ksyq4to98jr5rbrobvxy3dty6me"
+      ]
+    },
+    {
+      "uid": 5305,
+      "street": "Gasstraße 45",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1600054,
+      "lng": 6.4495546,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/f6y7d9tzw4cb/attachment/2mx9xrmenfqh3428r3zlyffxsea9wq"
+      ]
+    },
+    {
+      "uid": 5310,
+      "street": "Cecilienstraße 7",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1760621,
+      "lng": 6.4399303,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/fz98472pm5gb/attachment/5vmvus3o9je85gbuj1r76n14x2r32y",
+        "/tickets/fz98472pm5gb/attachment/yt5gcqha39msqqfvy3cdbxdwkm8c2r"
       ]
     }
   ]
