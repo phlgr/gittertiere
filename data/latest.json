@@ -1,67 +1,7 @@
 {
-  "fetchedAt": "2026-05-25T07:40:11.925Z",
-  "totalMagsReports": 143,
+  "fetchedAt": "2026-05-26T07:18:00.998Z",
+  "totalMagsReports": 134,
   "gittertiere": [
-    {
-      "uid": 2230,
-      "street": "Pescher Straße 211",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.19459,
-      "lng": 6.4556983,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/knz6zwpwcep6/attachment/cw6rwuruoqin61fprrlbgvr04q5dli"
-      ]
-    },
-    {
-      "uid": 2252,
-      "street": "Gracht 23",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1666116,
-      "lng": 6.4484885,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/t67rta78zwbt/attachment/fou2i28ew5wnafe4ny0r8dgwagy5b5"
-      ]
-    },
-    {
-      "uid": 2255,
-      "street": "Lorenz-Görtz-Straße 89",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.1490044,
-      "lng": 6.4841438,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/b62g5dbtat8e/attachment/vw3yf3lgfjnsm2xpy417gd5g77z62p"
-      ]
-    },
-    {
-      "uid": 2256,
-      "street": "Roermonder Straße 124",
-      "zipcode": "41068",
-      "neighborhood": "Uedding",
-      "lat": 51.1979676,
-      "lng": 6.4106523,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/49eek999pt78/attachment/2hkihp5t4qem7mmll75r1a3amifv3i"
-      ]
-    },
     {
       "uid": 2258,
       "street": "Lürriper Straße 8",
@@ -75,21 +15,6 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/nbp2eyycn463/attachment/tgog6slzywv579ajgfywy0njd106a9"
-      ]
-    },
-    {
-      "uid": 2267,
-      "street": "Cecilienstraße 7",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1760621,
-      "lng": 6.4399303,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/4b35a9bkyat9/attachment/doqx6bvfiza43aurpg5iv03u1djv7o"
       ]
     },
     {
@@ -227,19 +152,6 @@
       "images": [
         "/tickets/y9za8p94pc6g/attachment/pnez2q66k5mm6ok6ci54li5dh7kgyf"
       ]
-    },
-    {
-      "uid": 2470,
-      "street": "An den Zwölf Morgen 51",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.185092,
-      "lng": 6.4695785,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Kaufland",
-      "images": []
     },
     {
       "uid": 2475,
@@ -697,19 +609,79 @@
       ]
     },
     {
-      "uid": 5310,
-      "street": "Cecilienstraße 7",
+      "uid": 5613,
+      "street": "Von-Galen-Straße 153",
       "zipcode": "41236",
       "neighborhood": "Rheydt",
-      "lat": 51.1760621,
-      "lng": 6.4399303,
+      "lat": 51.1586664,
+      "lng": 6.4511394,
       "status": "In Arbeit",
       "statusLabel": "Einfangversuch läuft",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/fz98472pm5gb/attachment/5vmvus3o9je85gbuj1r76n14x2r32y",
-        "/tickets/fz98472pm5gb/attachment/yt5gcqha39msqqfvy3cdbxdwkm8c2r"
+        "/tickets/f6mey2gae3mp/attachment/e39b5twilt30ae4zoylmrk6b2cf2fh"
+      ]
+    },
+    {
+      "uid": 5614,
+      "street": "Gasstraße 94-96 ",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1605132,
+      "lng": 6.4508465,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/be992pt9tky8/attachment/dgwljqm4idrxo6d6kkwf5fxn9fhcqd"
+      ]
+    },
+    {
+      "uid": 5619,
+      "street": "Lürriper Straße 288",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.20031,
+      "lng": 6.4602477,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/yfyg7zrww2ye/attachment/mqtzhdm0t2i7bdkj88zintxek8u1ie",
+        "/tickets/yfyg7zrww2ye/attachment/e6maemfvhqi0ttm3q8bfhtb6vt91dc"
+      ]
+    },
+    {
+      "uid": 5620,
+      "street": "Elektrizitätsstraße 48",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1579544,
+      "lng": 6.4507176,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/7446ay3c5ycn/attachment/9m4rde8yxkwsh0oklel490r6id7mef"
+      ]
+    },
+    {
+      "uid": 5918,
+      "street": "Limitenstraße 3",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1683481,
+      "lng": 6.4471943,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/ztce82py6zyp/attachment/bppxqcunhyxejj3wiyjvsg9lyj4qvl"
       ]
     }
   ]
