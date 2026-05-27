@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-26T07:18:00.998Z",
-  "totalMagsReports": 134,
+  "fetchedAt": "2026-05-27T07:32:04.580Z",
+  "totalMagsReports": 135,
   "gittertiere": [
     {
       "uid": 2258,
@@ -61,21 +61,6 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/5943p4yc5cfz/attachment/w1t5icpkh4lppzuhy773n4dw52he6b"
-      ]
-    },
-    {
-      "uid": 2291,
-      "street": "Hehnerholt 38b",
-      "zipcode": "41069",
-      "neighborhood": "Holt / Westend",
-      "lat": 51.1832553,
-      "lng": 6.4062434,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Penny",
-      "images": [
-        "/tickets/ye6mc6dekb9y/attachment/cimbsawlsy7pt1zvuc4kh3ykshxi5h"
       ]
     },
     {
@@ -317,45 +302,17 @@
       ]
     },
     {
-      "uid": 3124,
-      "street": "Oststraße 34",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1902066,
-      "lng": 6.4450896,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Rewe",
-      "images": []
-    },
-    {
       "uid": 3131,
       "street": "Oststraße 30",
       "zipcode": "41065",
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1902823,
       "lng": 6.4448543,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Aldi",
-      "images": []
-    },
-    {
-      "uid": 3133,
-      "street": "Erlenstraße 70",
-      "zipcode": "41239",
-      "neighborhood": "Mülfort",
-      "lat": 51.1736185,
-      "lng": 6.4279565,
       "status": "Gelöst",
       "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
-      "locationname": "Einkaufswagen NoName",
-      "images": [
-        "/tickets/me2688dnrt88/attachment/l0gfnzv71p4qctqer6ujxctgt9dvt9"
-      ]
+      "locationname": "Einkaufswagen Aldi",
+      "images": []
     },
     {
       "uid": 3162,
@@ -364,8 +321,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1945223,
       "lng": 6.4506389,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Kaufland",
       "images": [
@@ -379,8 +336,8 @@
       "neighborhood": "Holt / Westend",
       "lat": 51.1852203,
       "lng": 6.4177048,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Netto",
       "images": [
@@ -394,8 +351,8 @@
       "neighborhood": "Holt / Westend",
       "lat": 51.1886308,
       "lng": 6.4090791,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Penny",
       "images": [
@@ -409,8 +366,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1666116,
       "lng": 6.4484885,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Aldi",
       "images": [
@@ -424,8 +381,8 @@
       "neighborhood": "Uedding",
       "lat": 51.197439,
       "lng": 6.4147575,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -439,8 +396,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.2041266,
       "lng": 6.4638149,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -454,8 +411,8 @@
       "neighborhood": "Giesenkirchen",
       "lat": 51.1508198,
       "lng": 6.4576097,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Penny",
       "images": [
@@ -469,8 +426,8 @@
       "neighborhood": "Neuwerk",
       "lat": 51.2176277,
       "lng": 6.4513184,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Edeka",
       "images": [
@@ -682,6 +639,66 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/ztce82py6zyp/attachment/bppxqcunhyxejj3wiyjvsg9lyj4qvl"
+      ]
+    },
+    {
+      "uid": 5929,
+      "street": "Platz der Republik 1",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1972258,
+      "lng": 6.4487701,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/ygy26e6yp7y2/attachment/rgca86pnamuul1bmuvmtrw0uvczora"
+      ]
+    },
+    {
+      "uid": 5930,
+      "street": "Platz der Republik 1",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1972258,
+      "lng": 6.4487701,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/r7g5fk9kb5ba/attachment/bpx8eodrxslc32buoaragmgev0qrsp"
+      ]
+    },
+    {
+      "uid": 6585,
+      "street": "Fliederweg 3",
+      "zipcode": "41238",
+      "neighborhood": "Giesenkirchen",
+      "lat": 51.1569148,
+      "lng": 6.4876576,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Rewe",
+      "images": [
+        "/tickets/pm2p9eg97yg8/attachment/dyx7cqo3dkkz29nciwidcp8y2wy2wr"
+      ]
+    },
+    {
+      "uid": 6590,
+      "street": "Schlossstraße 30",
+      "zipcode": "41238",
+      "neighborhood": "Giesenkirchen",
+      "lat": 51.1711792,
+      "lng": 6.4575955,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "ggü., Einkaufswagen Netto",
+      "images": [
+        "/tickets/z87ygk8e89t5/attachment/gixhi2emq2ld2r8csm4ityscc2xizt"
       ]
     }
   ]
