@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-27T07:32:04.580Z",
-  "totalMagsReports": 135,
+  "fetchedAt": "2026-05-28T07:26:18.560Z",
+  "totalMagsReports": 156,
   "gittertiere": [
     {
       "uid": 2258,
@@ -441,8 +441,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1607087,
       "lng": 6.4564948,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -456,8 +456,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1861033,
       "lng": 6.440847,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Norma",
       "images": [
@@ -471,8 +471,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1760518,
       "lng": 6.4430256,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -486,8 +486,8 @@
       "neighborhood": "Neuwerk",
       "lat": 51.2218616,
       "lng": 6.4710685,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Kaufland",
       "images": []
@@ -499,8 +499,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1627345,
       "lng": 6.4427904,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Kaufland",
       "images": []
@@ -512,8 +512,8 @@
       "neighborhood": "Stadtmitte",
       "lat": 51.1985456,
       "lng": 6.4470802,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Netto",
       "images": [
@@ -527,8 +527,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.2009899,
       "lng": 6.4606353,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Lidl",
       "images": [

@@ -2494,5 +2494,65 @@
         "geloest": 0
       }
     }
+  },
+  {
+    "date": "2026-05-28",
+    "total": 47,
+    "neu": 0,
+    "inArbeit": 10,
+    "geloest": 37,
+    "totalMagsReports": 156,
+    "newSightings": 0,
+    "removed": 0,
+    "byNeighborhood": {
+      "Lürrip / Hardterbroich": {
+        "total": 20,
+        "neu": 0,
+        "inArbeit": 3,
+        "geloest": 17
+      },
+      "Giesenkirchen": {
+        "total": 5,
+        "neu": 0,
+        "inArbeit": 2,
+        "geloest": 3
+      },
+      "Mülfort": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 1
+      },
+      "Rheydt": {
+        "total": 15,
+        "neu": 0,
+        "inArbeit": 5,
+        "geloest": 10
+      },
+      "Holt / Westend": {
+        "total": 2,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 2
+      },
+      "Uedding": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 1
+      },
+      "Neuwerk": {
+        "total": 2,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 2
+      },
+      "Stadtmitte": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 1
+      }
+    }
   }
 ]
