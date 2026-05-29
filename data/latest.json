@@ -1,68 +1,7 @@
 {
-  "fetchedAt": "2026-05-28T07:26:18.560Z",
-  "totalMagsReports": 156,
+  "fetchedAt": "2026-05-29T07:25:55.412Z",
+  "totalMagsReports": 162,
   "gittertiere": [
-    {
-      "uid": 2258,
-      "street": "Lürriper Straße 8",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1941226,
-      "lng": 6.4450697,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/nbp2eyycn463/attachment/tgog6slzywv579ajgfywy0njd106a9"
-      ]
-    },
-    {
-      "uid": 2275,
-      "street": "Gasstraße 48",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.1598621,
-      "lng": 6.4496667,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Netto",
-      "images": [
-        "/tickets/e4k457ckfbny/attachment/lnoqg4uta0mejrkkl8tiufw5sq625q",
-        "/tickets/e4k457ckfbny/attachment/n56blmkoft2zs4ol9co125ckusxg36"
-      ]
-    },
-    {
-      "uid": 2277,
-      "street": "Watelerstraße 160",
-      "zipcode": "41239",
-      "neighborhood": "Mülfort",
-      "lat": 51.171533,
-      "lng": 6.4221934,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Netto",
-      "images": [
-        "/tickets/kr923pyw4fgb/attachment/4fo1tedxcuqjfkflopmnmjowuhxjce"
-      ]
-    },
-    {
-      "uid": 2289,
-      "street": "Nordstraße 127",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1736636,
-      "lng": 6.4482417,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/5943p4yc5cfz/attachment/w1t5icpkh4lppzuhy773n4dw52he6b"
-      ]
-    },
     {
       "uid": 2330,
       "street": "Von-Galen-Straße 8",
