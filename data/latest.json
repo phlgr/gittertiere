@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-30T07:05:35.989Z",
+  "fetchedAt": "2026-05-31T07:23:16.559Z",
   "totalMagsReports": 171,
   "gittertiere": [
     {
@@ -59,7 +59,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Kaufland",
       "images": [
-        "/tickets/593pmt7c6a4w/attachment/1i9rz56g8d283yut4t02om22mp59s4"
+        "/tickets/647tmcmbg7tr/attachment/49gvhplkjatm9i5regk8b9md3y2n5k"
       ]
     },
     {
@@ -74,7 +74,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Netto",
       "images": [
-        "/tickets/y9za8p94pc6g/attachment/pnez2q66k5mm6ok6ci54li5dh7kgyf"
+        "/tickets/7g39gpey3krw/attachment/6j2psb8ejpw53u0gvah3p2ej2b2h36"
       ]
     },
     {
@@ -557,12 +557,12 @@
       "neighborhood": "Rheydt",
       "lat": 51.1579544,
       "lng": 6.4507176,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/7446ay3c5ycn/attachment/9m4rde8yxkwsh0oklel490r6id7mef"
+        "/tickets/k25b2a28efar/attachment/hnlb8atiror5e2cilew194n1ttjg67"
       ]
     },
     {
