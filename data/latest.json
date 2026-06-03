@@ -1,52 +1,7 @@
 {
-  "fetchedAt": "2026-06-02T07:43:54.857Z",
-  "totalMagsReports": 175,
+  "fetchedAt": "2026-06-03T07:47:42.107Z",
+  "totalMagsReports": 169,
   "gittertiere": [
-    {
-      "uid": 2330,
-      "street": "Von-Galen-Straße 8",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1650383,
-      "lng": 6.4496609,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/w587e8p27e6b/attachment/ru9qnnynl7a5rw0e2xbcp0dqb95k5h"
-      ]
-    },
-    {
-      "uid": 2334,
-      "street": "Volksbadstraße 21",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.2018924,
-      "lng": 6.4743273,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Penny",
-      "images": [
-        "/tickets/p2223memzfw9/attachment/0hh7gi3xsgz6r7qiftzhob8fzlbpjl"
-      ]
-    },
-    {
-      "uid": 2355,
-      "street": "Wilhelm-Strauß-Straße 95",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1681548,
-      "lng": 6.452831,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Rossmann",
-      "images": [
-        "/tickets/649yb9t5eznw/attachment/luwsfj7h4z3fv3l4bb1q9quhbu6w4f"
-      ]
-    },
     {
       "uid": 2361,
       "street": "Zeppelinstraße 47",
@@ -59,7 +14,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Kaufland",
       "images": [
-        "/tickets/647tmcmbg7tr/attachment/49gvhplkjatm9i5regk8b9md3y2n5k"
+        "/tickets/593pmt7c6a4w/attachment/1i9rz56g8d283yut4t02om22mp59s4"
       ]
     },
     {
@@ -74,7 +29,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Netto",
       "images": [
-        "/tickets/7g39gpey3krw/attachment/6j2psb8ejpw53u0gvah3p2ej2b2h36"
+        "/tickets/y9za8p94pc6g/attachment/pnez2q66k5mm6ok6ci54li5dh7kgyf"
       ]
     },
     {
@@ -511,8 +466,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1586664,
       "lng": 6.4511394,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -526,8 +481,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1605132,
       "lng": 6.4508465,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -541,8 +496,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.20031,
       "lng": 6.4602477,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -557,12 +512,12 @@
       "neighborhood": "Rheydt",
       "lat": 51.1579544,
       "lng": 6.4507176,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/k25b2a28efar/attachment/hnlb8atiror5e2cilew194n1ttjg67"
+        "/tickets/7446ay3c5ycn/attachment/9m4rde8yxkwsh0oklel490r6id7mef"
       ]
     },
     {
@@ -572,8 +527,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1683481,
       "lng": 6.4471943,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -587,8 +542,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1972258,
       "lng": 6.4487701,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -602,8 +557,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1972258,
       "lng": 6.4487701,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
