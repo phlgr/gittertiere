@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-04T07:43:14.977Z",
-  "totalMagsReports": 165,
+  "fetchedAt": "2026-06-05T07:34:55.550Z",
+  "totalMagsReports": 145,
   "gittertiere": [
     {
       "uid": 2361,
@@ -14,185 +14,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Kaufland",
       "images": [
-        "/tickets/647tmcmbg7tr/attachment/49gvhplkjatm9i5regk8b9md3y2n5k"
-      ]
-    },
-    {
-      "uid": 2365,
-      "street": "Schlossstraße 30",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.1711792,
-      "lng": 6.4575955,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Netto",
-      "images": [
-        "/tickets/7g39gpey3krw/attachment/6j2psb8ejpw53u0gvah3p2ej2b2h36"
-      ]
-    },
-    {
-      "uid": 2475,
-      "street": "Theodor-Heuss-Straße 149",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1878658,
-      "lng": 6.4433587,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Netto",
-      "images": [
-        "/tickets/5ck46nmpgyp7/attachment/subw99j4qg9h9z73m53v18d4jrnspz"
-      ]
-    },
-    {
-      "uid": 2751,
-      "street": "Limitenstraße 56",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1661978,
-      "lng": 6.446882,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Kaufland",
-      "images": []
-    },
-    {
-      "uid": 2758,
-      "street": "Leifhelmstraße 12",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.189498,
-      "lng": 6.4558494,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Kaufland",
-      "images": [
-        "/tickets/7wb84mcf8waz/attachment/87b5ccqykff7sxz5yib5z05pqqd6do"
-      ]
-    },
-    {
-      "uid": 2759,
-      "street": "Carl-Diem-Straße 0",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1904125,
-      "lng": 6.4651515,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Kaufland",
-      "images": [
-        "/tickets/45td6wrzzz34/attachment/1fy0yyn8s920by4q5cw9282y9r9spg"
-      ]
-    },
-    {
-      "uid": 2760,
-      "street": "Gartenstraße 6",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1690934,
-      "lng": 6.4474463,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Aldi",
-      "images": [
-        "/tickets/dzp59ktz7ny3/attachment/033hzr1c5qg7oid930v57kmvzuniax"
-      ]
-    },
-    {
-      "uid": 2785,
-      "street": "Volksgartenstraße 131",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1907271,
-      "lng": 6.4518623,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Netto",
-      "images": [
-        "/tickets/6737e7f9w2ct/attachment/2qyzdidy3as6qv7k3xattaew0at3sc"
-      ]
-    },
-    {
-      "uid": 2831,
-      "street": "Grafenstraße 24",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.19532,
-      "lng": 6.4560088,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Kaufland",
-      "images": [
-        "/tickets/bbgmkeack8gr/attachment/9uatn38x7jdex8baimiymmqyvzf69g"
-      ]
-    },
-    {
-      "uid": 2832,
-      "street": "Grafenstraße 36",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1949061,
-      "lng": 6.4562319,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Kaufland",
-      "images": [
-        "/tickets/yckzp3nzygea/attachment/ba6lwfhf6jx944knluvsddrrdn0rfc"
-      ]
-    },
-    {
-      "uid": 2833,
-      "street": "Reyerhütter Straße 153",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1903974,
-      "lng": 6.4575985,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Kaufland",
-      "images": [
-        "/tickets/698ppt4gcfca/attachment/ow6stcgsz5h37mvdkha3yceak6uz97"
-      ]
-    },
-    {
-      "uid": 2834,
-      "street": "Volksgartenstraße 184",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1906426,
-      "lng": 6.4565328,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Kaufland",
-      "images": [
-        "/tickets/f3ctaaccf36g/attachment/opcd6e0prvjq7pjjnw7w6visjx5syk"
-      ]
-    },
-    {
-      "uid": 2841,
-      "street": "Pescher Straße 171",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1937584,
-      "lng": 6.4522981,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Kaufland",
-      "images": [
-        "/tickets/y7a8ary5wdf9/attachment/aqtamhose27419tqaoakga2e3d3d76"
+        "/tickets/593pmt7c6a4w/attachment/1i9rz56g8d283yut4t02om22mp59s4"
       ]
     },
     {
@@ -517,7 +339,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/k25b2a28efar/attachment/hnlb8atiror5e2cilew194n1ttjg67"
+        "/tickets/7446ay3c5ycn/attachment/9m4rde8yxkwsh0oklel490r6id7mef"
       ]
     },
     {
@@ -607,6 +429,66 @@
       "responsible": "",
       "locationname": "EKW Norma",
       "images": []
+    },
+    {
+      "uid": 8194,
+      "street": "Gartenstraße 220",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1787517,
+      "lng": 6.4451644,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/mmw6879693ba/attachment/adfm2uyor2yn4fk262rtrc5xurp1we"
+      ]
+    },
+    {
+      "uid": 8222,
+      "street": "Johannesstraße 97",
+      "zipcode": "41061",
+      "neighborhood": "Stadtmitte",
+      "lat": 51.1886892,
+      "lng": 6.4436872,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen netto",
+      "images": [
+        "/tickets/6n9ap3w7k765/attachment/io8pd92d447pb7udd2s15e62vc7mdg"
+      ]
+    },
+    {
+      "uid": 8272,
+      "street": "Stammesweg 29",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1953543,
+      "lng": 6.4575173,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Kaufland",
+      "images": [
+        "/tickets/d4e5mz6m8cyf/attachment/aw2dxkkwqhu8c3ezxeotw0qbtnq0oq"
+      ]
+    },
+    {
+      "uid": 8643,
+      "street": "Karlsbader Straße 4",
+      "zipcode": "41199",
+      "neighborhood": "Odenkirchen",
+      "lat": 51.1715857,
+      "lng": 6.4530495,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen netto",
+      "images": [
+        "/tickets/62kma3m937n2/attachment/nbt9acadbr7ksoyb7p41cj45mb884u"
+      ]
     }
   ]
 }
