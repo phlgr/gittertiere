@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-05T07:34:55.550Z",
+  "fetchedAt": "2026-06-06T07:08:51.469Z",
   "totalMagsReports": 145,
   "gittertiere": [
     {
@@ -394,8 +394,8 @@
       "neighborhood": "Giesenkirchen",
       "lat": 51.1569148,
       "lng": 6.4876576,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Rewe",
       "images": [
@@ -409,8 +409,8 @@
       "neighborhood": "Giesenkirchen",
       "lat": 51.1711792,
       "lng": 6.4575955,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "ggü., Einkaufswagen Netto",
       "images": [
