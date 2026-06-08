@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-07T07:28:38.963Z",
-  "totalMagsReports": 145,
+  "fetchedAt": "2026-06-08T07:49:00.884Z",
+  "totalMagsReports": 146,
   "gittertiere": [
     {
       "uid": 2361,
@@ -424,8 +424,8 @@
       "neighborhood": "Giesenkirchen",
       "lat": 51.1578891,
       "lng": 6.4917219,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "",
       "locationname": "EKW Norma",
       "images": []
