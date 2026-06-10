@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-09T07:19:37.563Z",
-  "totalMagsReports": 144,
+  "fetchedAt": "2026-06-10T07:34:47.434Z",
+  "totalMagsReports": 136,
   "gittertiere": [
     {
       "uid": 2361,
@@ -14,95 +14,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Kaufland",
       "images": [
-        "/tickets/593pmt7c6a4w/attachment/1i9rz56g8d283yut4t02om22mp59s4"
-      ]
-    },
-    {
-      "uid": 3131,
-      "street": "Oststraße 30",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1902823,
-      "lng": 6.4448543,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Aldi",
-      "images": []
-    },
-    {
-      "uid": 3183,
-      "street": "Gracht 23",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1666116,
-      "lng": 6.4484885,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Aldi",
-      "images": [
-        "/tickets/tabf9wdy8gcg/attachment/v5jnhg3n8maz8rvk2m1uevqwzplprb"
-      ]
-    },
-    {
-      "uid": 3233,
-      "street": "Untere Straße 35",
-      "zipcode": "41068",
-      "neighborhood": "Uedding",
-      "lat": 51.197439,
-      "lng": 6.4147575,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/95b39zfmd9fd/attachment/lfd6tpdj9pc560vhrz0sy5oizybtii"
-      ]
-    },
-    {
-      "uid": 3254,
-      "street": "Nakatenusstraße 1",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.2041266,
-      "lng": 6.4638149,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/6dfp6wef7zr2/attachment/raxh2rwpeitbf3dwsd381vap0zhvck"
-      ]
-    },
-    {
-      "uid": 3261,
-      "street": "Giesenkirchener Straße 222",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.1508198,
-      "lng": 6.4576097,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Penny",
-      "images": [
-        "/tickets/fegnct4bykyr/attachment/4x4gdhsoiwyu6gyadaujse3i1hbn7i"
-      ]
-    },
-    {
-      "uid": 3262,
-      "street": "Hovener Straße 58",
-      "zipcode": "41066",
-      "neighborhood": "Neuwerk",
-      "lat": 51.2176277,
-      "lng": 6.4513184,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Edeka",
-      "images": [
-        "/tickets/bb33kgrmy9w8/attachment/cag3mwtu5z44ijc6maq00x5jzkcg6e"
+        "/tickets/647tmcmbg7tr/attachment/49gvhplkjatm9i5regk8b9md3y2n5k"
       ]
     },
     {
@@ -294,7 +206,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/7446ay3c5ycn/attachment/9m4rde8yxkwsh0oklel490r6id7mef"
+        "/tickets/k25b2a28efar/attachment/hnlb8atiror5e2cilew194n1ttjg67"
       ]
     },
     {
@@ -564,6 +476,19 @@
       "images": [
         "/tickets/gwg8mnbzwcec/attachment/fqime6ffo5phpj0kmiux3xcm8ninaq"
       ]
+    },
+    {
+      "uid": 10397,
+      "street": "August-Oster-Straße 22",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1875051,
+      "lng": 6.4427904,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Kaufland",
+      "images": []
     }
   ]
 }
