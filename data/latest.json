@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-11T07:46:53.337Z",
-  "totalMagsReports": 122,
+  "fetchedAt": "2026-06-12T07:42:58.267Z",
+  "totalMagsReports": 125,
   "gittertiere": [
     {
       "uid": 5303,
@@ -90,7 +90,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/k25b2a28efar/attachment/hnlb8atiror5e2cilew194n1ttjg67"
+        "/tickets/7446ay3c5ycn/attachment/9m4rde8yxkwsh0oklel490r6id7mef"
       ]
     },
     {
@@ -188,8 +188,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1787517,
       "lng": 6.4451644,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -203,8 +203,8 @@
       "neighborhood": "Stadtmitte",
       "lat": 51.1886892,
       "lng": 6.4436872,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen netto",
       "images": [
@@ -218,8 +218,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1953543,
       "lng": 6.4575173,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Kaufland",
       "images": [
