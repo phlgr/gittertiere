@@ -1,37 +1,7 @@
 {
-  "fetchedAt": "2026-06-14T07:40:55.268Z",
-  "totalMagsReports": 125,
+  "fetchedAt": "2026-06-15T08:07:03.119Z",
+  "totalMagsReports": 135,
   "gittertiere": [
-    {
-      "uid": 5303,
-      "street": "Gasstraße 77",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1609622,
-      "lng": 6.4517039,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/ezb94gwb7e8f/attachment/3o8ksyq4to98jr5rbrobvxy3dty6me"
-      ]
-    },
-    {
-      "uid": 5305,
-      "street": "Gasstraße 45",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1600054,
-      "lng": 6.4495546,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/f6y7d9tzw4cb/attachment/2mx9xrmenfqh3428r3zlyffxsea9wq"
-      ]
-    },
     {
       "uid": 5613,
       "street": "Von-Galen-Straße 153",
@@ -90,7 +60,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/7446ay3c5ycn/attachment/9m4rde8yxkwsh0oklel490r6id7mef"
+        "/tickets/k25b2a28efar/attachment/hnlb8atiror5e2cilew194n1ttjg67"
       ]
     },
     {
@@ -227,21 +197,6 @@
       ]
     },
     {
-      "uid": 8643,
-      "street": "Karlsbader Straße 4",
-      "zipcode": "41199",
-      "neighborhood": "Odenkirchen",
-      "lat": 51.1715857,
-      "lng": 6.4530495,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen netto",
-      "images": [
-        "/tickets/62kma3m937n2/attachment/nbt9acadbr7ksoyb7p41cj45mb884u"
-      ]
-    },
-    {
       "uid": 8683,
       "street": "Lürriper Straße 374",
       "zipcode": "41065",
@@ -254,21 +209,6 @@
       "locationname": "Einkaufswagen Lidl",
       "images": [
         "/tickets/f7de69wrk8bg/attachment/3r9u8fx883azy9b8s1w9rlfz7bj4ah"
-      ]
-    },
-    {
-      "uid": 8684,
-      "street": "Lermenchesweg 30",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1767666,
-      "lng": 6.4399084,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/yde9pef3f9gd/attachment/d956jf518gd20hwkyxi4cbxdgkamkc"
       ]
     },
     {
