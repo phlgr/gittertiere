@@ -1,37 +1,7 @@
 {
-  "fetchedAt": "2026-06-16T08:03:42.533Z",
-  "totalMagsReports": 113,
+  "fetchedAt": "2026-06-17T07:56:57.376Z",
+  "totalMagsReports": 121,
   "gittertiere": [
-    {
-      "uid": 5929,
-      "street": "Platz der Republik 1",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1972258,
-      "lng": 6.4487701,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/ygy26e6yp7y2/attachment/rgca86pnamuul1bmuvmtrw0uvczora"
-      ]
-    },
-    {
-      "uid": 5930,
-      "street": "Platz der Republik 1",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1972258,
-      "lng": 6.4487701,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/r7g5fk9kb5ba/attachment/bpx8eodrxslc32buoaragmgev0qrsp"
-      ]
-    },
     {
       "uid": 6585,
       "street": "Fliederweg 3",
@@ -232,8 +202,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1875051,
       "lng": 6.4427904,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Kaufland",
       "images": []
@@ -295,6 +265,21 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": []
+    },
+    {
+      "uid": 13958,
+      "street": "Stiegerfeldstraße 10a",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1842136,
+      "lng": 6.4608884,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/gp5dprmkn9ra/attachment/mgx6hu06p4e3ovclsst3fmulo98b3l"
+      ]
     }
   ]
 }
