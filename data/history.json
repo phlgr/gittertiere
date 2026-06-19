@@ -3646,5 +3646,47 @@
         "geloest": 1
       }
     }
+  },
+  {
+    "date": "2026-06-19",
+    "total": 18,
+    "neu": 0,
+    "inArbeit": 6,
+    "geloest": 12,
+    "totalMagsReports": 137,
+    "newSightings": 1,
+    "removed": 2,
+    "byNeighborhood": {
+      "Giesenkirchen": {
+        "total": 2,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 2
+      },
+      "Rheydt": {
+        "total": 4,
+        "neu": 0,
+        "inArbeit": 2,
+        "geloest": 2
+      },
+      "Stadtmitte": {
+        "total": 4,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 3
+      },
+      "Lürrip / Hardterbroich": {
+        "total": 7,
+        "neu": 0,
+        "inArbeit": 3,
+        "geloest": 4
+      },
+      "Eicken / Bonnenbroich": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 1
+      }
+    }
   }
 ]

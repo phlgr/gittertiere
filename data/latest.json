@@ -1,37 +1,7 @@
 {
-  "fetchedAt": "2026-06-18T07:46:41.672Z",
-  "totalMagsReports": 135,
+  "fetchedAt": "2026-06-19T07:57:16.625Z",
+  "totalMagsReports": 137,
   "gittertiere": [
-    {
-      "uid": 6585,
-      "street": "Fliederweg 3",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.1569148,
-      "lng": 6.4876576,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Rewe",
-      "images": [
-        "/tickets/pm2p9eg97yg8/attachment/dyx7cqo3dkkz29nciwidcp8y2wy2wr"
-      ]
-    },
-    {
-      "uid": 6590,
-      "street": "Schlossstraße 30",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.1711792,
-      "lng": 6.4575955,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "ggü., Einkaufswagen Netto",
-      "images": [
-        "/tickets/z87ygk8e89t5/attachment/gixhi2emq2ld2r8csm4ityscc2xizt"
-      ]
-    },
     {
       "uid": 7534,
       "street": "Kleinenbroicher Straße 19",
@@ -279,6 +249,21 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/gp5dprmkn9ra/attachment/mgx6hu06p4e3ovclsst3fmulo98b3l"
+      ]
+    },
+    {
+      "uid": 14197,
+      "street": "Erzbergerstraße 87",
+      "zipcode": "41061",
+      "neighborhood": "Stadtmitte",
+      "lat": 51.188476,
+      "lng": 6.4521404,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/z43drwy6cfmp/attachment/yqluz8adqljeqwbdolmrfqio3rn97a"
       ]
     }
   ]
