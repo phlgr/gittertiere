@@ -1,20 +1,7 @@
 {
-  "fetchedAt": "2026-06-21T07:43:10.950Z",
-  "totalMagsReports": 140,
+  "fetchedAt": "2026-06-22T08:08:54.586Z",
+  "totalMagsReports": 136,
   "gittertiere": [
-    {
-      "uid": 7534,
-      "street": "Kleinenbroicher Straße 19",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.1578891,
-      "lng": 6.4917219,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "",
-      "locationname": "EKW Norma",
-      "images": []
-    },
     {
       "uid": 8194,
       "street": "Gartenstraße 220",
@@ -264,6 +251,36 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/z43drwy6cfmp/attachment/yqluz8adqljeqwbdolmrfqio3rn97a"
+      ]
+    },
+    {
+      "uid": 14199,
+      "street": "Hügelstraße 8",
+      "zipcode": "41061",
+      "neighborhood": "Stadtmitte",
+      "lat": 51.1900739,
+      "lng": 6.4289959,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/z7e5z935mc7r/attachment/po62i119ezslj415crzim18rw2le76"
+      ]
+    },
+    {
+      "uid": 14218,
+      "street": "Am Minto 0",
+      "zipcode": "41061",
+      "neighborhood": "Stadtmitte",
+      "lat": 51.194421,
+      "lng": 6.4370408,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/zckmbtgp4zbg/attachment/btoh82c3j6b8xwp6fq8pen4khup5h2"
       ]
     }
   ]
