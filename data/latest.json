@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-22T08:08:54.586Z",
-  "totalMagsReports": 136,
+  "fetchedAt": "2026-06-23T07:20:14.984Z",
+  "totalMagsReports": 128,
   "gittertiere": [
     {
       "uid": 8194,
@@ -281,6 +281,51 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/zckmbtgp4zbg/attachment/btoh82c3j6b8xwp6fq8pen4khup5h2"
+      ]
+    },
+    {
+      "uid": 14533,
+      "street": "Volksgartenstraße 74c",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1887431,
+      "lng": 6.4478099,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/yap3yarg4ayp/attachment/k2k6ajjilg3jt8y39nhzhpmf8habya"
+      ]
+    },
+    {
+      "uid": 14539,
+      "street": "Limitenstraße 135",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1629455,
+      "lng": 6.4465156,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/7t9ycb3gk9p4/attachment/skvi2vloxnan7jwelmr8cpdmgpc0si"
+      ]
+    },
+    {
+      "uid": 14906,
+      "street": "Südstraße 31",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1851035,
+      "lng": 6.4445278,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/g2z7ck342kmc/attachment/abxy5e5grfdust2xyfs9qrq1hc9woa"
       ]
     }
   ]
