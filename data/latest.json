@@ -1,52 +1,7 @@
 {
-  "fetchedAt": "2026-06-24T07:16:41.532Z",
-  "totalMagsReports": 132,
+  "fetchedAt": "2026-06-25T07:17:18.531Z",
+  "totalMagsReports": 139,
   "gittertiere": [
-    {
-      "uid": 8194,
-      "street": "Gartenstraße 220",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1787517,
-      "lng": 6.4451644,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/mmw6879693ba/attachment/adfm2uyor2yn4fk262rtrc5xurp1we"
-      ]
-    },
-    {
-      "uid": 8222,
-      "street": "Johannesstraße 97",
-      "zipcode": "41061",
-      "neighborhood": "Stadtmitte",
-      "lat": 51.1886892,
-      "lng": 6.4436872,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen netto",
-      "images": [
-        "/tickets/6n9ap3w7k765/attachment/io8pd92d447pb7udd2s15e62vc7mdg"
-      ]
-    },
-    {
-      "uid": 8272,
-      "street": "Stammesweg 29",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1953543,
-      "lng": 6.4575173,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Kaufland",
-      "images": [
-        "/tickets/d4e5mz6m8cyf/attachment/aw2dxkkwqhu8c3ezxeotw0qbtnq0oq"
-      ]
-    },
     {
       "uid": 8683,
       "street": "Lürriper Straße 374",
@@ -326,6 +281,36 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/g2z7ck342kmc/attachment/abxy5e5grfdust2xyfs9qrq1hc9woa"
+      ]
+    },
+    {
+      "uid": 16618,
+      "street": "Flachsbleiche 71",
+      "zipcode": "41179",
+      "neighborhood": "Unbekannt",
+      "lat": 51.1678324,
+      "lng": 6.3823354,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/k5wg4yd8ddt8/attachment/hfwz1mrmovfc6d5c6r1ncorlzkrcr2"
+      ]
+    },
+    {
+      "uid": 16619,
+      "street": "Mühlenstraße 178",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1697605,
+      "lng": 6.4512142,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/y8bg5b4zp3f4/attachment/4yovbktw04eepf6m2o2lukvrugci6k"
       ]
     }
   ]
