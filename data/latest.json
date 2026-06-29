@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-28T07:25:51.787Z",
-  "totalMagsReports": 151,
+  "fetchedAt": "2026-06-29T07:49:57.589Z",
+  "totalMagsReports": 138,
   "gittertiere": [
     {
       "uid": 8683,
@@ -311,6 +311,83 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/y8bg5b4zp3f4/attachment/4yovbktw04eepf6m2o2lukvrugci6k"
+      ]
+    },
+    {
+      "uid": 17066,
+      "street": "Reyerhütter Straße 164",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1897305,
+      "lng": 6.4569086,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/pdncd6y2ma8z/attachment/67938t5k18cir2d645dukson0u9e36"
+      ]
+    },
+    {
+      "uid": 17070,
+      "street": "Buschallee 13",
+      "zipcode": "41063",
+      "neighborhood": "Eicken / Bonnenbroich",
+      "lat": 51.2035353,
+      "lng": 6.4467378,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/5fc3nkb2dnfd/attachment/mtkdn31cps14bjwwl44ws6616u69cv"
+      ]
+    },
+    {
+      "uid": 17194,
+      "street": "Reyerhütte 7",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1922102,
+      "lng": 6.4588542,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "",
+      "locationname": "EKW Kaufland",
+      "images": [
+        "/tickets/eey6tmn4gekt/attachment/qyknfd8jfl2ujd5akmwqt6b4b4uxq8"
+      ]
+    },
+    {
+      "uid": 17470,
+      "street": "Lermenchesweg 22",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1762917,
+      "lng": 6.4399305,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/cgty4zg8fr9e/attachment/vle6tbm5p98etnvsku6zytqtex1hv8"
+      ]
+    },
+    {
+      "uid": 17493,
+      "street": "Lermenchesweg 32",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1769146,
+      "lng": 6.4399048,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/5a4f79ykf38y/attachment/te6hlq9hzjd4f0bg5kivb6jvbriftx",
+        "/tickets/5a4f79ykf38y/attachment/vobwe15d98sz80cfyse4w2hx6nl438",
+        "/tickets/5a4f79ykf38y/attachment/3yftk7kj7c69fmnb8iy4ui84xwq7h1"
       ]
     }
   ]
