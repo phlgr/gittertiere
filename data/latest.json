@@ -1,20 +1,7 @@
 {
-  "fetchedAt": "2026-06-30T07:23:18.477Z",
-  "totalMagsReports": 138,
+  "fetchedAt": "2026-07-01T07:35:29.949Z",
+  "totalMagsReports": 135,
   "gittertiere": [
-    {
-      "uid": 10397,
-      "street": "August-Oster-Straße 22",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1875051,
-      "lng": 6.4427904,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen Kaufland",
-      "images": []
-    },
     {
       "uid": 11694,
       "street": "Neuwerker Straße 24",
