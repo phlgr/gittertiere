@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-01T07:35:29.949Z",
-  "totalMagsReports": 135,
+  "fetchedAt": "2026-07-02T07:12:01.236Z",
+  "totalMagsReports": 142,
   "gittertiere": [
     {
       "uid": 11694,
@@ -270,6 +270,52 @@
         "/tickets/5a4f79ykf38y/attachment/te6hlq9hzjd4f0bg5kivb6jvbriftx",
         "/tickets/5a4f79ykf38y/attachment/vobwe15d98sz80cfyse4w2hx6nl438",
         "/tickets/5a4f79ykf38y/attachment/3yftk7kj7c69fmnb8iy4ui84xwq7h1"
+      ]
+    },
+    {
+      "uid": 19311,
+      "street": "Oststraße 60",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1898847,
+      "lng": 6.4460657,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/4cgpwra4mwat/attachment/gqenglsq41tvk8l0mj3u4jofxyl4r3",
+        "/tickets/4cgpwra4mwat/attachment/ntdfg0c6kexv1vxpck9lfhzgllhum2"
+      ]
+    },
+    {
+      "uid": 19317,
+      "street": "Nakatenusstraße 9",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2044568,
+      "lng": 6.4634726,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/2tym6dtfamdf/attachment/1dr2z89lgcd47q3tyzdn030wtzagb9"
+      ]
+    },
+    {
+      "uid": 19318,
+      "street": "Blumenstraße 9",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1749383,
+      "lng": 6.4401074,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/ttng84gdwwm4/attachment/acprtolt86lfzrwyo5awvr6rtfrddc"
       ]
     }
   ]
