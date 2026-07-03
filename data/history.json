@@ -4264,5 +4264,47 @@
         "geloest": 0
       }
     }
+  },
+  {
+    "date": "2026-07-03",
+    "total": 23,
+    "neu": 0,
+    "inArbeit": 23,
+    "geloest": 0,
+    "totalMagsReports": 141,
+    "newSightings": 2,
+    "removed": 0,
+    "byNeighborhood": {
+      "Lürrip / Hardterbroich": {
+        "total": 10,
+        "neu": 0,
+        "inArbeit": 10,
+        "geloest": 0
+      },
+      "Rheydt": {
+        "total": 8,
+        "neu": 0,
+        "inArbeit": 8,
+        "geloest": 0
+      },
+      "Stadtmitte": {
+        "total": 3,
+        "neu": 0,
+        "inArbeit": 3,
+        "geloest": 0
+      },
+      "Unbekannt": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      },
+      "Eicken / Bonnenbroich": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      }
+    }
   }
 ]

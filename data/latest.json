@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-02T07:12:01.236Z",
-  "totalMagsReports": 142,
+  "fetchedAt": "2026-07-03T09:16:51.808Z",
+  "totalMagsReports": 141,
   "gittertiere": [
     {
       "uid": 11694,
@@ -316,6 +316,36 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/ttng84gdwwm4/attachment/acprtolt86lfzrwyo5awvr6rtfrddc"
+      ]
+    },
+    {
+      "uid": 19329,
+      "street": "Wilhelm-Strater-Straße 4",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1682883,
+      "lng": 6.442306,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/mc2r7wk5rkg8/attachment/8amka24hpbxisy09d7pdtkluq1mrc5"
+      ]
+    },
+    {
+      "uid": 19340,
+      "street": "Bungtstraße 40",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1885454,
+      "lng": 6.4640295,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/3mbbdck776bb/attachment/wtca2zyhkyg20z01kc6jrhpkqueh3m"
       ]
     }
   ]
