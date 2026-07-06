@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-05T08:51:35.366Z",
-  "totalMagsReports": 141,
+  "fetchedAt": "2026-07-06T10:19:35.182Z",
+  "totalMagsReports": 154,
   "gittertiere": [
     {
       "uid": 11694,
@@ -346,6 +346,51 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/3mbbdck776bb/attachment/wtca2zyhkyg20z01kc6jrhpkqueh3m"
+      ]
+    },
+    {
+      "uid": 19656,
+      "street": "Ückelhofer Straße 4",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1870512,
+      "lng": 6.4445,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/yke43eey7r6y/attachment/tssnqpoam12nxlhtc0ghvrw9q4xpct"
+      ]
+    },
+    {
+      "uid": 19659,
+      "street": "Giesenkirchener Straße 19",
+      "zipcode": "41238",
+      "neighborhood": "Giesenkirchen",
+      "lat": 51.1510708,
+      "lng": 6.4564414,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/5b777ek3gz7y/attachment/jobw3bexvllbqnu16epdgj1vyzjqqy"
+      ]
+    },
+    {
+      "uid": 19676,
+      "street": "Nicodemstraße 1",
+      "zipcode": "41068",
+      "neighborhood": "Uedding",
+      "lat": 51.1973316,
+      "lng": 6.4123063,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/zy62ra7w5e4m/attachment/o0869v96rd9z4b3mab6xx1745xf77s"
       ]
     }
   ]
