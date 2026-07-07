@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-06T10:19:35.182Z",
-  "totalMagsReports": 154,
+  "fetchedAt": "2026-07-07T09:39:27.931Z",
+  "totalMagsReports": 202,
   "gittertiere": [
     {
       "uid": 11694,
@@ -391,6 +391,36 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/zy62ra7w5e4m/attachment/o0869v96rd9z4b3mab6xx1745xf77s"
+      ]
+    },
+    {
+      "uid": 19677,
+      "street": "Erzbergerstraße 16",
+      "zipcode": "41061",
+      "neighborhood": "Stadtmitte",
+      "lat": 51.1931423,
+      "lng": 6.4445674,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/r29t5mgg3man/attachment/45k30rf6g7vpe4vytol3p0wur9qfw3"
+      ]
+    },
+    {
+      "uid": 19680,
+      "street": "Saumstraße 34a",
+      "zipcode": "41063",
+      "neighborhood": "Eicken / Bonnenbroich",
+      "lat": 51.2138846,
+      "lng": 6.4467216,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/yr73kyte8cbe/attachment/9p9ouks36o8szgsyezrhwqrg0h4hnq"
       ]
     }
   ]
