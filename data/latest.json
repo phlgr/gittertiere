@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-20T08:56:19.276Z",
-  "totalMagsReports": 110,
+  "fetchedAt": "2026-07-21T08:26:48.251Z",
+  "totalMagsReports": 50,
   "gittertiere": [
     {
       "uid": 11694,
@@ -422,19 +422,6 @@
       "images": [
         "/tickets/yr73kyte8cbe/attachment/9p9ouks36o8szgsyezrhwqrg0h4hnq"
       ]
-    },
-    {
-      "uid": 20517,
-      "street": "Weiersweg 1",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.2070747,
-      "lng": 6.480388,
-      "status": "Neu",
-      "statusLabel": "Frisch entlaufen",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": []
     }
   ]
 }
