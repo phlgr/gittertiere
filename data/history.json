@@ -5386,5 +5386,16 @@
         "geloest": 0
       }
     }
+  },
+  {
+    "date": "2026-07-27",
+    "total": 0,
+    "neu": 0,
+    "inArbeit": 0,
+    "geloest": 0,
+    "totalMagsReports": 4,
+    "newSightings": 0,
+    "removed": 10,
+    "byNeighborhood": {}
   }
 ]
