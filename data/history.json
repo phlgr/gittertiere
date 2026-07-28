@@ -5397,5 +5397,16 @@
     "newSightings": 0,
     "removed": 10,
     "byNeighborhood": {}
+  },
+  {
+    "date": "2026-07-28",
+    "total": 0,
+    "neu": 0,
+    "inArbeit": 0,
+    "geloest": 0,
+    "totalMagsReports": 4,
+    "newSightings": 0,
+    "removed": 0,
+    "byNeighborhood": {}
   }
 ]
