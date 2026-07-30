@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-29T08:39:03.411Z",
-  "totalMagsReports": 158,
+  "fetchedAt": "2026-07-30T08:25:01.954Z",
+  "totalMagsReports": 159,
   "gittertiere": [
     {
       "uid": 1920,
@@ -433,6 +433,23 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/p8tk6ef8n44g/attachment/wdd396bsfwcpk0glfd4xo230yr2xfi"
+      ]
+    },
+    {
+      "uid": 2049,
+      "street": "Carl-Diem-Straße 4",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1914799,
+      "lng": 6.4643683,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/nand68f26wtr/attachment/c82zmdj8vhtkocu9x4h3nru72mw4rf",
+        "/tickets/nand68f26wtr/attachment/8p02fgiuca33ejcjpxkyzioex781lh",
+        "/tickets/nand68f26wtr/attachment/4aetfd9yovazg57fez2h0427u9v4d1"
       ]
     }
   ]

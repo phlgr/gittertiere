@@ -5468,5 +5468,65 @@
         "geloest": 1
       }
     }
+  },
+  {
+    "date": "2026-07-30",
+    "total": 30,
+    "neu": 0,
+    "inArbeit": 9,
+    "geloest": 21,
+    "totalMagsReports": 159,
+    "newSightings": 1,
+    "removed": 0,
+    "byNeighborhood": {
+      "Rheydt": {
+        "total": 5,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 5
+      },
+      "Eicken / Bonnenbroich": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 1
+      },
+      "Lürrip / Hardterbroich": {
+        "total": 15,
+        "neu": 0,
+        "inArbeit": 6,
+        "geloest": 9
+      },
+      "Giesenkirchen": {
+        "total": 3,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 2
+      },
+      "Mülfort": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 1
+      },
+      "Neuwerk": {
+        "total": 3,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 2
+      },
+      "Wickrath": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      },
+      "Stadtmitte": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 1
+      }
+    }
   }
 ]
