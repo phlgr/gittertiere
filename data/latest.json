@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-30T08:25:01.954Z",
-  "totalMagsReports": 159,
+  "fetchedAt": "2026-07-31T08:47:46.089Z",
+  "totalMagsReports": 169,
   "gittertiere": [
     {
       "uid": 1920,
@@ -450,6 +450,51 @@
         "/tickets/nand68f26wtr/attachment/c82zmdj8vhtkocu9x4h3nru72mw4rf",
         "/tickets/nand68f26wtr/attachment/8p02fgiuca33ejcjpxkyzioex781lh",
         "/tickets/nand68f26wtr/attachment/4aetfd9yovazg57fez2h0427u9v4d1"
+      ]
+    },
+    {
+      "uid": 2050,
+      "street": "Gaußstraße 58",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2022925,
+      "lng": 6.460096,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Gaußstraße 58 Einkaufswagen",
+      "images": [
+        "/tickets/gcmbb7ydm8m6/attachment/it8sa8sosvnm16t0rsjmaz5djsmxli"
+      ]
+    },
+    {
+      "uid": 2051,
+      "street": "Rohrstraße 2",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1981011,
+      "lng": 6.4577921,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Rohrstraße 2 Einkaufswagen",
+      "images": [
+        "/tickets/z57rnrwgcky5/attachment/sgagtm9o81yig3vonu5p964qf7s6h7"
+      ]
+    },
+    {
+      "uid": 2052,
+      "street": "Bachstraße 118",
+      "zipcode": "41239",
+      "neighborhood": "Mülfort",
+      "lat": 51.16692,
+      "lng": 6.4331563,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/r2b3d67akny4/attachment/6e9cdesf0fnxm7j40soy59so0bck56"
       ]
     }
   ]
