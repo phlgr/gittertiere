@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-31T08:47:46.089Z",
+  "fetchedAt": "2026-08-01T08:19:24.843Z",
   "totalMagsReports": 169,
   "gittertiere": [
     {
@@ -418,21 +418,6 @@
       "locationname": "EKW Netto und Aldi",
       "images": [
         "/tickets/yprbar7fn393/attachment/zii13c22frz7vdbroewfrcefvyw2i5"
-      ]
-    },
-    {
-      "uid": 2011,
-      "street": "Limitenstraße 56",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1661978,
-      "lng": 6.446882,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/p8tk6ef8n44g/attachment/wdd396bsfwcpk0glfd4xo230yr2xfi"
       ]
     },
     {
