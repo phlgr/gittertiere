@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-02T08:22:34.574Z",
-  "totalMagsReports": 169,
+  "fetchedAt": "2026-08-03T09:42:09.396Z",
+  "totalMagsReports": 179,
   "gittertiere": [
     {
       "uid": 1920,
@@ -480,6 +480,334 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/r2b3d67akny4/attachment/6e9cdesf0fnxm7j40soy59so0bck56"
+      ]
+    },
+    {
+      "uid": 2063,
+      "street": "Gutenbergstraße 20",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2026099,
+      "lng": 6.4599878,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Lidl",
+      "images": [
+        "/tickets/baft3yrd7cf6/attachment/89brvg7hgzis16zwh6n8o8h2x7drut"
+      ]
+    },
+    {
+      "uid": 2064,
+      "street": "Gaußstraße 58",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2022925,
+      "lng": 6.460096,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Lidl",
+      "images": []
+    },
+    {
+      "uid": 2065,
+      "street": "Gaußstraße 58",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2022925,
+      "lng": 6.460096,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Lidl",
+      "images": [
+        "/tickets/ngwwrbpn694w/attachment/kkkcjxwuck3ksb8o30sxureany06t3"
+      ]
+    },
+    {
+      "uid": 2066,
+      "street": "Gutenbergstraße 20",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2026099,
+      "lng": 6.4599878,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Lidl",
+      "images": [
+        "/tickets/4rykayt7kr6g/attachment/rol7hei9vn554bf7sck988778qjakr"
+      ]
+    },
+    {
+      "uid": 2074,
+      "street": "Neusser Straße 148",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2037403,
+      "lng": 6.4657039,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/yeey7tcy5pe8/attachment/4k02nuhrjxlilyx128c3m809bbgaji"
+      ]
+    },
+    {
+      "uid": 2104,
+      "street": "Neusser Straße 2b",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2027887,
+      "lng": 6.4553759,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/fdw8y9zttdmr/attachment/bqclml9zcfs6p3qt6rwrzjoutmpbr0"
+      ]
+    },
+    {
+      "uid": 2105,
+      "street": "Ritterstraße 8",
+      "zipcode": "41238",
+      "neighborhood": "Giesenkirchen",
+      "lat": 51.181494,
+      "lng": 6.4613094,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/pm6mek386tm5/attachment/3elrihgsyh0u0y5cygtvzkuvk0m8qc"
+      ]
+    },
+    {
+      "uid": 2110,
+      "street": "Ückelhofer Straße 1a",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1874188,
+      "lng": 6.4443665,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/rfmtb33cyc99/attachment/hjk2gpdera650sf2u7mbaw6i9v87fx"
+      ]
+    },
+    {
+      "uid": 2111,
+      "street": "Johannesstraße 101",
+      "zipcode": "41061",
+      "neighborhood": "Stadtmitte",
+      "lat": 51.1882528,
+      "lng": 6.4439236,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/we54gn5bfmg3/attachment/dte9fia3x8lwdhh6oewdrap9fslefw"
+      ]
+    },
+    {
+      "uid": 2114,
+      "street": "Ückelhofer Straße 6",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1869311,
+      "lng": 6.4446452,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/f96y7a9ce7r2/attachment/xd495xf90wc7ynj9riodprh6xie2od"
+      ]
+    },
+    {
+      "uid": 2116,
+      "street": "Hofstraße 176",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1867529,
+      "lng": 6.4535692,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/52cgbbc46cwg/attachment/wqf5n607aov6qh5fkn2onwwtc7ormc"
+      ]
+    },
+    {
+      "uid": 2117,
+      "street": "Carl-Diem-Straße 2-4",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1904125,
+      "lng": 6.4651515,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/85423cr8wggb/attachment/4kg0192pxl18b1c6ub1drr2bm1n4ry"
+      ]
+    },
+    {
+      "uid": 2118,
+      "street": "Carl-Diem-Straße 2-4",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1904125,
+      "lng": 6.4651515,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/85423cr8wggb/attachment/4kg0192pxl18b1c6ub1drr2bm1n4ry"
+      ]
+    },
+    {
+      "uid": 2119,
+      "street": "Robert-Koch-Straße 2",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2010297,
+      "lng": 6.4599378,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/8k45n8bafkf8/attachment/w0xs6oj998tg8rlvdozj63rhdinkmj"
+      ]
+    },
+    {
+      "uid": 2120,
+      "street": "Gutenbergstraße 48",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.201216,
+      "lng": 6.4605807,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/4emdcan2acar/attachment/cbw96l75g8d1b7l52pkhs0gtbxa8yk"
+      ]
+    },
+    {
+      "uid": 2121,
+      "street": "Nakatenusstraße 37",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2053355,
+      "lng": 6.4636173,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/bcbrrg2w7nfp/attachment/1t7isx79kk114zgd7r2ig3v9tp5h26"
+      ]
+    },
+    {
+      "uid": 2122,
+      "street": "Cecilienstraße 50",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1761522,
+      "lng": 6.4423027,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/dzfzzrbwa8n8/attachment/zy5wvpbdjpzwihbuijh92it72er57x"
+      ]
+    },
+    {
+      "uid": 2123,
+      "street": "Liebigstraße 11",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.20017,
+      "lng": 6.4593359,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/g4ppgm6tzc9m/attachment/mbienja7yr16ey1dxh5iaptatg5m1u"
+      ]
+    },
+    {
+      "uid": 2357,
+      "street": "Von-Galen-Straße 86",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1615004,
+      "lng": 6.4499939,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/fk2rkffeb6n3/attachment/ezpptc4b1fooz3uxymewyc95x65bey"
+      ]
+    },
+    {
+      "uid": 2359,
+      "street": "Lürriper Straße 288",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.20031,
+      "lng": 6.4602477,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/wd2y64nyz69z/attachment/1m36qcs02hlv0go3qdcfcitcdwotgl"
+      ]
+    },
+    {
+      "uid": 2360,
+      "street": "Gabelsberger Straße 23-25",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1895309,
+      "lng": 6.4591532,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/zafg59w74e87/attachment/jur7dh07o712yt1deqrbxs90rh07z4"
+      ]
+    },
+    {
+      "uid": 2363,
+      "street": "Ückelhofer Straße 1a",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1874188,
+      "lng": 6.4443665,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/nw2dder9eytf/attachment/jxawzupth77g5ddnqdwx6p16rgddd4"
       ]
     }
   ]
