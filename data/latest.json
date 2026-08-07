@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-06T08:33:54.043Z",
-  "totalMagsReports": 219,
+  "fetchedAt": "2026-08-07T07:13:03.096Z",
+  "totalMagsReports": 232,
   "gittertiere": [
     {
       "uid": 1920,
@@ -75,123 +75,6 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/a55cyr3264kn/attachment/mp70dgdn3ffcpvrj1b3d6yy4t0vkxe"
-      ]
-    },
-    {
-      "uid": 1940,
-      "street": "Bolksbuscher Straße 1",
-      "zipcode": "41239",
-      "neighborhood": "Mülfort",
-      "lat": 51.1660492,
-      "lng": 6.427615,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/ydtp3pg3wztt/attachment/ykzv3t1lkxbmyxdwtzv4n6jwob43px"
-      ]
-    },
-    {
-      "uid": 1941,
-      "street": "Siepensteg 20",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1839083,
-      "lng": 6.4416928,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/wz6tynmf46tb/attachment/y0751zuitinqk00yp3bjnrlg7vrpxk",
-        "/tickets/wz6tynmf46tb/attachment/xe3kzylhd7z29e409by9ee7799rnsp"
-      ]
-    },
-    {
-      "uid": 1942,
-      "street": "Limitenstraße 56",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1661978,
-      "lng": 6.446882,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/ffwbc97c9cta/attachment/k0yctka7u9ccs6whkvuh0hszavupys"
-      ]
-    },
-    {
-      "uid": 1943,
-      "street": "Stresemannstraße 33",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1663184,
-      "lng": 6.4436469,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": []
-    },
-    {
-      "uid": 1944,
-      "street": "Stresemannstraße 33",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1663184,
-      "lng": 6.4436469,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": []
-    },
-    {
-      "uid": 1945,
-      "street": "Korschenbroicher Straße 135",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1957739,
-      "lng": 6.4554434,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/bc3d4gtwr5dp/attachment/078w95xlzxpihhxcgbe432lb72tgce"
-      ]
-    },
-    {
-      "uid": 1946,
-      "street": "Grunewaldstraße 200",
-      "zipcode": "41066",
-      "neighborhood": "Neuwerk",
-      "lat": 51.2354367,
-      "lng": 6.4777917,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/we89d8rne2rp/attachment/osi16l21pkhxmi0eg7jc29qxlsxkby"
-      ]
-    },
-    {
-      "uid": 1948,
-      "street": "Hüttenstraße 50",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.1831221,
-      "lng": 6.4619283,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/9cbgt4ntk99y/attachment/hd9cvdgytel20ahjh5ecckw1b8zfnt"
       ]
     },
     {
@@ -841,7 +724,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/zpznd9debe4p/attachment/qtyicnz5e3ikkzuo3lzrw115vyf0ej"
+        "/tickets/8rnb9cfec5bc/attachment/sepis2niiwoxyt40xfur8g4l0f2ww8"
       ]
     },
     {
@@ -971,6 +854,141 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/gz4z9yczyfra/attachment/a3au8lh77uhvhrwkx1zzulq6ncdm03"
+      ]
+    },
+    {
+      "uid": 2662,
+      "street": "Straßburger Allee 15",
+      "zipcode": "41199",
+      "neighborhood": "Odenkirchen",
+      "lat": 51.1352103,
+      "lng": 6.4470224,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/57wmbwde6dw9/attachment/m8xtsk8zy24pq303cxkkgnc275nfam"
+      ]
+    },
+    {
+      "uid": 2663,
+      "street": "Dessauer Straße 6",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1852338,
+      "lng": 6.4405969,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/6ttp34tme88p/attachment/s1fzl7edl95t171tndonnj6zi1sdwa"
+      ]
+    },
+    {
+      "uid": 2664,
+      "street": "Badenstraße 37",
+      "zipcode": "41063",
+      "neighborhood": "Eicken / Bonnenbroich",
+      "lat": 51.2060943,
+      "lng": 6.4499151,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/dfeaactncmny/attachment/6xxtjynehxbi4xvf3a9h6a9ypre0a0"
+      ]
+    },
+    {
+      "uid": 2665,
+      "street": "Von-der-Helm-Straße 95",
+      "zipcode": "41199",
+      "neighborhood": "Odenkirchen",
+      "lat": 51.130869,
+      "lng": 6.445183,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/tm9wngrnrrz3/attachment/l0kmqrww23qdonqh9qoumfl0rsucra"
+      ]
+    },
+    {
+      "uid": 2667,
+      "street": "Hofstraße 175",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1869078,
+      "lng": 6.4533304,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/4k3yb7pgpb4t/attachment/2ogqjnarjvwvt0tqd1y5c2zimgo7e1"
+      ]
+    },
+    {
+      "uid": 2678,
+      "street": "Buchenstraße 34",
+      "zipcode": "41239",
+      "neighborhood": "Mülfort",
+      "lat": 51.1586788,
+      "lng": 6.4328105,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/p33gter3n939/attachment/efjsw4q4nk4jjjt2cq3pnvexbv898r"
+      ]
+    },
+    {
+      "uid": 2679,
+      "street": "Tannenstraße 36",
+      "zipcode": "41239",
+      "neighborhood": "Mülfort",
+      "lat": 51.168752,
+      "lng": 6.432493,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/k22cpygtgw4z/attachment/l7rqcba49o9nmtpy1uj86ej197h19h"
+      ]
+    },
+    {
+      "uid": 2683,
+      "street": "Hügelstraße 8",
+      "zipcode": "41061",
+      "neighborhood": "Stadtmitte",
+      "lat": 51.1900739,
+      "lng": 6.4289959,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/zwwgpt98cw4m/attachment/rceb0cl1bh2u5nfazh10mgm05opztw"
+      ]
+    },
+    {
+      "uid": 2686,
+      "street": "Künkelstraße 103",
+      "zipcode": "41063",
+      "neighborhood": "Eicken / Bonnenbroich",
+      "lat": 51.2098334,
+      "lng": 6.4561978,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/zfg5gyb45y3f/attachment/hgcw26mu1ulz4zj1o4w0s7xztr7t98"
       ]
     }
   ]
