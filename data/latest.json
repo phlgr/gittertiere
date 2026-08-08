@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-07T07:13:03.096Z",
-  "totalMagsReports": 232,
+  "fetchedAt": "2026-08-08T06:50:56.418Z",
+  "totalMagsReports": 245,
   "gittertiere": [
     {
       "uid": 1920,
@@ -989,6 +989,21 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/zfg5gyb45y3f/attachment/hgcw26mu1ulz4zj1o4w0s7xztr7t98"
+      ]
+    },
+    {
+      "uid": 2779,
+      "street": "Martinstraße 107",
+      "zipcode": "41063",
+      "neighborhood": "Eicken / Bonnenbroich",
+      "lat": 51.205902,
+      "lng": 6.4503029,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/n8ycyzzkpmm5/attachment/bld0o1ffoxvjp7sww31q69jnvenpqb"
       ]
     }
   ]
