@@ -1,82 +1,7 @@
 {
-  "fetchedAt": "2026-08-10T07:38:48.090Z",
-  "totalMagsReports": 247,
+  "fetchedAt": "2026-08-11T07:05:14.274Z",
+  "totalMagsReports": 267,
   "gittertiere": [
-    {
-      "uid": 1920,
-      "street": "Blumenstraße 7",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1749247,
-      "lng": 6.4399893,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/kfm6m5mma3b5/attachment/6wfj0bxnvleac9noe3jgsc54ldw6q6"
-      ]
-    },
-    {
-      "uid": 1923,
-      "street": "Spielkaulenweg 75",
-      "zipcode": "41063",
-      "neighborhood": "Eicken / Bonnenbroich",
-      "lat": 51.2138854,
-      "lng": 6.439623,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/ypyr9t3bft2d/attachment/pmz19hlmeiekch2lnty6lqtrmvv3x3"
-      ]
-    },
-    {
-      "uid": 1924,
-      "street": "Stiegerfeldstraße 27",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1859078,
-      "lng": 6.463651,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/8acm4n6ezn67/attachment/kcgif4c1arroj6yl9d53bnt6yjpi5f"
-      ]
-    },
-    {
-      "uid": 1925,
-      "street": "Hüttenstraße 41",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.183492,
-      "lng": 6.4621046,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/4temnbwgc2wf/attachment/nuw8fnm8ono1ce3yegh3symxqu9mbq"
-      ]
-    },
-    {
-      "uid": 1926,
-      "street": "August-Monforts-Straße 5",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1843611,
-      "lng": 6.4532498,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/a55cyr3264kn/attachment/mp70dgdn3ffcpvrj1b3d6yy4t0vkxe"
-      ]
-    },
     {
       "uid": 1968,
       "street": "Robert-Koch-Straße 2",
@@ -84,8 +9,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.2010297,
       "lng": 6.4599378,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Lidl",
       "images": [
@@ -99,8 +24,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.2010297,
       "lng": 6.4599378,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Kaufland",
       "images": [
@@ -114,8 +39,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.2037173,
       "lng": 6.4613924,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen 2x Lidl",
       "images": [
@@ -145,8 +70,8 @@
       "neighborhood": "Neuwerk",
       "lat": 51.2111706,
       "lng": 6.477663,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Penny",
       "images": [
@@ -214,76 +139,14 @@
       ]
     },
     {
-      "uid": 2049,
-      "street": "Carl-Diem-Straße 4",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1914799,
-      "lng": 6.4643683,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/nand68f26wtr/attachment/c82zmdj8vhtkocu9x4h3nru72mw4rf",
-        "/tickets/nand68f26wtr/attachment/8p02fgiuca33ejcjpxkyzioex781lh",
-        "/tickets/nand68f26wtr/attachment/4aetfd9yovazg57fez2h0427u9v4d1"
-      ]
-    },
-    {
-      "uid": 2050,
-      "street": "Gaußstraße 58",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.2022925,
-      "lng": 6.460096,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Gaußstraße 58 Einkaufswagen",
-      "images": [
-        "/tickets/gcmbb7ydm8m6/attachment/it8sa8sosvnm16t0rsjmaz5djsmxli"
-      ]
-    },
-    {
-      "uid": 2051,
-      "street": "Rohrstraße 2",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1981011,
-      "lng": 6.4577921,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Rohrstraße 2 Einkaufswagen",
-      "images": [
-        "/tickets/z57rnrwgcky5/attachment/sgagtm9o81yig3vonu5p964qf7s6h7"
-      ]
-    },
-    {
-      "uid": 2052,
-      "street": "Bachstraße 118",
-      "zipcode": "41239",
-      "neighborhood": "Mülfort",
-      "lat": 51.16692,
-      "lng": 6.4331563,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/r2b3d67akny4/attachment/6e9cdesf0fnxm7j40soy59so0bck56"
-      ]
-    },
-    {
       "uid": 2063,
       "street": "Gutenbergstraße 20",
       "zipcode": "41065",
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.2026099,
       "lng": 6.4599878,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen Lidl",
       "images": [
@@ -1002,6 +865,97 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/n8ycyzzkpmm5/attachment/bld0o1ffoxvjp7sww31q69jnvenpqb"
+      ]
+    },
+    {
+      "uid": 3006,
+      "street": "Gabelsberger Straße 66",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1883199,
+      "lng": 6.4598924,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/t3zwyztczr96/attachment/ent5laipg33ske35fckq5xhls9wrpu"
+      ]
+    },
+    {
+      "uid": 3007,
+      "street": "Myllendonker Straße 237",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2103508,
+      "lng": 6.4857945,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/77mfmpw4mbtz/attachment/kr6hiqi2or3l4bl8m5pede5177r0ey",
+        "/tickets/77mfmpw4mbtz/attachment/8wtnwjs9lyujo9n1jrqvbif42kp0g0"
+      ]
+    },
+    {
+      "uid": 3010,
+      "street": "Volksgartenstraße 194",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1905993,
+      "lng": 6.4575953,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/pdern95843dt/attachment/w6wmbixk1awuchdlwuw94zsxrpad4j"
+      ]
+    },
+    {
+      "uid": 3013,
+      "street": "Volksgartenstraße 238",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1912473,
+      "lng": 6.4620121,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/tgcr6t874p7t/attachment/tadv1w480d8itz2jspqdmnw4pir7t0"
+      ]
+    },
+    {
+      "uid": 3014,
+      "street": "Grevenbroicher Straße 48",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.185565,
+      "lng": 6.4555759,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/8e2r29w9ceae/attachment/o8cpblalllubb6cic6lx6x9bkm8sng"
+      ]
+    },
+    {
+      "uid": 3020,
+      "street": "Grevenbroicher Straße 56",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1853503,
+      "lng": 6.4557969,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/28fbbe7z7kwt/attachment/ptlk58qfg5nlqwpc40zjaf4ktxg2bi"
       ]
     }
   ]
