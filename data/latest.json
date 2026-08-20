@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T06:41:04.405Z",
-  "totalMagsReports": 330,
+  "fetchedAt": "2026-08-20T06:42:32.177Z",
+  "totalMagsReports": 325,
   "gittertiere": [
     {
       "uid": 1968,
@@ -674,21 +674,6 @@
       ]
     },
     {
-      "uid": 2665,
-      "street": "Von-der-Helm-Straße 95",
-      "zipcode": "41199",
-      "neighborhood": "Odenkirchen",
-      "lat": 51.130869,
-      "lng": 6.445183,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/tm9wngrnrrz3/attachment/l0kmqrww23qdonqh9qoumfl0rsucra"
-      ]
-    },
-    {
       "uid": 2667,
       "street": "Hofstraße 175",
       "zipcode": "41065",
@@ -1103,12 +1088,59 @@
       "neighborhood": "Rheydt",
       "lat": 51.1615152,
       "lng": 6.4505626,
-      "status": "Neu",
-      "statusLabel": "Frisch entlaufen",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/zfgz24wze375/attachment/r74aynczu0shmwyvy052rbhoxnfyud"
+      ]
+    },
+    {
+      "uid": 3833,
+      "street": "Urftstraße 208",
+      "zipcode": "41239",
+      "neighborhood": "Mülfort",
+      "lat": 51.1581345,
+      "lng": 6.4284636,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/cd8yk223kbzf/attachment/mytp5pvx520orb2xuggyyiaop6i5tl",
+        "/tickets/cd8yk223kbzf/attachment/tgj8kuf9td9yvbvuk8j65snwz0pxk2"
+      ]
+    },
+    {
+      "uid": 3838,
+      "street": "Koblenzer Straße 10",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1610288,
+      "lng": 6.4514125,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/fwazfmrpk52d/attachment/fsx98pmy74qhuhwp6gopfdn1g8wvbo"
+      ]
+    },
+    {
+      "uid": 3849,
+      "street": "Feldstraße 91-99",
+      "zipcode": "41239",
+      "neighborhood": "Mülfort",
+      "lat": 51.1638173,
+      "lng": 6.432218,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/z69yyzztwdbk/attachment/4iiyzy172edhgiqlahr2qgnserpe2l",
+        "/tickets/z69yyzztwdbk/attachment/svngm3rrsalh543ekd64d2d2lk4amj"
       ]
     }
   ]
