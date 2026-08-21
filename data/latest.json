@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-20T06:42:32.177Z",
-  "totalMagsReports": 325,
+  "fetchedAt": "2026-08-21T06:42:58.598Z",
+  "totalMagsReports": 370,
   "gittertiere": [
     {
       "uid": 1968,
@@ -224,7 +224,8 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/g8a4ykdwfay6/attachment/9h8dthzdqkhvsa3oui2i79w9ztuk62"
+        "/tickets/ma9gpfkza2gp/attachment/zkfg44rm99gk5e682boi7ckn5z1h6g",
+        "/tickets/ma9gpfkza2gp/attachment/8hytppxbkszy91sfhu6bmq2znsqlr0"
       ]
     },
     {
@@ -280,12 +281,12 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.20017,
       "lng": 6.4593359,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/4dt93m76p959/attachment/fmfuiunetwxxaajmct2bqhdtgfo1v2"
+        "/tickets/g4ppgm6tzc9m/attachment/mbienja7yr16ey1dxh5iaptatg5m1u"
       ]
     },
     {
@@ -491,8 +492,8 @@
       "neighborhood": "Eicken / Bonnenbroich",
       "lat": 51.2128579,
       "lng": 6.4468102,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -562,8 +563,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1683731,
       "lng": 6.44289,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -577,8 +578,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1708741,
       "lng": 6.4557651,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -592,8 +593,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1946526,
       "lng": 6.4551967,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -607,8 +608,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.2027709,
       "lng": 6.4557784,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": []
@@ -620,8 +621,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1980138,
       "lng": 6.4589183,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -635,8 +636,8 @@
       "neighborhood": "Odenkirchen",
       "lat": 51.1352103,
       "lng": 6.4470224,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -650,8 +651,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1852338,
       "lng": 6.4405969,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -665,8 +666,8 @@
       "neighborhood": "Eicken / Bonnenbroich",
       "lat": 51.2060943,
       "lng": 6.4499151,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -680,8 +681,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1869078,
       "lng": 6.4533304,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -695,8 +696,8 @@
       "neighborhood": "Mülfort",
       "lat": 51.1586788,
       "lng": 6.4328105,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -710,8 +711,8 @@
       "neighborhood": "Mülfort",
       "lat": 51.168752,
       "lng": 6.432493,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -725,8 +726,8 @@
       "neighborhood": "Stadtmitte",
       "lat": 51.1900739,
       "lng": 6.4289959,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -740,27 +741,12 @@
       "neighborhood": "Eicken / Bonnenbroich",
       "lat": 51.2098334,
       "lng": 6.4561978,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/zfg5gyb45y3f/attachment/hgcw26mu1ulz4zj1o4w0s7xztr7t98"
-      ]
-    },
-    {
-      "uid": 2779,
-      "street": "Martinstraße 107",
-      "zipcode": "41063",
-      "neighborhood": "Eicken / Bonnenbroich",
-      "lat": 51.205902,
-      "lng": 6.4503029,
       "status": "Gelöst",
       "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/n8ycyzzkpmm5/attachment/bld0o1ffoxvjp7sww31q69jnvenpqb"
+        "/tickets/genm5eypnc4n/attachment/kdkyp68l3mnw3lmfcw9009yqpoz5lq"
       ]
     },
     {
@@ -1141,6 +1127,21 @@
       "images": [
         "/tickets/z69yyzztwdbk/attachment/4iiyzy172edhgiqlahr2qgnserpe2l",
         "/tickets/z69yyzztwdbk/attachment/svngm3rrsalh543ekd64d2d2lk4amj"
+      ]
+    },
+    {
+      "uid": 3979,
+      "street": "Brucknerallee 185",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1759944,
+      "lng": 6.4424601,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/genccc7nynbf/attachment/bavpjikqrlmlx26g5t26adzmtc16pi"
       ]
     }
   ]
