@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-28T18:14:07.411Z",
-  "totalMagsReports": 360,
+  "fetchedAt": "2026-08-29T12:20:56.042Z",
+  "totalMagsReports": 356,
   "gittertiere": [
     {
       "uid": 2111,
@@ -14,7 +14,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/6a5t3b277zcc/attachment/ee3fyglt2mz1mt6yq87wksrv4405is"
+        "/tickets/we54gn5bfmg3/attachment/dte9fia3x8lwdhh6oewdrap9fslefw"
       ]
     },
     {
@@ -29,7 +29,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/f96y7a9ce7r2/attachment/xd495xf90wc7ynj9riodprh6xie2od"
+        "/tickets/t3t77tmfpb29/attachment/ke0lx82p2jgd1onvce3vatpa4ip4ss"
       ]
     },
     {
@@ -44,7 +44,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/attp64wnc6c8/attachment/gpu5kcnulttpwrq4vjj7n2bhgqulhp"
+        "/tickets/85423cr8wggb/attachment/4kg0192pxl18b1c6ub1drr2bm1n4ry"
       ]
     },
     {
@@ -69,12 +69,13 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.2010297,
       "lng": 6.4599378,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/8k45n8bafkf8/attachment/w0xs6oj998tg8rlvdozj63rhdinkmj"
+        "/tickets/ma9gpfkza2gp/attachment/zkfg44rm99gk5e682boi7ckn5z1h6g",
+        "/tickets/ma9gpfkza2gp/attachment/8hytppxbkszy91sfhu6bmq2znsqlr0"
       ]
     },
     {
@@ -89,7 +90,8 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/4emdcan2acar/attachment/cbw96l75g8d1b7l52pkhs0gtbxa8yk"
+        "/tickets/cwy747a9gnff/attachment/ci5uc3nzi1k0pnesatgbfsp48u6w9u",
+        "/tickets/cwy747a9gnff/attachment/x8qzvxgckiqu5e14j4t1hay150ilj7"
       ]
     },
     {
@@ -99,12 +101,12 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.20017,
       "lng": 6.4593359,
-      "status": "Neu",
-      "statusLabel": "Frisch entlaufen",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/tgypptn9gn7b/attachment/fb2lzy5mrt7he9r4m1k7clbl1y8tse"
+        "/tickets/g4ppgm6tzc9m/attachment/mbienja7yr16ey1dxh5iaptatg5m1u"
       ]
     },
     {
@@ -134,7 +136,8 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/wd2y64nyz69z/attachment/1m36qcs02hlv0go3qdcfcitcdwotgl"
+        "/tickets/yfyg7zrww2ye/attachment/mqtzhdm0t2i7bdkj88zintxek8u1ie",
+        "/tickets/yfyg7zrww2ye/attachment/e6maemfvhqi0ttm3q8bfhtb6vt91dc"
       ]
     },
     {
@@ -164,7 +167,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/nw2dder9eytf/attachment/jxawzupth77g5ddnqdwx6p16rgddd4"
+        "/tickets/trfbk7wegppc/attachment/z0mjze8o30978mluyqr6n5u615tkjy"
       ]
     },
     {
@@ -204,13 +207,12 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.2054798,
       "lng": 6.4708904,
-      "status": "Neu",
-      "statusLabel": "Frisch entlaufen",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/e88wm5my7k9a/attachment/q4s66885k0kwk5n68i1uh4blnk94dm",
-        "/tickets/e88wm5my7k9a/attachment/vw7mfq4sam77zstqz7nxyccx3rfjlj"
+        "/tickets/32nz3g7baaab/attachment/h0v6qnysitwzzpsq9uel1c55d3lpqv"
       ]
     },
     {
@@ -315,7 +317,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/zpznd9debe4p/attachment/qtyicnz5e3ikkzuo3lzrw115vyf0ej"
+        "/tickets/8rnb9cfec5bc/attachment/sepis2niiwoxyt40xfur8g4l0f2ww8"
       ]
     },
     {
@@ -564,7 +566,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/zfg5gyb45y3f/attachment/hgcw26mu1ulz4zj1o4w0s7xztr7t98"
+        "/tickets/genm5eypnc4n/attachment/kdkyp68l3mnw3lmfcw9009yqpoz5lq"
       ]
     },
     {
@@ -862,12 +864,12 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.1942455,
       "lng": 6.4554073,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/zykytdezp98w/attachment/2xav6m1teninaiz791aj5kn97lhxj7"
+        "/tickets/955kz979ze44/attachment/7gse5gira3mnmfo4rchsf66yjt9sy9"
       ]
     },
     {
@@ -912,8 +914,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/cd8yk223kbzf/attachment/mytp5pvx520orb2xuggyyiaop6i5tl",
-        "/tickets/cd8yk223kbzf/attachment/tgj8kuf9td9yvbvuk8j65snwz0pxk2"
+        "/tickets/a34f94t3fnpm/attachment/4nk7r284r76yeaafy02y3cdqkord5r"
       ]
     },
     {
@@ -928,7 +929,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/yetgc927f52d/attachment/410zxrk19jlkddwiqvxmkdtgteg8ip"
+        "/tickets/fwazfmrpk52d/attachment/fsx98pmy74qhuhwp6gopfdn1g8wvbo"
       ]
     },
     {
@@ -989,7 +990,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/4b67cb7bwk2b/attachment/5zzwc33r33ozgxbln96i04z6txt278"
+        "/tickets/7f99anby8wtf/attachment/5xittzboyac7v13zsxu41u1g6tz90j"
       ]
     },
     {
