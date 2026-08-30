@@ -7334,5 +7334,65 @@
         "geloest": 0
       }
     }
+  },
+  {
+    "date": "2026-08-30",
+    "total": 70,
+    "neu": 1,
+    "inArbeit": 20,
+    "geloest": 49,
+    "totalMagsReports": 356,
+    "newSightings": 0,
+    "removed": 0,
+    "byNeighborhood": {
+      "Stadtmitte": {
+        "total": 2,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 2
+      },
+      "Lürrip / Hardterbroich": {
+        "total": 42,
+        "neu": 0,
+        "inArbeit": 10,
+        "geloest": 32
+      },
+      "Rheydt": {
+        "total": 12,
+        "neu": 1,
+        "inArbeit": 6,
+        "geloest": 5
+      },
+      "Neuwerk": {
+        "total": 4,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 3
+      },
+      "Eicken / Bonnenbroich": {
+        "total": 4,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 4
+      },
+      "Odenkirchen": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 1
+      },
+      "Mülfort": {
+        "total": 4,
+        "neu": 0,
+        "inArbeit": 2,
+        "geloest": 2
+      },
+      "Unbekannt": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      }
+    }
   }
 ]
