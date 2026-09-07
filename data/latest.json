@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-04T10:40:32.485Z",
-  "totalMagsReports": 299,
+  "fetchedAt": "2026-09-07T11:40:19.248Z",
+  "totalMagsReports": 293,
   "gittertiere": [
     {
       "uid": 2111,
@@ -78,21 +78,6 @@
       ]
     },
     {
-      "uid": 2363,
-      "street": "Ückelhofer Straße 1a",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1874188,
-      "lng": 6.4443665,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/trfbk7wegppc/attachment/z0mjze8o30978mluyqr6n5u615tkjy"
-      ]
-    },
-    {
       "uid": 2445,
       "street": "Zeppelinstraße 167",
       "zipcode": "41065",
@@ -105,97 +90,6 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/32nz3g7baaab/attachment/h0v6qnysitwzzpsq9uel1c55d3lpqv"
-      ]
-    },
-    {
-      "uid": 3006,
-      "street": "Gabelsberger Straße 66",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1883199,
-      "lng": 6.4598924,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/t3zwyztczr96/attachment/ent5laipg33ske35fckq5xhls9wrpu"
-      ]
-    },
-    {
-      "uid": 3007,
-      "street": "Myllendonker Straße 237",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.2103508,
-      "lng": 6.4857945,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/77mfmpw4mbtz/attachment/kr6hiqi2or3l4bl8m5pede5177r0ey",
-        "/tickets/77mfmpw4mbtz/attachment/8wtnwjs9lyujo9n1jrqvbif42kp0g0"
-      ]
-    },
-    {
-      "uid": 3010,
-      "street": "Volksgartenstraße 194",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1905993,
-      "lng": 6.4575953,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/pdern95843dt/attachment/w6wmbixk1awuchdlwuw94zsxrpad4j"
-      ]
-    },
-    {
-      "uid": 3013,
-      "street": "Volksgartenstraße 238",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1912473,
-      "lng": 6.4620121,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/tgcr6t874p7t/attachment/tadv1w480d8itz2jspqdmnw4pir7t0"
-      ]
-    },
-    {
-      "uid": 3014,
-      "street": "Grevenbroicher Straße 48",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.185565,
-      "lng": 6.4555759,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/8e2r29w9ceae/attachment/o8cpblalllubb6cic6lx6x9bkm8sng"
-      ]
-    },
-    {
-      "uid": 3020,
-      "street": "Grevenbroicher Straße 56",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1853503,
-      "lng": 6.4557969,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/28fbbe7z7kwt/attachment/ptlk58qfg5nlqwpc40zjaf4ktxg2bi"
       ]
     },
     {
@@ -286,21 +180,6 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/dcec7rrgaew3/attachment/i0bg0quhd35554lrsgmbn42flshxmv"
-      ]
-    },
-    {
-      "uid": 3301,
-      "street": "Myllendonker Straße 237",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.2103508,
-      "lng": 6.4857945,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/zkg7aprnbbz7/attachment/pj57xfekuat9n01kd159woorkin1mb"
       ]
     },
     {
@@ -634,6 +513,22 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/m4beczd3pdp9/attachment/tdjh1ziqbj4wgoh4mz4qthtvqcn7z8"
+      ]
+    },
+    {
+      "uid": 4817,
+      "street": "Myllendonker Straße 237",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2103508,
+      "lng": 6.4857945,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/77mfmpw4mbtz/attachment/kr6hiqi2or3l4bl8m5pede5177r0ey",
+        "/tickets/77mfmpw4mbtz/attachment/8wtnwjs9lyujo9n1jrqvbif42kp0g0"
       ]
     }
   ]
