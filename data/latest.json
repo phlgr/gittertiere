@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-08T10:39:16.253Z",
-  "totalMagsReports": 279,
+  "fetchedAt": "2026-09-09T10:48:44.914Z",
+  "totalMagsReports": 262,
   "gittertiere": [
     {
       "uid": 2111,
@@ -14,7 +14,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/we54gn5bfmg3/attachment/dte9fia3x8lwdhh6oewdrap9fslefw"
+        "/tickets/6a5t3b277zcc/attachment/ee3fyglt2mz1mt6yq87wksrv4405is"
       ]
     },
     {
@@ -29,7 +29,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/85423cr8wggb/attachment/4kg0192pxl18b1c6ub1drr2bm1n4ry"
+        "/tickets/attp64wnc6c8/attachment/gpu5kcnulttpwrq4vjj7n2bhgqulhp"
       ]
     },
     {
@@ -59,7 +59,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/g8a4ykdwfay6/attachment/9h8dthzdqkhvsa3oui2i79w9ztuk62"
+        "/tickets/8k45n8bafkf8/attachment/w0xs6oj998tg8rlvdozj63rhdinkmj"
       ]
     },
     {
@@ -74,7 +74,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/g4ppgm6tzc9m/attachment/mbienja7yr16ey1dxh5iaptatg5m1u"
+        "/tickets/8y5m6ecna7ad/attachment/wlx4c29labb33i4s7qetf2i4xpfyva"
       ]
     },
     {
@@ -89,7 +89,8 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/32nz3g7baaab/attachment/h0v6qnysitwzzpsq9uel1c55d3lpqv"
+        "/tickets/e88wm5my7k9a/attachment/q4s66885k0kwk5n68i1uh4blnk94dm",
+        "/tickets/e88wm5my7k9a/attachment/vw7mfq4sam77zstqz7nxyccx3rfjlj"
       ]
     },
     {
@@ -226,7 +227,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/955kz979ze44/attachment/7gse5gira3mnmfo4rchsf66yjt9sy9"
+        "/tickets/zykytdezp98w/attachment/2xav6m1teninaiz791aj5kn97lhxj7"
       ]
     },
     {
@@ -251,12 +252,13 @@
       "neighborhood": "Mülfort",
       "lat": 51.1581345,
       "lng": 6.4284636,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/a34f94t3fnpm/attachment/4nk7r284r76yeaafy02y3cdqkord5r"
+        "/tickets/cd8yk223kbzf/attachment/mytp5pvx520orb2xuggyyiaop6i5tl",
+        "/tickets/cd8yk223kbzf/attachment/tgj8kuf9td9yvbvuk8j65snwz0pxk2"
       ]
     },
     {
@@ -271,7 +273,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/fwazfmrpk52d/attachment/fsx98pmy74qhuhwp6gopfdn1g8wvbo"
+        "/tickets/yetgc927f52d/attachment/410zxrk19jlkddwiqvxmkdtgteg8ip"
       ]
     },
     {
@@ -312,8 +314,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1678694,
       "lng": 6.4508653,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -332,7 +334,7 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/7f99anby8wtf/attachment/5xittzboyac7v13zsxu41u1g6tz90j"
+        "/tickets/4b67cb7bwk2b/attachment/5zzwc33r33ozgxbln96i04z6txt278"
       ]
     },
     {
@@ -342,8 +344,8 @@
       "neighborhood": "Lürrip / Hardterbroich",
       "lat": 51.207634,
       "lng": 6.4631172,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -357,12 +359,12 @@
       "neighborhood": "Rheydt",
       "lat": 51.1693678,
       "lng": 6.4504249,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/n9rpytekr7df/attachment/pygrvrc4cserj14bghtanhw9zxz898"
+        "/tickets/gpt727w6z4g3/attachment/gxgzubatg3c0b13x74trl1t42meoor"
       ]
     },
     {
@@ -372,8 +374,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1630436,
       "lng": 6.4369645,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
@@ -403,8 +405,8 @@
       "neighborhood": "Giesenkirchen",
       "lat": 51.153824,
       "lng": 6.4899953,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": []
@@ -453,6 +455,36 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/m4beczd3pdp9/attachment/tdjh1ziqbj4wgoh4mz4qthtvqcn7z8"
+      ]
+    },
+    {
+      "uid": 4857,
+      "street": "Nakatenusstraße 1",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2041266,
+      "lng": 6.4638149,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "",
+      "locationname": "EKW Kaufland",
+      "images": [
+        "/tickets/n64e86dnc9nd/attachment/z5iah8klpb02mtb574kh1fbjk8ipoh"
+      ]
+    },
+    {
+      "uid": 4858,
+      "street": "Robert-Koch-Straße 4",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2009222,
+      "lng": 6.4589514,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "",
+      "locationname": "EKW Lidl",
+      "images": [
+        "/tickets/9k7969cey487/attachment/rxymv1wfmmqq1cew3ike523pmmuu4w"
       ]
     }
   ]
