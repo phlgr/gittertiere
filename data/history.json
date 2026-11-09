@@ -11258,5 +11258,29 @@
         "geloest": 0
       }
     }
+  },
+  {
+    "date": "2026-11-09",
+    "total": 7,
+    "neu": 1,
+    "inArbeit": 6,
+    "geloest": 0,
+    "totalMagsReports": 294,
+    "newSightings": 0,
+    "removed": 0,
+    "byNeighborhood": {
+      "Lürrip / Hardterbroich": {
+        "total": 6,
+        "neu": 1,
+        "inArbeit": 5,
+        "geloest": 0
+      },
+      "Giesenkirchen": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      }
+    }
   }
 ]
