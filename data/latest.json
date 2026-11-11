@@ -1,19 +1,51 @@
 {
-  "fetchedAt": "2026-11-10T14:23:54.637Z",
-  "totalMagsReports": 294,
+  "fetchedAt": "2026-11-11T13:37:57.004Z",
+  "totalMagsReports": 319,
   "gittertiere": [
     {
-      "uid": 4909,
-      "street": "Oststraße 51",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1900736,
-      "lng": 6.446167,
-      "status": "Neu",
-      "statusLabel": "Frisch entlaufen",
+      "uid": 5136,
+      "street": "Konstantinstraße 120",
+      "zipcode": "41238",
+      "neighborhood": "Giesenkirchen",
+      "lat": 51.1561511,
+      "lng": 6.4849357,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "",
+      "locationname": "EKW Rewe",
+      "images": [
+        "/tickets/mgbwerdprmkb/attachment/3x2nceeoaox29w8hf33ejrhrm60qgk"
+      ]
+    },
+    {
+      "uid": 5145,
+      "street": "Roermonder Straße 107",
+      "zipcode": "41068",
+      "neighborhood": "Uedding",
+      "lat": 51.1978451,
+      "lng": 6.4117088,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "",
+      "locationname": "EKW Lidl",
+      "images": [
+        "/tickets/pdbkga9f2cpe/attachment/aj4zlyu4k9fo2vsfqkk7374flgl06f"
+      ]
+    },
+    {
+      "uid": 5148,
+      "street": "Berliner Straße  38",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1571384,
+      "lng": 6.4444054,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
-      "images": []
+      "images": [
+        "/tickets/6p6mweaedm72/attachment/3u2tzrvbdk1ookrxv373vpm5givocf"
+      ]
     },
     {
       "uid": 5019,
@@ -77,22 +109,6 @@
       "images": []
     },
     {
-      "uid": 5031,
-      "street": "Pescher Straße 226",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1946463,
-      "lng": 6.4580405,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "",
-      "locationname": "EKW Kaufland",
-      "images": [
-        "/tickets/ew9adp6ef2z3/attachment/betvxyg3fxrnt1l4ua217kko4d949r",
-        "/tickets/ew9adp6ef2z3/attachment/f9gnclvz2e5wrfhuhi50ssdtoacrh9"
-      ]
-    },
-    {
       "uid": 5037,
       "street": "Carl-Diem-Straße 2",
       "zipcode": "41065",
@@ -106,6 +122,50 @@
       "images": [
         "/tickets/mndm55rne2dy/attachment/40cl7zxquvbzv6vciiixioyc21ptxu",
         "/tickets/mndm55rne2dy/attachment/mtt8ts98hgpxcj726z2mej86agz5xb"
+      ]
+    },
+    {
+      "uid": 5203,
+      "street": "Kochschulstraße 59",
+      "zipcode": "41199",
+      "neighborhood": "Odenkirchen",
+      "lat": 51.1479287,
+      "lng": 6.4513407,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "",
+      "locationname": "EKW und Müll",
+      "images": [
+        "/tickets/7bnpycm288pc/attachment/zl18xo65xro8nbod5ag2hnpm6kfigt"
+      ]
+    },
+    {
+      "uid": 4909,
+      "street": "Oststraße 51",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1900736,
+      "lng": 6.446167,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": []
+    },
+    {
+      "uid": 5031,
+      "street": "Pescher Straße 226",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1946463,
+      "lng": 6.4580405,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "",
+      "locationname": "EKW Kaufland",
+      "images": [
+        "/tickets/ew9adp6ef2z3/attachment/betvxyg3fxrnt1l4ua217kko4d949r",
+        "/tickets/ew9adp6ef2z3/attachment/f9gnclvz2e5wrfhuhi50ssdtoacrh9"
       ]
     }
   ]
