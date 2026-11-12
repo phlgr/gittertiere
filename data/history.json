@@ -11348,5 +11348,47 @@
         "geloest": 1
       }
     }
+  },
+  {
+    "date": "2026-11-12",
+    "total": 11,
+    "neu": 0,
+    "inArbeit": 8,
+    "geloest": 3,
+    "totalMagsReports": 305,
+    "newSightings": 0,
+    "removed": 0,
+    "byNeighborhood": {
+      "Giesenkirchen": {
+        "total": 2,
+        "neu": 0,
+        "inArbeit": 2,
+        "geloest": 0
+      },
+      "Uedding": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      },
+      "Rheydt": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      },
+      "Lürrip / Hardterbroich": {
+        "total": 6,
+        "neu": 0,
+        "inArbeit": 4,
+        "geloest": 2
+      },
+      "Odenkirchen": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 1
+      }
+    }
   }
 ]
