@@ -1,7 +1,20 @@
 {
-  "fetchedAt": "2026-11-12T14:41:16.159Z",
-  "totalMagsReports": 305,
+  "fetchedAt": "2026-11-13T13:58:22.082Z",
+  "totalMagsReports": 281,
   "gittertiere": [
+    {
+      "uid": 5274,
+      "street": "Pötterstraße  36",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1717608,
+      "lng": 6.4516354,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": []
+    },
     {
       "uid": 5136,
       "street": "Konstantinstraße 120",
