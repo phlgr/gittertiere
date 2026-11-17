@@ -11558,5 +11558,59 @@
         "geloest": 1
       }
     }
+  },
+  {
+    "date": "2026-11-17",
+    "total": 24,
+    "neu": 0,
+    "inArbeit": 21,
+    "geloest": 3,
+    "totalMagsReports": 286,
+    "newSightings": 12,
+    "removed": 0,
+    "byNeighborhood": {
+      "Wickrath": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      },
+      "Stadtmitte": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      },
+      "Rheydt": {
+        "total": 6,
+        "neu": 0,
+        "inArbeit": 6,
+        "geloest": 0
+      },
+      "Lürrip / Hardterbroich": {
+        "total": 12,
+        "neu": 0,
+        "inArbeit": 10,
+        "geloest": 2
+      },
+      "Giesenkirchen": {
+        "total": 2,
+        "neu": 0,
+        "inArbeit": 2,
+        "geloest": 0
+      },
+      "Uedding": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      },
+      "Odenkirchen": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 1
+      }
+    }
   }
 ]

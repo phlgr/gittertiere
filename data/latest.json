@@ -1,7 +1,174 @@
 {
-  "fetchedAt": "2026-11-16T14:53:24.053Z",
-  "totalMagsReports": 285,
+  "fetchedAt": "2026-11-17T15:31:47.342Z",
+  "totalMagsReports": 286,
   "gittertiere": [
+    {
+      "uid": 5288,
+      "street": "Klosterstraße 8",
+      "zipcode": "41189",
+      "neighborhood": "Wickrath",
+      "lat": 51.1296999,
+      "lng": 6.4123213,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/knzcfk5ezke3/attachment/1le0h801hhwk969btba53ywkgetay0"
+      ]
+    },
+    {
+      "uid": 5308,
+      "street": "Windthorststraße 2",
+      "zipcode": "41061",
+      "neighborhood": "Stadtmitte",
+      "lat": 51.1961505,
+      "lng": 6.4256448,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "",
+      "locationname": "EKW Netto",
+      "images": []
+    },
+    {
+      "uid": 5309,
+      "street": "Friedrich-Ebert-Straße 55",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1674618,
+      "lng": 6.4407325,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "",
+      "locationname": "EKW",
+      "images": [
+        "/tickets/7w96e68nny6b/attachment/q7kbuuauutjv416eghnsz3p16eieyu",
+        "/tickets/7w96e68nny6b/attachment/to1xo5zuymc1vr1xqo91ytcv0h0n57"
+      ]
+    },
+    {
+      "uid": 5310,
+      "street": "Dessauer Straße  48",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1868644,
+      "lng": 6.4410664,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": []
+    },
+    {
+      "uid": 5311,
+      "street": "Dessauer Straße  22",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1858712,
+      "lng": 6.4407847,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": []
+    },
+    {
+      "uid": 5304,
+      "street": "Neusser Straße  26",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2031122,
+      "lng": 6.4576492,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": []
+    },
+    {
+      "uid": 5307,
+      "street": "Neusser Straße  2d",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.202821,
+      "lng": 6.4556267,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/5dm7m7z84nd3/attachment/47p7k11x7bcjeggcgn9r9lt4dw3550"
+      ]
+    },
+    {
+      "uid": 5303,
+      "street": "Kuhlenweg  1",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1556729,
+      "lng": 6.4406601,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/dc7y3etdpgy2/attachment/w5pbm3so6yeihktgmpqrqbcgwcdca0"
+      ]
+    },
+    {
+      "uid": 5305,
+      "street": "Linienstraße  13",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1939643,
+      "lng": 6.4574815,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": []
+    },
+    {
+      "uid": 5306,
+      "street": "Blumenstraße 39-41",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1749592,
+      "lng": 6.441119,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": []
+    },
+    {
+      "uid": 5312,
+      "street": "Grevenbroicher Straße  48",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.185565,
+      "lng": 6.4555759,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": []
+    },
+    {
+      "uid": 5289,
+      "street": "Lehwaldstraße  88",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1613822,
+      "lng": 6.4526401,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/5bmgrfnd8tcb/attachment/e8ar63aq06x3f7dhtry2i1zj2urmhu"
+      ]
+    },
     {
       "uid": 5274,
       "street": "Pötterstraße  36",
