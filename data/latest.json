@@ -1,7 +1,22 @@
 {
-  "fetchedAt": "2026-11-17T15:31:47.342Z",
-  "totalMagsReports": 286,
+  "fetchedAt": "2026-11-18T15:09:44.060Z",
+  "totalMagsReports": 285,
   "gittertiere": [
+    {
+      "uid": 5345,
+      "street": "Neuwerker Straße 1",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2045342,
+      "lng": 6.4736854,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/d9g3am4tzc6e/attachment/463p4xqhy8775ekavh7b0k3aaaw4gj"
+      ]
+    },
     {
       "uid": 5288,
       "street": "Klosterstraße 8",
@@ -198,21 +213,6 @@
       ]
     },
     {
-      "uid": 5145,
-      "street": "Roermonder Straße 107",
-      "zipcode": "41068",
-      "neighborhood": "Uedding",
-      "lat": 51.1978451,
-      "lng": 6.4117088,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "",
-      "locationname": "EKW Lidl",
-      "images": [
-        "/tickets/pdbkga9f2cpe/attachment/aj4zlyu4k9fo2vsfqkk7374flgl06f"
-      ]
-    },
-    {
       "uid": 5148,
       "street": "Berliner Straße  38",
       "zipcode": "41236",
@@ -228,80 +228,18 @@
       ]
     },
     {
-      "uid": 5019,
-      "street": "Volksgartenstraße 124",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1902172,
-      "lng": 6.4527965,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "uid": 5145,
+      "street": "Roermonder Straße 107",
+      "zipcode": "41068",
+      "neighborhood": "Uedding",
+      "lat": 51.1978451,
+      "lng": 6.4117088,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "",
-      "locationname": "EKW Kaufland",
+      "locationname": "EKW Lidl",
       "images": [
-        "/tickets/zd4rr5gkgkkr/attachment/rpa0uj5i6588t2i3qh689pg9a8yujf",
-        "/tickets/zd4rr5gkgkkr/attachment/j2boqnikaz6ab44vw08j1hj86i0t80"
-      ]
-    },
-    {
-      "uid": 5020,
-      "street": "Karl-Kämpf-Allee 27",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1928858,
-      "lng": 6.4501514,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "",
-      "locationname": "EKW Kaufland",
-      "images": [
-        "/tickets/dcy6bep6nat3/attachment/9muim26nx9epzswwnzuhu3zs9qsou3",
-        "/tickets/dcy6bep6nat3/attachment/778ezd8s0g03mw477z0minl4c98esa"
-      ]
-    },
-    {
-      "uid": 5021,
-      "street": "Konstantinstraße 83",
-      "zipcode": "41238",
-      "neighborhood": "Giesenkirchen",
-      "lat": 51.157246,
-      "lng": 6.4833327,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "",
-      "locationname": "EKW Rewe",
-      "images": [
-        "/tickets/9c9agky7da27/attachment/hfgj3556qmrbxsb3f4sgonxis19i4k",
-        "/tickets/9c9agky7da27/attachment/un2c0279u1dep5wrrzbu7mi7nur0m4"
-      ]
-    },
-    {
-      "uid": 5029,
-      "street": "Volksgartenstraße 128",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1905167,
-      "lng": 6.4528329,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": []
-    },
-    {
-      "uid": 5037,
-      "street": "Carl-Diem-Straße 2",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1914573,
-      "lng": 6.4637097,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "",
-      "locationname": "EKW Netto",
-      "images": [
-        "/tickets/mndm55rne2dy/attachment/40cl7zxquvbzv6vciiixioyc21ptxu",
-        "/tickets/mndm55rne2dy/attachment/mtt8ts98hgpxcj726z2mej86agz5xb"
+        "/tickets/pdbkga9f2cpe/attachment/aj4zlyu4k9fo2vsfqkk7374flgl06f"
       ]
     },
     {
@@ -333,6 +271,67 @@
       "images": []
     },
     {
+      "uid": 5019,
+      "street": "Volksgartenstraße 124",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1902172,
+      "lng": 6.4527965,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "",
+      "locationname": "EKW Kaufland",
+      "images": [
+        "/tickets/zd4rr5gkgkkr/attachment/rpa0uj5i6588t2i3qh689pg9a8yujf",
+        "/tickets/zd4rr5gkgkkr/attachment/j2boqnikaz6ab44vw08j1hj86i0t80"
+      ]
+    },
+    {
+      "uid": 5020,
+      "street": "Karl-Kämpf-Allee 27",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1928858,
+      "lng": 6.4501514,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "",
+      "locationname": "EKW Kaufland",
+      "images": [
+        "/tickets/dcy6bep6nat3/attachment/9muim26nx9epzswwnzuhu3zs9qsou3",
+        "/tickets/dcy6bep6nat3/attachment/778ezd8s0g03mw477z0minl4c98esa"
+      ]
+    },
+    {
+      "uid": 5021,
+      "street": "Konstantinstraße 83",
+      "zipcode": "41238",
+      "neighborhood": "Giesenkirchen",
+      "lat": 51.157246,
+      "lng": 6.4833327,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "",
+      "locationname": "EKW Rewe",
+      "images": [
+        "/tickets/9c9agky7da27/attachment/hfgj3556qmrbxsb3f4sgonxis19i4k",
+        "/tickets/9c9agky7da27/attachment/un2c0279u1dep5wrrzbu7mi7nur0m4"
+      ]
+    },
+    {
+      "uid": 5029,
+      "street": "Volksgartenstraße 128",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1905167,
+      "lng": 6.4528329,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": []
+    },
+    {
       "uid": 5031,
       "street": "Pescher Straße 226",
       "zipcode": "41065",
@@ -346,6 +345,22 @@
       "images": [
         "/tickets/ew9adp6ef2z3/attachment/betvxyg3fxrnt1l4ua217kko4d949r",
         "/tickets/ew9adp6ef2z3/attachment/f9gnclvz2e5wrfhuhi50ssdtoacrh9"
+      ]
+    },
+    {
+      "uid": 5037,
+      "street": "Carl-Diem-Straße 2",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.1914573,
+      "lng": 6.4637097,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "",
+      "locationname": "EKW Netto",
+      "images": [
+        "/tickets/mndm55rne2dy/attachment/40cl7zxquvbzv6vciiixioyc21ptxu",
+        "/tickets/mndm55rne2dy/attachment/mtt8ts98hgpxcj726z2mej86agz5xb"
       ]
     }
   ]
