@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-18T15:09:44.060Z",
-  "totalMagsReports": 285,
+  "fetchedAt": "2026-11-19T15:17:56.094Z",
+  "totalMagsReports": 293,
   "gittertiere": [
     {
       "uid": 5345,
@@ -258,19 +258,6 @@
       ]
     },
     {
-      "uid": 4909,
-      "street": "Oststraße 51",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1900736,
-      "lng": 6.446167,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": []
-    },
-    {
       "uid": 5019,
       "street": "Volksgartenstraße 124",
       "zipcode": "41065",
@@ -330,22 +317,6 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": []
-    },
-    {
-      "uid": 5031,
-      "street": "Pescher Straße 226",
-      "zipcode": "41065",
-      "neighborhood": "Lürrip / Hardterbroich",
-      "lat": 51.1946463,
-      "lng": 6.4580405,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "",
-      "locationname": "EKW Kaufland",
-      "images": [
-        "/tickets/ew9adp6ef2z3/attachment/betvxyg3fxrnt1l4ua217kko4d949r",
-        "/tickets/ew9adp6ef2z3/attachment/f9gnclvz2e5wrfhuhi50ssdtoacrh9"
-      ]
     },
     {
       "uid": 5037,
