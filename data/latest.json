@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-19T15:17:56.094Z",
-  "totalMagsReports": 293,
+  "fetchedAt": "2026-11-20T14:56:22.891Z",
+  "totalMagsReports": 313,
   "gittertiere": [
     {
       "uid": 5345,
@@ -240,21 +240,6 @@
       "locationname": "EKW Lidl",
       "images": [
         "/tickets/pdbkga9f2cpe/attachment/aj4zlyu4k9fo2vsfqkk7374flgl06f"
-      ]
-    },
-    {
-      "uid": 5203,
-      "street": "Kochschulstraße 59",
-      "zipcode": "41199",
-      "neighborhood": "Odenkirchen",
-      "lat": 51.1479287,
-      "lng": 6.4513407,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "",
-      "locationname": "EKW und Müll",
-      "images": [
-        "/tickets/7bnpycm288pc/attachment/zl18xo65xro8nbod5ag2hnpm6kfigt"
       ]
     },
     {
