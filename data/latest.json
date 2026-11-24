@@ -1,7 +1,52 @@
 {
-  "fetchedAt": "2026-11-23T17:28:27.371Z",
-  "totalMagsReports": 321,
+  "fetchedAt": "2026-11-24T16:59:57.081Z",
+  "totalMagsReports": 353,
   "gittertiere": [
+    {
+      "uid": 5541,
+      "street": "Neusser Straße  180",
+      "zipcode": "41065",
+      "neighborhood": "Lürrip / Hardterbroich",
+      "lat": 51.2037304,
+      "lng": 6.4684862,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/9fm8dynmpe9w/attachment/6h3xd8qhnjpzyxeohzzsoshzzgazz8"
+      ]
+    },
+    {
+      "uid": 5497,
+      "street": "Heydener Gasse -",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1577179,
+      "lng": 6.4522554,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen Netto",
+      "images": [
+        "/tickets/net3nrytkmen/attachment/csocf6crqoug32du68ls5995x3j833"
+      ]
+    },
+    {
+      "uid": 5496,
+      "street": "Wilhelm-Strauß-Straße 74",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1679444,
+      "lng": 6.4522205,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "",
+      "locationname": "EKW Aldi",
+      "images": [
+        "/tickets/t2r6g295r6ye/attachment/v7gk4ox6n03g9ffy8kp2ojc3eygddb"
+      ]
+    },
     {
       "uid": 5345,
       "street": "Neuwerker Straße 1",
@@ -191,8 +236,8 @@
       "neighborhood": "Rheydt",
       "lat": 51.1717608,
       "lng": 6.4516354,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": []
@@ -204,27 +249,12 @@
       "neighborhood": "Giesenkirchen",
       "lat": 51.1561511,
       "lng": 6.4849357,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
       "responsible": "",
       "locationname": "EKW Rewe",
       "images": [
         "/tickets/mgbwerdprmkb/attachment/3x2nceeoaox29w8hf33ejrhrm60qgk"
-      ]
-    },
-    {
-      "uid": 5148,
-      "street": "Berliner Straße  38",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1571384,
-      "lng": 6.4444054,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/6p6mweaedm72/attachment/3u2tzrvbdk1ookrxv373vpm5givocf"
       ]
     },
     {
@@ -240,6 +270,21 @@
       "locationname": "EKW Lidl",
       "images": [
         "/tickets/pdbkga9f2cpe/attachment/aj4zlyu4k9fo2vsfqkk7374flgl06f"
+      ]
+    },
+    {
+      "uid": 5148,
+      "street": "Berliner Straße  38",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1571384,
+      "lng": 6.4444054,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/6p6mweaedm72/attachment/3u2tzrvbdk1ookrxv373vpm5givocf"
       ]
     },
     {
