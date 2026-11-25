@@ -1,7 +1,22 @@
 {
-  "fetchedAt": "2026-11-24T16:59:57.081Z",
-  "totalMagsReports": 353,
+  "fetchedAt": "2026-11-25T16:50:41.282Z",
+  "totalMagsReports": 371,
   "gittertiere": [
+    {
+      "uid": 5550,
+      "street": "Kurfürstenstraße 5",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1629331,
+      "lng": 6.4545527,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/m7k6wcafk3f2/attachment/amafnq1o0y17eqphpq1bfjfj3pmzht"
+      ]
+    },
     {
       "uid": 5541,
       "street": "Neusser Straße  180",
@@ -15,6 +30,21 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/9fm8dynmpe9w/attachment/6h3xd8qhnjpzyxeohzzsoshzzgazz8"
+      ]
+    },
+    {
+      "uid": 5549,
+      "street": "Von-Galen-Straße 86",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1615004,
+      "lng": 6.4499939,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/pa582fy9pee5/attachment/b4euj9cmwug0g48rzm3mubdr6s14pa"
       ]
     },
     {
