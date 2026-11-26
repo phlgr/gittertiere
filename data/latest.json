@@ -1,7 +1,53 @@
 {
-  "fetchedAt": "2026-11-25T16:50:41.282Z",
-  "totalMagsReports": 371,
+  "fetchedAt": "2026-11-26T16:27:27.628Z",
+  "totalMagsReports": 388,
   "gittertiere": [
+    {
+      "uid": 5594,
+      "street": "Brucknerallee 193",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1764264,
+      "lng": 6.4422679,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/8z6pmdfm5m69/attachment/co3dqq3i0kj624b2g8qh85fnj6wgdx"
+      ]
+    },
+    {
+      "uid": 5590,
+      "street": "Wilhelm-Strauß-Straße 87",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1681122,
+      "lng": 6.4523506,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/eya86k398f93/attachment/eqo5udbyz69o622ecpt92dezhgnlt0",
+        "/tickets/eya86k398f93/attachment/zawareoahj42tj65fsee875qzxe9lf"
+      ]
+    },
+    {
+      "uid": 5589,
+      "street": "Gasstraße 188",
+      "zipcode": "41238",
+      "neighborhood": "Giesenkirchen",
+      "lat": 51.1605489,
+      "lng": 6.4577381,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/nf6et9frkwbd/attachment/zyg7ex5ugixomjz754sbx52bmmuda5"
+      ]
+    },
     {
       "uid": 5550,
       "street": "Kurfürstenstraße 5",
@@ -18,6 +64,21 @@
       ]
     },
     {
+      "uid": 5595,
+      "street": "Keplerstraße 113",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1626749,
+      "lng": 6.4550506,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/2gagztzr3rpd/attachment/4xhmywpd01eld08kame0ewhllqk5jd"
+      ]
+    },
+    {
       "uid": 5541,
       "street": "Neusser Straße  180",
       "zipcode": "41065",
@@ -30,6 +91,37 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/9fm8dynmpe9w/attachment/6h3xd8qhnjpzyxeohzzsoshzzgazz8"
+      ]
+    },
+    {
+      "uid": 5586,
+      "street": "Keplerstraße 98",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1621523,
+      "lng": 6.4531582,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/8ee8pg962ycy/attachment/ziaiboa8nwdt8fybn2ge4r6evidkyi",
+        "/tickets/8ee8pg962ycy/attachment/bfqp3crk487x6kx83jo3r7ngroyscj"
+      ]
+    },
+    {
+      "uid": 5585,
+      "street": "Lehwaldstraße 88",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1613822,
+      "lng": 6.4526401,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/m44epkdayp5m/attachment/1kn4dq540cacrxcwzyvgc2i1rwbvu4"
       ]
     },
     {
@@ -392,6 +484,36 @@
       "images": [
         "/tickets/mndm55rne2dy/attachment/40cl7zxquvbzv6vciiixioyc21ptxu",
         "/tickets/mndm55rne2dy/attachment/mtt8ts98hgpxcj726z2mej86agz5xb"
+      ]
+    },
+    {
+      "uid": 5593,
+      "street": "Brucknerallee 193",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1764264,
+      "lng": 6.4422679,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/73ymfebrzz8m/attachment/iu4yq0y094v4dq3ch1ie0wpapmmuyh"
+      ]
+    },
+    {
+      "uid": 5584,
+      "street": "Koblenzer Straße 10",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1610288,
+      "lng": 6.4514125,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/yetgc927f52d/attachment/410zxrk19jlkddwiqvxmkdtgteg8ip"
       ]
     }
   ]
