@@ -1,7 +1,22 @@
 {
-  "fetchedAt": "2026-11-27T16:12:41.797Z",
+  "fetchedAt": "2026-11-28T15:05:38.221Z",
   "totalMagsReports": 388,
   "gittertiere": [
+    {
+      "uid": 5593,
+      "street": "Brucknerallee 193",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1764264,
+      "lng": 6.4422679,
+      "status": "In Arbeit",
+      "statusLabel": "Einfangversuch läuft",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/8z6pmdfm5m69/attachment/co3dqq3i0kj624b2g8qh85fnj6wgdx"
+      ]
+    },
     {
       "uid": 5594,
       "street": "Brucknerallee 193",
@@ -61,21 +76,6 @@
       "locationname": "Einkaufswagen",
       "images": [
         "/tickets/m7k6wcafk3f2/attachment/amafnq1o0y17eqphpq1bfjfj3pmzht"
-      ]
-    },
-    {
-      "uid": 5595,
-      "street": "Keplerstraße 113",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1626749,
-      "lng": 6.4550506,
-      "status": "In Arbeit",
-      "statusLabel": "Einfangversuch läuft",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/2gagztzr3rpd/attachment/4xhmywpd01eld08kame0ewhllqk5jd"
       ]
     },
     {
@@ -487,21 +487,6 @@
       ]
     },
     {
-      "uid": 5593,
-      "street": "Brucknerallee 193",
-      "zipcode": "41236",
-      "neighborhood": "Rheydt",
-      "lat": 51.1764264,
-      "lng": 6.4422679,
-      "status": "Gelöst",
-      "statusLabel": "Zurück im Gehege",
-      "responsible": "MAGS",
-      "locationname": "Einkaufswagen",
-      "images": [
-        "/tickets/73ymfebrzz8m/attachment/iu4yq0y094v4dq3ch1ie0wpapmmuyh"
-      ]
-    },
-    {
       "uid": 5584,
       "street": "Koblenzer Straße 10",
       "zipcode": "41236",
@@ -513,7 +498,22 @@
       "responsible": "MAGS",
       "locationname": "Einkaufswagen",
       "images": [
-        "/tickets/yetgc927f52d/attachment/410zxrk19jlkddwiqvxmkdtgteg8ip"
+        "/tickets/fwazfmrpk52d/attachment/fsx98pmy74qhuhwp6gopfdn1g8wvbo"
+      ]
+    },
+    {
+      "uid": 5595,
+      "street": "Keplerstraße 113",
+      "zipcode": "41236",
+      "neighborhood": "Rheydt",
+      "lat": 51.1626749,
+      "lng": 6.4550506,
+      "status": "Gelöst",
+      "statusLabel": "Zurück im Gehege",
+      "responsible": "MAGS",
+      "locationname": "Einkaufswagen",
+      "images": [
+        "/tickets/5n69pfc58222/attachment/b3d8n05br0g1afk0rjcne1h6tuk2fr"
       ]
     }
   ]

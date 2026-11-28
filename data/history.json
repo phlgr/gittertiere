@@ -12104,5 +12104,53 @@
         "geloest": 1
       }
     }
+  },
+  {
+    "date": "2026-11-28",
+    "total": 35,
+    "neu": 0,
+    "inArbeit": 24,
+    "geloest": 11,
+    "totalMagsReports": 388,
+    "newSightings": 0,
+    "removed": 0,
+    "byNeighborhood": {
+      "Rheydt": {
+        "total": 17,
+        "neu": 0,
+        "inArbeit": 13,
+        "geloest": 4
+      },
+      "Giesenkirchen": {
+        "total": 3,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 2
+      },
+      "Lürrip / Hardterbroich": {
+        "total": 12,
+        "neu": 0,
+        "inArbeit": 8,
+        "geloest": 4
+      },
+      "Wickrath": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      },
+      "Stadtmitte": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 1,
+        "geloest": 0
+      },
+      "Uedding": {
+        "total": 1,
+        "neu": 0,
+        "inArbeit": 0,
+        "geloest": 1
+      }
+    }
   }
 ]
